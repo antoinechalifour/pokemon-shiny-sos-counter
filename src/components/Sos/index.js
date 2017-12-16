@@ -48,7 +48,7 @@ class Sos extends Component {
 
   async fetchPokemonFromApi (pokemonId) {
     const response = await axios.get(
-      `https://pokeapi.co/api/v2/pokemon/${this.props.pokemonId}`
+      `https://pokeapi.co/api/v2/pokemon/${pokemonId}`
     )
 
     return response.data
