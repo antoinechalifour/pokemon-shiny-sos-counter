@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
+import DeleteIcon from 'react-icons/lib/md/delete'
 import Input from 'components/ui/Input'
 import Checkbox from 'components/ui/Checkbox'
 import Moves from './Moves'
@@ -39,6 +40,8 @@ class Chain extends Component {
     })
   }
 
+  onReset = () => this.updateChain(() => ({ chain: 0 }))
+
   onIncrement = () => this.updateChain(ls => ({ chain: ls.chain + 1 }))
 
   onDecrement = () => this.updateChain(ls => ({ chain: ls.chain - 1 }))
@@ -54,15 +57,21 @@ class Chain extends Component {
           <div>
             <OptionsSection>
               <SubTitle>Options</SubTitle>
-              <label htmlFor='has-shiny-charm'>
-                <Checkbox
-                  id='has-shiny-charm'
-                  type='checkbox'
-                  checked={this.state.hasShinyCharm}
-                  onChange={this.onShinyCharmChange}
-                />
-                &nbsp;&nbsp;Shiny Charm
-              </label>
+              <Option>
+                <label htmlFor='has-shiny-charm'>
+                  <Checkbox
+                    id='has-shiny-charm'
+                    type='checkbox'
+                    checked={this.state.hasShinyCharm}
+                    onChange={this.onShinyCharmChange}
+                  />
+                  &nbsp;&nbsp;&nbsp;Shiny Charm
+                </label>
+              </Option>
+              <Option onClick={this.onReset}>
+                <DeleteIcon />
+                &nbsp;Reset Chain
+              </Option>
             </OptionsSection>
 
             <ProbabilitiesSection>
@@ -152,6 +161,18 @@ const Counter = styled.div`
 
 const OptionsSection = styled.div`
   flex: 1;
+`
+
+const Option = styled.div`
+  cursor: pointer;
+  padding: 8px;
+
+  svg {
+    font-size: 24px;
+    position: relative;
+    left: -3px;
+    top: -2px;
+  }
 `
 
 const ProbabilitiesSection = styled.div`
