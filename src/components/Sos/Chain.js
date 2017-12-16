@@ -126,7 +126,9 @@ const Sprite = styled.img`
 `
 
 const Card = styled.div`
-  background: rgba(0, 0, 0, .15);
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .24);
+  color: #373d3f;
   border-radius: 4px;
   flex: 1;
   display: flex;
@@ -139,7 +141,7 @@ const Card = styled.div`
   }
 
   > div + div {
-    border-left: 1px solid rgba(255, 255, 255, .15);
+    border-left: 1px solid rgba(0, 0, 0, .15);
   }
 `
 
@@ -148,7 +150,7 @@ const SubTitle = styled.div`
   text-align: center;
   padding-bottom: 8px;
   margin-bottom: 8px;
-  border-bottom: 1px solid rgba(255, 255, 255, .15);
+  border-bottom: 1px solid rgba(0, 0, 0, .15);
 `
 
 const Counter = styled.div`
@@ -206,7 +208,7 @@ const LevelInput = styled(Input)`
   padding: 8px 12px;
 
   ::placeholder {
-    color: rgba(255, 255, 255, .65);
+    color: rgba(0, 0, 0, .65);
   }
 `
 

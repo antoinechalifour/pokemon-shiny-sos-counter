@@ -12,22 +12,54 @@ const Wrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   height: 100vh;
-  background: #3F51B5;
+  background: ${({ color }) => color || '#3F51B5'};
   color: #fff;
+  transition: background .3s ease-in;
 `
 
 class App extends Component {
+  state = {
+    color: null
+  }
+
   onPokemon = pokemonId => {
     this.props.history.push(`/pokemon/${pokemonId}`)
   }
 
+  updateTheme = type => {
+    const colorMap = {
+      water: '#E3F2FD',
+      psychic: '#FCE4EC',
+      poison: '#F3E5F5',
+      ground: '#EFEBE9',
+      flying: '#FAFAFA',
+      fire: '#FFEBEE',
+      dragon: '#E8EAF6',
+      ice: '#03A9F4',
+      dark: '#212121',
+      fairy: '#FCE4EC',
+      bug: '#F9FBE7'
+    }
+
+    if (colorMap[type.name]) {
+      this.setState({ color: colorMap[type.name] })
+    } else {
+      console.warn('No theme for type', type)
+    }
+  }
+
   render () {
     return (
-      <Wrapper>
+      <Wrapper color={this.state.color}>
         <SearchPokemon onPokemon={this.onPokemon} />
         <Route
           path='/pokemon/:id'
-          render={({ match }) => <Sos pokemonId={Number(match.params.id)} />}
+          render={({ match }) => (
+            <Sos
+              pokemonId={Number(match.params.id)}
+              updateTheme={this.updateTheme}
+            />
+          )}
         />
       </Wrapper>
     )

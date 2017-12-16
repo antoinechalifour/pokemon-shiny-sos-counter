@@ -6,7 +6,8 @@ import Chain from './Chain'
 
 class Sos extends Component {
   static propTypes = {
-    pokemonId: PropTypes.number.isRequired
+    pokemonId: PropTypes.number.isRequired,
+    updateTheme: PropTypes.func.isRequired
   }
 
   state = {
@@ -28,6 +29,8 @@ class Sos extends Component {
     }
 
     this.setState({ pokemon })
+
+    this.props.updateTheme(pokemon.types[0].type)
   }
 
   fetchPokemonFromLocalStorage (pokemonId) {
