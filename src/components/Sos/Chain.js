@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import Input from 'components/ui/Input'
+import Checkbox from 'components/ui/Checkbox'
 import Moves from './Moves'
 
 class Chain extends Component {
@@ -13,8 +14,12 @@ class Chain extends Component {
 
   state = {
     chain: 0,
-    level: null
+    level: null,
+    hasShinyCharm: false
   }
+
+  onShinyCharmChange = () =>
+    this.setState(ls => ({ hasShinyCharm: !ls.hasShinyCharm }))
 
   onIncrement = () => this.setState(ls => ({ chain: ls.chain + 1 }))
 
@@ -32,6 +37,15 @@ class Chain extends Component {
           <div>
             <Options>
               <SubTitle>Options</SubTitle>
+              <label htmlFor='has-shiny-charm'>
+                <Checkbox
+                  id='has-shiny-charm'
+                  type='checkbox'
+                  checked={this.state.hasShinyCharm}
+                  onChange={this.onShinyCharmChange}
+                />
+                &nbsp;&nbsp;Shiny Charm
+              </label>
             </Options>
 
             <Probabilities>
