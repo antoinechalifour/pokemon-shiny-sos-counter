@@ -1,0 +1,12478 @@
+{
+  "1": {
+    "id": 1,
+    "names": [
+      "妙蛙种子",
+      "フシギダネ",
+      "Bulbasaur",
+      "Bulbasaur",
+      "Bulbasaur",
+      "Bisasam",
+      "Bulbizarre",
+      "妙蛙種子",
+      "이상해씨",
+      "Fushigidane",
+      "フシギダネ"
+    ]
+  },
+  "2": {
+    "id": 2,
+    "names": [
+      "妙蛙草",
+      "フシギソウ",
+      "Ivysaur",
+      "Ivysaur",
+      "Ivysaur",
+      "Bisaknosp",
+      "Herbizarre",
+      "妙蛙草",
+      "이상해풀",
+      "Fushigisou",
+      "フシギソウ"
+    ]
+  },
+  "3": {
+    "id": 3,
+    "names": [
+      "妙蛙花",
+      "フシギバナ",
+      "Venusaur",
+      "Venusaur",
+      "Venusaur",
+      "Bisaflor",
+      "Florizarre",
+      "妙蛙花",
+      "이상해꽃",
+      "Fushigibana",
+      "フシギバナ"
+    ]
+  },
+  "4": {
+    "id": 4,
+    "names": [
+      "小火龙",
+      "ヒトカゲ",
+      "Charmander",
+      "Charmander",
+      "Charmander",
+      "Glumanda",
+      "Salamèche",
+      "小火龍",
+      "파이리",
+      "Hitokage",
+      "ヒトカゲ"
+    ]
+  },
+  "5": {
+    "id": 5,
+    "names": [
+      "火恐龙",
+      "リザード",
+      "Charmeleon",
+      "Charmeleon",
+      "Charmeleon",
+      "Glutexo",
+      "Reptincel",
+      "火恐龍",
+      "리자드",
+      "Lizardo",
+      "リザード"
+    ]
+  },
+  "6": {
+    "id": 6,
+    "names": [
+      "喷火龙",
+      "リザードン",
+      "Charizard",
+      "Charizard",
+      "Charizard",
+      "Glurak",
+      "Dracaufeu",
+      "噴火龍",
+      "리자몽",
+      "Lizardon",
+      "リザードン"
+    ]
+  },
+  "7": {
+    "id": 7,
+    "names": [
+      "杰尼龟",
+      "ゼニガメ",
+      "Squirtle",
+      "Squirtle",
+      "Squirtle",
+      "Schiggy",
+      "Carapuce",
+      "傑尼龜",
+      "꼬부기",
+      "Zenigame",
+      "ゼニガメ"
+    ]
+  },
+  "8": {
+    "id": 8,
+    "names": [
+      "卡咪龟",
+      "カメール",
+      "Wartortle",
+      "Wartortle",
+      "Wartortle",
+      "Schillok",
+      "Carabaffe",
+      "卡咪龜",
+      "어니부기",
+      "Kameil",
+      "カメール"
+    ]
+  },
+  "9": {
+    "id": 9,
+    "names": [
+      "水箭龟",
+      "カメックス",
+      "Blastoise",
+      "Blastoise",
+      "Blastoise",
+      "Turtok",
+      "Tortank",
+      "水箭龜",
+      "거북왕",
+      "Kamex",
+      "カメックス"
+    ]
+  },
+  "10": {
+    "id": 10,
+    "names": [
+      "绿毛虫",
+      "キャタピー",
+      "Caterpie",
+      "Caterpie",
+      "Caterpie",
+      "Raupy",
+      "Chenipan",
+      "綠毛蟲",
+      "캐터피",
+      "Caterpie",
+      "キャタピー"
+    ]
+  },
+  "11": {
+    "id": 11,
+    "names": [
+      "铁甲蛹",
+      "トランセル",
+      "Metapod",
+      "Metapod",
+      "Metapod",
+      "Safcon",
+      "Chrysacier",
+      "鐵甲蛹",
+      "단데기",
+      "Trancell",
+      "トランセル"
+    ]
+  },
+  "12": {
+    "id": 12,
+    "names": [
+      "巴大蝶",
+      "バタフリー",
+      "Butterfree",
+      "Butterfree",
+      "Butterfree",
+      "Smettbo",
+      "Papilusion",
+      "巴大蝶",
+      "버터플",
+      "Butterfree",
+      "バタフリー"
+    ]
+  },
+  "13": {
+    "id": 13,
+    "names": [
+      "独角虫",
+      "ビードル",
+      "Weedle",
+      "Weedle",
+      "Weedle",
+      "Hornliu",
+      "Aspicot",
+      "獨角蟲",
+      "뿔충이",
+      "Beedle",
+      "ビードル"
+    ]
+  },
+  "14": {
+    "id": 14,
+    "names": [
+      "铁壳蛹",
+      "コクーン",
+      "Kakuna",
+      "Kakuna",
+      "Kakuna",
+      "Kokuna",
+      "Coconfort",
+      "鐵殼蛹",
+      "딱충이",
+      "Cocoon",
+      "コクーン"
+    ]
+  },
+  "15": {
+    "id": 15,
+    "names": [
+      "大针蜂",
+      "スピアー",
+      "Beedrill",
+      "Beedrill",
+      "Beedrill",
+      "Bibor",
+      "Dardargnan",
+      "大針蜂",
+      "독침붕",
+      "Spear",
+      "スピアー"
+    ]
+  },
+  "16": {
+    "id": 16,
+    "names": [
+      "波波",
+      "ポッポ",
+      "Pidgey",
+      "Pidgey",
+      "Pidgey",
+      "Taubsi",
+      "Roucool",
+      "波波",
+      "구구",
+      "Poppo",
+      "ポッポ"
+    ]
+  },
+  "17": {
+    "id": 17,
+    "names": [
+      "比比鸟",
+      "ピジョン",
+      "Pidgeotto",
+      "Pidgeotto",
+      "Pidgeotto",
+      "Tauboga",
+      "Roucoups",
+      "比比鳥",
+      "피죤",
+      "Pigeon",
+      "ピジョン"
+    ]
+  },
+  "18": {
+    "id": 18,
+    "names": [
+      "大比鸟",
+      "ピジョット",
+      "Pidgeot",
+      "Pidgeot",
+      "Pidgeot",
+      "Tauboss",
+      "Roucarnage",
+      "大比鳥",
+      "피죤투",
+      "Pigeot",
+      "ピジョット"
+    ]
+  },
+  "19": {
+    "id": 19,
+    "names": [
+      "小拉达",
+      "コラッタ",
+      "Rattata",
+      "Rattata",
+      "Rattata",
+      "Rattfratz",
+      "Rattata",
+      "小拉達",
+      "꼬렛",
+      "Koratta",
+      "コラッタ"
+    ]
+  },
+  "20": {
+    "id": 20,
+    "names": [
+      "拉达",
+      "ラッタ",
+      "Raticate",
+      "Raticate",
+      "Raticate",
+      "Rattikarl",
+      "Rattatac",
+      "拉達",
+      "레트라",
+      "Ratta",
+      "ラッタ"
+    ]
+  },
+  "21": {
+    "id": 21,
+    "names": [
+      "烈雀",
+      "オニスズメ",
+      "Spearow",
+      "Spearow",
+      "Spearow",
+      "Habitak",
+      "Piafabec",
+      "烈雀",
+      "깨비참",
+      "Onisuzume",
+      "オニスズメ"
+    ]
+  },
+  "22": {
+    "id": 22,
+    "names": [
+      "大嘴雀",
+      "オニドリル",
+      "Fearow",
+      "Fearow",
+      "Fearow",
+      "Ibitak",
+      "Rapasdepic",
+      "大嘴雀",
+      "깨비드릴조",
+      "Onidrill",
+      "オニドリル"
+    ]
+  },
+  "23": {
+    "id": 23,
+    "names": [
+      "阿柏蛇",
+      "アーボ",
+      "Ekans",
+      "Ekans",
+      "Ekans",
+      "Rettan",
+      "Abo",
+      "阿柏蛇",
+      "아보",
+      "Arbo",
+      "アーボ"
+    ]
+  },
+  "24": {
+    "id": 24,
+    "names": [
+      "阿柏怪",
+      "アーボック",
+      "Arbok",
+      "Arbok",
+      "Arbok",
+      "Arbok",
+      "Arbok",
+      "阿柏怪",
+      "아보크",
+      "Arbok",
+      "アーボック"
+    ]
+  },
+  "25": {
+    "id": 25,
+    "names": [
+      "皮卡丘",
+      "ピカチュウ",
+      "Pikachu",
+      "Pikachu",
+      "Pikachu",
+      "Pikachu",
+      "Pikachu",
+      "皮卡丘",
+      "피카츄",
+      "Pikachu",
+      "ピカチュウ"
+    ]
+  },
+  "26": {
+    "id": 26,
+    "names": [
+      "雷丘",
+      "ライチュウ",
+      "Raichu",
+      "Raichu",
+      "Raichu",
+      "Raichu",
+      "Raichu",
+      "雷丘",
+      "라이츄",
+      "Raichu",
+      "ライチュウ"
+    ]
+  },
+  "27": {
+    "id": 27,
+    "names": [
+      "穿山鼠",
+      "サンド",
+      "Sandshrew",
+      "Sandshrew",
+      "Sandshrew",
+      "Sandan",
+      "Sabelette",
+      "穿山鼠",
+      "모래두지",
+      "Sand",
+      "サンド"
+    ]
+  },
+  "28": {
+    "id": 28,
+    "names": [
+      "穿山王",
+      "サンドパン",
+      "Sandslash",
+      "Sandslash",
+      "Sandslash",
+      "Sandamer",
+      "Sablaireau",
+      "穿山王",
+      "고지",
+      "Sandpan",
+      "サンドパン"
+    ]
+  },
+  "29": {
+    "id": 29,
+    "names": [
+      "尼多兰",
+      "ニドラン♀",
+      "Nidoran♀",
+      "Nidoran♀",
+      "Nidoran♀",
+      "Nidoran♀",
+      "Nidoran♀",
+      "尼多蘭",
+      "니드런♀",
+      "Nidoran♀",
+      "ニドラン♀"
+    ]
+  },
+  "30": {
+    "id": 30,
+    "names": [
+      "尼多娜",
+      "ニドリーナ",
+      "Nidorina",
+      "Nidorina",
+      "Nidorina",
+      "Nidorina",
+      "Nidorina",
+      "尼多娜",
+      "니드리나",
+      "Nidorina",
+      "ニドリーナ"
+    ]
+  },
+  "31": {
+    "id": 31,
+    "names": [
+      "尼多后",
+      "ニドクイン",
+      "Nidoqueen",
+      "Nidoqueen",
+      "Nidoqueen",
+      "Nidoqueen",
+      "Nidoqueen",
+      "尼多后",
+      "니드퀸",
+      "Nidoqueen",
+      "ニドクイン"
+    ]
+  },
+  "32": {
+    "id": 32,
+    "names": [
+      "尼多朗",
+      "ニドラン♂",
+      "Nidoran♂",
+      "Nidoran♂",
+      "Nidoran♂",
+      "Nidoran♂",
+      "Nidoran♂",
+      "尼多朗",
+      "니드런♂",
+      "Nidoran♂",
+      "ニドラン♂"
+    ]
+  },
+  "33": {
+    "id": 33,
+    "names": [
+      "尼多力诺",
+      "ニドリーノ",
+      "Nidorino",
+      "Nidorino",
+      "Nidorino",
+      "Nidorino",
+      "Nidorino",
+      "尼多力諾",
+      "니드리노",
+      "Nidorino",
+      "ニドリーノ"
+    ]
+  },
+  "34": {
+    "id": 34,
+    "names": [
+      "尼多王",
+      "ニドキング",
+      "Nidoking",
+      "Nidoking",
+      "Nidoking",
+      "Nidoking",
+      "Nidoking",
+      "尼多王",
+      "니드킹",
+      "Nidoking",
+      "ニドキング"
+    ]
+  },
+  "35": {
+    "id": 35,
+    "names": [
+      "皮皮",
+      "ピッピ",
+      "Clefairy",
+      "Clefairy",
+      "Clefairy",
+      "Piepi",
+      "Mélofée",
+      "皮皮",
+      "삐삐",
+      "Pippi",
+      "ピッピ"
+    ]
+  },
+  "36": {
+    "id": 36,
+    "names": [
+      "皮可西",
+      "ピクシー",
+      "Clefable",
+      "Clefable",
+      "Clefable",
+      "Pixi",
+      "Mélodelfe",
+      "皮可西",
+      "픽시",
+      "Pixy",
+      "ピクシー"
+    ]
+  },
+  "37": {
+    "id": 37,
+    "names": [
+      "六尾",
+      "ロコン",
+      "Vulpix",
+      "Vulpix",
+      "Vulpix",
+      "Vulpix",
+      "Goupix",
+      "六尾",
+      "식스테일",
+      "Rokon",
+      "ロコン"
+    ]
+  },
+  "38": {
+    "id": 38,
+    "names": [
+      "九尾",
+      "キュウコン",
+      "Ninetales",
+      "Ninetales",
+      "Ninetales",
+      "Vulnona",
+      "Feunard",
+      "九尾",
+      "나인테일",
+      "Kyukon",
+      "キュウコン"
+    ]
+  },
+  "39": {
+    "id": 39,
+    "names": [
+      "胖丁",
+      "プリン",
+      "Jigglypuff",
+      "Jigglypuff",
+      "Jigglypuff",
+      "Pummeluff",
+      "Rondoudou",
+      "胖丁",
+      "푸린",
+      "Purin",
+      "プリン"
+    ]
+  },
+  "40": {
+    "id": 40,
+    "names": [
+      "胖可丁",
+      "プクリン",
+      "Wigglytuff",
+      "Wigglytuff",
+      "Wigglytuff",
+      "Knuddeluff",
+      "Grodoudou",
+      "胖可丁",
+      "푸크린",
+      "Pukurin",
+      "プクリン"
+    ]
+  },
+  "41": {
+    "id": 41,
+    "names": [
+      "超音蝠",
+      "ズバット",
+      "Zubat",
+      "Zubat",
+      "Zubat",
+      "Zubat",
+      "Nosferapti",
+      "超音蝠",
+      "주뱃",
+      "Zubat",
+      "ズバット"
+    ]
+  },
+  "42": {
+    "id": 42,
+    "names": [
+      "大嘴蝠",
+      "ゴルバット",
+      "Golbat",
+      "Golbat",
+      "Golbat",
+      "Golbat",
+      "Nosferalto",
+      "大嘴蝠",
+      "골뱃",
+      "Golbat",
+      "ゴルバット"
+    ]
+  },
+  "43": {
+    "id": 43,
+    "names": [
+      "走路草",
+      "ナゾノクサ",
+      "Oddish",
+      "Oddish",
+      "Oddish",
+      "Myrapla",
+      "Mystherbe",
+      "走路草",
+      "뚜벅쵸",
+      "Nazonokusa",
+      "ナゾノクサ"
+    ]
+  },
+  "44": {
+    "id": 44,
+    "names": [
+      "臭臭花",
+      "クサイハナ",
+      "Gloom",
+      "Gloom",
+      "Gloom",
+      "Duflor",
+      "Ortide",
+      "臭臭花",
+      "냄새꼬",
+      "Kusaihana",
+      "クサイハナ"
+    ]
+  },
+  "45": {
+    "id": 45,
+    "names": [
+      "霸王花",
+      "ラフレシア",
+      "Vileplume",
+      "Vileplume",
+      "Vileplume",
+      "Giflor",
+      "Rafflesia",
+      "霸王花",
+      "라플레시아",
+      "Ruffresia",
+      "ラフレシア"
+    ]
+  },
+  "46": {
+    "id": 46,
+    "names": [
+      "派拉斯",
+      "パラス",
+      "Paras",
+      "Paras",
+      "Paras",
+      "Paras",
+      "Paras",
+      "派拉斯",
+      "파라스",
+      "Paras",
+      "パラス"
+    ]
+  },
+  "47": {
+    "id": 47,
+    "names": [
+      "派拉斯特",
+      "パラセクト",
+      "Parasect",
+      "Parasect",
+      "Parasect",
+      "Parasek",
+      "Parasect",
+      "派拉斯特",
+      "파라섹트",
+      "Parasect",
+      "パラセクト"
+    ]
+  },
+  "48": {
+    "id": 48,
+    "names": [
+      "毛球",
+      "コンパン",
+      "Venonat",
+      "Venonat",
+      "Venonat",
+      "Bluzuk",
+      "Mimitoss",
+      "毛球",
+      "콘팡",
+      "Kongpang",
+      "コンパン"
+    ]
+  },
+  "49": {
+    "id": 49,
+    "names": [
+      "摩鲁蛾",
+      "モルフォン",
+      "Venomoth",
+      "Venomoth",
+      "Venomoth",
+      "Omot",
+      "Aéromite",
+      "摩魯蛾",
+      "도나리",
+      "Morphon",
+      "モルフォン"
+    ]
+  },
+  "50": {
+    "id": 50,
+    "names": [
+      "地鼠",
+      "ディグダ",
+      "Diglett",
+      "Diglett",
+      "Diglett",
+      "Digda",
+      "Taupiqueur",
+      "地鼠",
+      "디그다",
+      "Digda",
+      "ディグダ"
+    ]
+  },
+  "51": {
+    "id": 51,
+    "names": [
+      "三地鼠",
+      "ダグトリオ",
+      "Dugtrio",
+      "Dugtrio",
+      "Dugtrio",
+      "Digdri",
+      "Triopikeur",
+      "三地鼠",
+      "닥트리오",
+      "Dugtrio",
+      "ダグトリオ"
+    ]
+  },
+  "52": {
+    "id": 52,
+    "names": [
+      "喵喵",
+      "ニャース",
+      "Meowth",
+      "Meowth",
+      "Meowth",
+      "Mauzi",
+      "Miaouss",
+      "喵喵",
+      "나옹",
+      "Nyarth",
+      "ニャース"
+    ]
+  },
+  "53": {
+    "id": 53,
+    "names": [
+      "猫老大",
+      "ペルシアン",
+      "Persian",
+      "Persian",
+      "Persian",
+      "Snobilikat",
+      "Persian",
+      "貓老大",
+      "페르시온",
+      "Persian",
+      "ペルシアン"
+    ]
+  },
+  "54": {
+    "id": 54,
+    "names": [
+      "可达鸭",
+      "コダック",
+      "Psyduck",
+      "Psyduck",
+      "Psyduck",
+      "Enton",
+      "Psykokwak",
+      "可達鴨",
+      "고라파덕",
+      "Koduck",
+      "コダック"
+    ]
+  },
+  "55": {
+    "id": 55,
+    "names": [
+      "哥达鸭",
+      "ゴルダック",
+      "Golduck",
+      "Golduck",
+      "Golduck",
+      "Entoron",
+      "Akwakwak",
+      "哥達鴨",
+      "골덕",
+      "Golduck",
+      "ゴルダック"
+    ]
+  },
+  "56": {
+    "id": 56,
+    "names": [
+      "猴怪",
+      "マンキー",
+      "Mankey",
+      "Mankey",
+      "Mankey",
+      "Menki",
+      "Férosinge",
+      "猴怪",
+      "망키",
+      "Mankey",
+      "マンキー"
+    ]
+  },
+  "57": {
+    "id": 57,
+    "names": [
+      "火暴猴",
+      "オコリザル",
+      "Primeape",
+      "Primeape",
+      "Primeape",
+      "Rasaff",
+      "Colossinge",
+      "火爆猴",
+      "성원숭",
+      "Okorizaru",
+      "オコリザル"
+    ]
+  },
+  "58": {
+    "id": 58,
+    "names": [
+      "卡蒂狗",
+      "ガーディ",
+      "Growlithe",
+      "Growlithe",
+      "Growlithe",
+      "Fukano",
+      "Caninos",
+      "卡蒂狗",
+      "가디",
+      "Gardie",
+      "ガーディ"
+    ]
+  },
+  "59": {
+    "id": 59,
+    "names": [
+      "风速狗",
+      "ウインディ",
+      "Arcanine",
+      "Arcanine",
+      "Arcanine",
+      "Arkani",
+      "Arcanin",
+      "風速狗",
+      "윈디",
+      "Windie",
+      "ウインディ"
+    ]
+  },
+  "60": {
+    "id": 60,
+    "names": [
+      "蚊香蝌蚪",
+      "ニョロモ",
+      "Poliwag",
+      "Poliwag",
+      "Poliwag",
+      "Quapsel",
+      "Ptitard",
+      "蚊香蝌蚪",
+      "발챙이",
+      "Nyoromo",
+      "ニョロモ"
+    ]
+  },
+  "61": {
+    "id": 61,
+    "names": [
+      "蚊香君",
+      "ニョロゾ",
+      "Poliwhirl",
+      "Poliwhirl",
+      "Poliwhirl",
+      "Quaputzi",
+      "Têtarte",
+      "蚊香君",
+      "슈륙챙이",
+      "Nyorozo",
+      "ニョロゾ"
+    ]
+  },
+  "62": {
+    "id": 62,
+    "names": [
+      "蚊香泳士",
+      "ニョロボン",
+      "Poliwrath",
+      "Poliwrath",
+      "Poliwrath",
+      "Quappo",
+      "Tartard",
+      "蚊香泳士",
+      "강챙이",
+      "Nyorobon",
+      "ニョロボン"
+    ]
+  },
+  "63": {
+    "id": 63,
+    "names": [
+      "凯西",
+      "ケーシィ",
+      "Abra",
+      "Abra",
+      "Abra",
+      "Abra",
+      "Abra",
+      "凱西",
+      "캐이시",
+      "Casey",
+      "ケーシィ"
+    ]
+  },
+  "64": {
+    "id": 64,
+    "names": [
+      "勇基拉",
+      "ユンゲラー",
+      "Kadabra",
+      "Kadabra",
+      "Kadabra",
+      "Kadabra",
+      "Kadabra",
+      "勇基拉",
+      "윤겔라",
+      "Yungerer",
+      "ユンゲラー"
+    ]
+  },
+  "65": {
+    "id": 65,
+    "names": [
+      "胡地",
+      "フーディン",
+      "Alakazam",
+      "Alakazam",
+      "Alakazam",
+      "Simsala",
+      "Alakazam",
+      "胡地",
+      "후딘",
+      "Foodin",
+      "フーディン"
+    ]
+  },
+  "66": {
+    "id": 66,
+    "names": [
+      "腕力",
+      "ワンリキー",
+      "Machop",
+      "Machop",
+      "Machop",
+      "Machollo",
+      "Machoc",
+      "腕力",
+      "알통몬",
+      "Wanriky",
+      "ワンリキー"
+    ]
+  },
+  "67": {
+    "id": 67,
+    "names": [
+      "豪力",
+      "ゴーリキー",
+      "Machoke",
+      "Machoke",
+      "Machoke",
+      "Maschock",
+      "Machopeur",
+      "豪力",
+      "근육몬",
+      "Goriky",
+      "ゴーリキー"
+    ]
+  },
+  "68": {
+    "id": 68,
+    "names": [
+      "怪力",
+      "カイリキー",
+      "Machamp",
+      "Machamp",
+      "Machamp",
+      "Machomei",
+      "Mackogneur",
+      "怪力",
+      "괴력몬",
+      "Kairiky",
+      "カイリキー"
+    ]
+  },
+  "69": {
+    "id": 69,
+    "names": [
+      "喇叭芽",
+      "マダツボミ",
+      "Bellsprout",
+      "Bellsprout",
+      "Bellsprout",
+      "Knofensa",
+      "Chétiflor",
+      "喇叭芽",
+      "모다피",
+      "Madatsubomi",
+      "マダツボミ"
+    ]
+  },
+  "70": {
+    "id": 70,
+    "names": [
+      "口呆花",
+      "ウツドン",
+      "Weepinbell",
+      "Weepinbell",
+      "Weepinbell",
+      "Ultrigaria",
+      "Boustiflor",
+      "口呆花",
+      "우츠동",
+      "Utsudon",
+      "ウツドン"
+    ]
+  },
+  "71": {
+    "id": 71,
+    "names": [
+      "大食花",
+      "ウツボット",
+      "Victreebel",
+      "Victreebel",
+      "Victreebel",
+      "Sarzenia",
+      "Empiflor",
+      "大食花",
+      "우츠보트",
+      "Utsubot",
+      "ウツボット"
+    ]
+  },
+  "72": {
+    "id": 72,
+    "names": [
+      "玛瑙水母",
+      "メノクラゲ",
+      "Tentacool",
+      "Tentacool",
+      "Tentacool",
+      "Tentacha",
+      "Tentacool",
+      "瑪瑙水母",
+      "왕눈해",
+      "Menokurage",
+      "メノクラゲ"
+    ]
+  },
+  "73": {
+    "id": 73,
+    "names": [
+      "毒刺水母",
+      "ドククラゲ",
+      "Tentacruel",
+      "Tentacruel",
+      "Tentacruel",
+      "Tentoxa",
+      "Tentacruel",
+      "毒刺水母",
+      "독파리",
+      "Dokukurage",
+      "ドククラゲ"
+    ]
+  },
+  "74": {
+    "id": 74,
+    "names": [
+      "小拳石",
+      "イシツブテ",
+      "Geodude",
+      "Geodude",
+      "Geodude",
+      "Kleinstein",
+      "Racaillou",
+      "小拳石",
+      "꼬마돌",
+      "Isitsubute",
+      "イシツブテ"
+    ]
+  },
+  "75": {
+    "id": 75,
+    "names": [
+      "隆隆石",
+      "ゴローン",
+      "Graveler",
+      "Graveler",
+      "Graveler",
+      "Georok",
+      "Gravalanch",
+      "隆隆石",
+      "데구리",
+      "Golone",
+      "ゴローン"
+    ]
+  },
+  "76": {
+    "id": 76,
+    "names": [
+      "隆隆岩",
+      "ゴローニャ",
+      "Golem",
+      "Golem",
+      "Golem",
+      "Geowaz",
+      "Grolem",
+      "隆隆岩",
+      "딱구리",
+      "Golonya",
+      "ゴローニャ"
+    ]
+  },
+  "77": {
+    "id": 77,
+    "names": [
+      "小火马",
+      "ポニータ",
+      "Ponyta",
+      "Ponyta",
+      "Ponyta",
+      "Ponita",
+      "Ponyta",
+      "小火馬",
+      "포니타",
+      "Ponyta",
+      "ポニータ"
+    ]
+  },
+  "78": {
+    "id": 78,
+    "names": [
+      "烈焰马",
+      "ギャロップ",
+      "Rapidash",
+      "Rapidash",
+      "Rapidash",
+      "Gallopa",
+      "Galopa",
+      "烈焰馬",
+      "날쌩마",
+      "Gallop",
+      "ギャロップ"
+    ]
+  },
+  "79": {
+    "id": 79,
+    "names": [
+      "呆呆兽",
+      "ヤドン",
+      "Slowpoke",
+      "Slowpoke",
+      "Slowpoke",
+      "Flegmon",
+      "Ramoloss",
+      "呆呆獸",
+      "야돈",
+      "Yadon",
+      "ヤドン"
+    ]
+  },
+  "80": {
+    "id": 80,
+    "names": [
+      "呆壳兽",
+      "ヤドラン",
+      "Slowbro",
+      "Slowbro",
+      "Slowbro",
+      "Lahmus",
+      "Flagadoss",
+      "呆殼獸",
+      "야도란",
+      "Yadoran",
+      "ヤドラン"
+    ]
+  },
+  "81": {
+    "id": 81,
+    "names": [
+      "小磁怪",
+      "コイル",
+      "Magnemite",
+      "Magnemite",
+      "Magnemite",
+      "Magnetilo",
+      "Magnéti",
+      "小磁怪",
+      "코일",
+      "Coil",
+      "コイル"
+    ]
+  },
+  "82": {
+    "id": 82,
+    "names": [
+      "三合一磁怪",
+      "レアコイル",
+      "Magneton",
+      "Magneton",
+      "Magneton",
+      "Magneton",
+      "Magnéton",
+      "三合一磁怪",
+      "레어코일",
+      "Rarecoil",
+      "レアコイル"
+    ]
+  },
+  "83": {
+    "id": 83,
+    "names": [
+      "大葱鸭",
+      "カモネギ",
+      "Farfetch’d",
+      "Farfetch’d",
+      "Farfetch’d",
+      "Porenta",
+      "Canarticho",
+      "大蔥鴨",
+      "파오리",
+      "Kamonegi",
+      "カモネギ"
+    ]
+  },
+  "84": {
+    "id": 84,
+    "names": [
+      "嘟嘟",
+      "ドードー",
+      "Doduo",
+      "Doduo",
+      "Doduo",
+      "Dodu",
+      "Doduo",
+      "嘟嘟",
+      "두두",
+      "Dodo",
+      "ドードー"
+    ]
+  },
+  "85": {
+    "id": 85,
+    "names": [
+      "嘟嘟利",
+      "ドードリオ",
+      "Dodrio",
+      "Dodrio",
+      "Dodrio",
+      "Dodri",
+      "Dodrio",
+      "嘟嘟利",
+      "두트리오",
+      "Dodorio",
+      "ドードリオ"
+    ]
+  },
+  "86": {
+    "id": 86,
+    "names": [
+      "小海狮",
+      "パウワウ",
+      "Seel",
+      "Seel",
+      "Seel",
+      "Jurob",
+      "Otaria",
+      "小海獅",
+      "쥬쥬",
+      "Pawou",
+      "パウワウ"
+    ]
+  },
+  "87": {
+    "id": 87,
+    "names": [
+      "白海狮",
+      "ジュゴン",
+      "Dewgong",
+      "Dewgong",
+      "Dewgong",
+      "Jugong",
+      "Lamantine",
+      "白海獅",
+      "쥬레곤",
+      "Jugon",
+      "ジュゴン"
+    ]
+  },
+  "88": {
+    "id": 88,
+    "names": [
+      "臭泥",
+      "ベトベター",
+      "Grimer",
+      "Grimer",
+      "Grimer",
+      "Sleima",
+      "Tadmorv",
+      "臭泥",
+      "질퍽이",
+      "Betbeter",
+      "ベトベター"
+    ]
+  },
+  "89": {
+    "id": 89,
+    "names": [
+      "臭臭泥",
+      "ベトベトン",
+      "Muk",
+      "Muk",
+      "Muk",
+      "Sleimok",
+      "Grotadmorv",
+      "臭臭泥",
+      "질뻐기",
+      "Betbeton",
+      "ベトベトン"
+    ]
+  },
+  "90": {
+    "id": 90,
+    "names": [
+      "大舌贝",
+      "シェルダー",
+      "Shellder",
+      "Shellder",
+      "Shellder",
+      "Muschas",
+      "Kokiyas",
+      "大舌貝",
+      "셀러",
+      "Shellder",
+      "シェルダー"
+    ]
+  },
+  "91": {
+    "id": 91,
+    "names": [
+      "刺甲贝",
+      "パルシェン",
+      "Cloyster",
+      "Cloyster",
+      "Cloyster",
+      "Austos",
+      "Crustabri",
+      "刺甲貝",
+      "파르셀",
+      "Parshen",
+      "パルシェン"
+    ]
+  },
+  "92": {
+    "id": 92,
+    "names": [
+      "鬼斯",
+      "ゴース",
+      "Gastly",
+      "Gastly",
+      "Gastly",
+      "Nebulak",
+      "Fantominus",
+      "鬼斯",
+      "고오스",
+      "Ghos",
+      "ゴース"
+    ]
+  },
+  "93": {
+    "id": 93,
+    "names": [
+      "鬼斯通",
+      "ゴースト",
+      "Haunter",
+      "Haunter",
+      "Haunter",
+      "Alpollo",
+      "Spectrum",
+      "鬼斯通",
+      "고우스트",
+      "Ghost",
+      "ゴースト"
+    ]
+  },
+  "94": {
+    "id": 94,
+    "names": [
+      "耿鬼",
+      "ゲンガー",
+      "Gengar",
+      "Gengar",
+      "Gengar",
+      "Gengar",
+      "Ectoplasma",
+      "耿鬼",
+      "팬텀",
+      "Gangar",
+      "ゲンガー"
+    ]
+  },
+  "95": {
+    "id": 95,
+    "names": [
+      "大岩蛇",
+      "イワーク",
+      "Onix",
+      "Onix",
+      "Onix",
+      "Onix",
+      "Onix",
+      "大岩蛇",
+      "롱스톤",
+      "Iwark",
+      "イワーク"
+    ]
+  },
+  "96": {
+    "id": 96,
+    "names": [
+      "催眠貘",
+      "スリープ",
+      "Drowzee",
+      "Drowzee",
+      "Drowzee",
+      "Traumato",
+      "Soporifik",
+      "催眠貘",
+      "슬리프",
+      "Sleep",
+      "スリープ"
+    ]
+  },
+  "97": {
+    "id": 97,
+    "names": [
+      "引梦貘人",
+      "スリーパー",
+      "Hypno",
+      "Hypno",
+      "Hypno",
+      "Hypno",
+      "Hypnomade",
+      "引夢貘人",
+      "슬리퍼",
+      "Sleeper",
+      "スリーパー"
+    ]
+  },
+  "98": {
+    "id": 98,
+    "names": [
+      "大钳蟹",
+      "クラブ",
+      "Krabby",
+      "Krabby",
+      "Krabby",
+      "Krabby",
+      "Krabby",
+      "大鉗蟹",
+      "크랩",
+      "Crab",
+      "クラブ"
+    ]
+  },
+  "99": {
+    "id": 99,
+    "names": [
+      "巨钳蟹",
+      "キングラー",
+      "Kingler",
+      "Kingler",
+      "Kingler",
+      "Kingler",
+      "Krabboss",
+      "巨鉗蟹",
+      "킹크랩",
+      "Kingler",
+      "キングラー"
+    ]
+  },
+  "100": {
+    "id": 100,
+    "names": [
+      "霹雳电球",
+      "ビリリダマ",
+      "Voltorb",
+      "Voltorb",
+      "Voltorb",
+      "Voltobal",
+      "Voltorbe",
+      "霹靂電球",
+      "찌리리공",
+      "Biriridama",
+      "ビリリダマ"
+    ]
+  },
+  "101": {
+    "id": 101,
+    "names": [
+      "顽皮雷弹",
+      "マルマイン",
+      "Electrode",
+      "Electrode",
+      "Electrode",
+      "Lektrobal",
+      "Électrode",
+      "頑皮雷彈",
+      "붐볼",
+      "Marumine",
+      "マルマイン"
+    ]
+  },
+  "102": {
+    "id": 102,
+    "names": [
+      "蛋蛋",
+      "タマタマ",
+      "Exeggcute",
+      "Exeggcute",
+      "Exeggcute",
+      "Owei",
+      "Noeunoeuf",
+      "蛋蛋",
+      "아라리",
+      "Tamatama",
+      "タマタマ"
+    ]
+  },
+  "103": {
+    "id": 103,
+    "names": [
+      "椰蛋树",
+      "ナッシー",
+      "Exeggutor",
+      "Exeggutor",
+      "Exeggutor",
+      "Kokowei",
+      "Noadkoko",
+      "椰蛋樹",
+      "나시",
+      "Nassy",
+      "ナッシー"
+    ]
+  },
+  "104": {
+    "id": 104,
+    "names": [
+      "卡拉卡拉",
+      "カラカラ",
+      "Cubone",
+      "Cubone",
+      "Cubone",
+      "Tragosso",
+      "Osselait",
+      "卡拉卡拉",
+      "탕구리",
+      "Karakara",
+      "カラカラ"
+    ]
+  },
+  "105": {
+    "id": 105,
+    "names": [
+      "嘎啦嘎啦",
+      "ガラガラ",
+      "Marowak",
+      "Marowak",
+      "Marowak",
+      "Knogga",
+      "Ossatueur",
+      "嘎啦嘎啦",
+      "텅구리",
+      "Garagara",
+      "ガラガラ"
+    ]
+  },
+  "106": {
+    "id": 106,
+    "names": [
+      "飞腿郎",
+      "サワムラー",
+      "Hitmonlee",
+      "Hitmonlee",
+      "Hitmonlee",
+      "Kicklee",
+      "Kicklee",
+      "飛腿郎",
+      "시라소몬",
+      "Sawamular",
+      "サワムラー"
+    ]
+  },
+  "107": {
+    "id": 107,
+    "names": [
+      "快拳郎",
+      "エビワラー",
+      "Hitmonchan",
+      "Hitmonchan",
+      "Hitmonchan",
+      "Nockchan",
+      "Tygnon",
+      "快拳郎",
+      "홍수몬",
+      "Ebiwalar",
+      "エビワラー"
+    ]
+  },
+  "108": {
+    "id": 108,
+    "names": [
+      "大舌头",
+      "ベロリンガ",
+      "Lickitung",
+      "Lickitung",
+      "Lickitung",
+      "Schlurp",
+      "Excelangue",
+      "大舌頭",
+      "내루미",
+      "Beroringa",
+      "ベロリンガ"
+    ]
+  },
+  "109": {
+    "id": 109,
+    "names": [
+      "瓦斯弹",
+      "ドガース",
+      "Koffing",
+      "Koffing",
+      "Koffing",
+      "Smogon",
+      "Smogo",
+      "瓦斯彈",
+      "또가스",
+      "Dogars",
+      "ドガース"
+    ]
+  },
+  "110": {
+    "id": 110,
+    "names": [
+      "双弹瓦斯",
+      "マタドガス",
+      "Weezing",
+      "Weezing",
+      "Weezing",
+      "Smogmog",
+      "Smogogo",
+      "雙彈瓦斯",
+      "또도가스",
+      "Matadogas",
+      "マタドガス"
+    ]
+  },
+  "111": {
+    "id": 111,
+    "names": [
+      "独角犀牛",
+      "サイホーン",
+      "Rhyhorn",
+      "Rhyhorn",
+      "Rhyhorn",
+      "Rihorn",
+      "Rhinocorne",
+      "獨角犀牛",
+      "뿔카노",
+      "Sihorn",
+      "サイホーン"
+    ]
+  },
+  "112": {
+    "id": 112,
+    "names": [
+      "钻角犀兽",
+      "サイドン",
+      "Rhydon",
+      "Rhydon",
+      "Rhydon",
+      "Rizeros",
+      "Rhinoféros",
+      "鑽角犀獸",
+      "코뿌리",
+      "Sidon",
+      "サイドン"
+    ]
+  },
+  "113": {
+    "id": 113,
+    "names": [
+      "吉利蛋",
+      "ラッキー",
+      "Chansey",
+      "Chansey",
+      "Chansey",
+      "Chaneira",
+      "Leveinard",
+      "吉利蛋",
+      "럭키",
+      "Lucky",
+      "ラッキー"
+    ]
+  },
+  "114": {
+    "id": 114,
+    "names": [
+      "蔓藤怪",
+      "モンジャラ",
+      "Tangela",
+      "Tangela",
+      "Tangela",
+      "Tangela",
+      "Saquedeneu",
+      "蔓藤怪",
+      "덩쿠리",
+      "Monjara",
+      "モンジャラ"
+    ]
+  },
+  "115": {
+    "id": 115,
+    "names": [
+      "袋兽",
+      "ガルーラ",
+      "Kangaskhan",
+      "Kangaskhan",
+      "Kangaskhan",
+      "Kangama",
+      "Kangourex",
+      "袋獸",
+      "캥카",
+      "Garura",
+      "ガルーラ"
+    ]
+  },
+  "116": {
+    "id": 116,
+    "names": [
+      "墨海马",
+      "タッツー",
+      "Horsea",
+      "Horsea",
+      "Horsea",
+      "Seeper",
+      "Hypotrempe",
+      "墨海馬",
+      "쏘드라",
+      "Tattu",
+      "タッツー"
+    ]
+  },
+  "117": {
+    "id": 117,
+    "names": [
+      "海刺龙",
+      "シードラ",
+      "Seadra",
+      "Seadra",
+      "Seadra",
+      "Seemon",
+      "Hypocéan",
+      "海刺龍",
+      "시드라",
+      "Seadra",
+      "シードラ"
+    ]
+  },
+  "118": {
+    "id": 118,
+    "names": [
+      "角金鱼",
+      "トサキント",
+      "Goldeen",
+      "Goldeen",
+      "Goldeen",
+      "Goldini",
+      "Poissirène",
+      "角金魚",
+      "콘치",
+      "Tosakinto",
+      "トサキント"
+    ]
+  },
+  "119": {
+    "id": 119,
+    "names": [
+      "金鱼王",
+      "アズマオウ",
+      "Seaking",
+      "Seaking",
+      "Seaking",
+      "Golking",
+      "Poissoroy",
+      "金魚王",
+      "왕콘치",
+      "Azumao",
+      "アズマオウ"
+    ]
+  },
+  "120": {
+    "id": 120,
+    "names": [
+      "海星星",
+      "ヒトデマン",
+      "Staryu",
+      "Staryu",
+      "Staryu",
+      "Sterndu",
+      "Stari",
+      "海星星",
+      "별가사리",
+      "Hitodeman",
+      "ヒトデマン"
+    ]
+  },
+  "121": {
+    "id": 121,
+    "names": [
+      "宝石海星",
+      "スターミー",
+      "Starmie",
+      "Starmie",
+      "Starmie",
+      "Starmie",
+      "Staross",
+      "寶石海星",
+      "아쿠스타",
+      "Starmie",
+      "スターミー"
+    ]
+  },
+  "122": {
+    "id": 122,
+    "names": [
+      "魔墙人偶",
+      "バリヤード",
+      "Mr. Mime",
+      "Mr. Mime",
+      "Mr. Mime",
+      "Pantimos",
+      "M. Mime",
+      "魔牆人偶",
+      "마임맨",
+      "Barrierd",
+      "バリヤード"
+    ]
+  },
+  "123": {
+    "id": 123,
+    "names": [
+      "飞天螳螂",
+      "ストライク",
+      "Scyther",
+      "Scyther",
+      "Scyther",
+      "Sichlor",
+      "Insécateur",
+      "飛天螳螂",
+      "스라크",
+      "Strike",
+      "ストライク"
+    ]
+  },
+  "124": {
+    "id": 124,
+    "names": [
+      "迷唇姐",
+      "ルージュラ",
+      "Jynx",
+      "Jynx",
+      "Jynx",
+      "Rossana",
+      "Lippoutou",
+      "迷唇姐",
+      "루주라",
+      "Rougela",
+      "ルージュラ"
+    ]
+  },
+  "125": {
+    "id": 125,
+    "names": [
+      "电击兽",
+      "エレブー",
+      "Electabuzz",
+      "Electabuzz",
+      "Electabuzz",
+      "Elektek",
+      "Élektek",
+      "電擊獸",
+      "에레브",
+      "Eleboo",
+      "エレブー"
+    ]
+  },
+  "126": {
+    "id": 126,
+    "names": [
+      "鸭嘴火兽",
+      "ブーバー",
+      "Magmar",
+      "Magmar",
+      "Magmar",
+      "Magmar",
+      "Magmar",
+      "鴨嘴火獸",
+      "마그마",
+      "Boober",
+      "ブーバー"
+    ]
+  },
+  "127": {
+    "id": 127,
+    "names": [
+      "凯罗斯",
+      "カイロス",
+      "Pinsir",
+      "Pinsir",
+      "Pinsir",
+      "Pinsir",
+      "Scarabrute",
+      "凱羅斯",
+      "쁘사이저",
+      "Kailios",
+      "カイロス"
+    ]
+  },
+  "128": {
+    "id": 128,
+    "names": [
+      "肯泰罗",
+      "ケンタロス",
+      "Tauros",
+      "Tauros",
+      "Tauros",
+      "Tauros",
+      "Tauros",
+      "肯泰羅",
+      "켄타로스",
+      "Kentauros",
+      "ケンタロス"
+    ]
+  },
+  "129": {
+    "id": 129,
+    "names": [
+      "鲤鱼王",
+      "コイキング",
+      "Magikarp",
+      "Magikarp",
+      "Magikarp",
+      "Karpador",
+      "Magicarpe",
+      "鯉魚王",
+      "잉어킹",
+      "Koiking",
+      "コイキング"
+    ]
+  },
+  "130": {
+    "id": 130,
+    "names": [
+      "暴鲤龙",
+      "ギャラドス",
+      "Gyarados",
+      "Gyarados",
+      "Gyarados",
+      "Garados",
+      "Léviator",
+      "暴鯉龍",
+      "갸라도스",
+      "Gyarados",
+      "ギャラドス"
+    ]
+  },
+  "131": {
+    "id": 131,
+    "names": [
+      "拉普拉斯",
+      "ラプラス",
+      "Lapras",
+      "Lapras",
+      "Lapras",
+      "Lapras",
+      "Lokhlass",
+      "拉普拉斯",
+      "라프라스",
+      "Laplace",
+      "ラプラス"
+    ]
+  },
+  "132": {
+    "id": 132,
+    "names": [
+      "百变怪",
+      "メタモン",
+      "Ditto",
+      "Ditto",
+      "Ditto",
+      "Ditto",
+      "Métamorph",
+      "百變怪",
+      "메타몽",
+      "Metamon",
+      "メタモン"
+    ]
+  },
+  "133": {
+    "id": 133,
+    "names": [
+      "伊布",
+      "イーブイ",
+      "Eevee",
+      "Eevee",
+      "Eevee",
+      "Evoli",
+      "Évoli",
+      "伊布",
+      "이브이",
+      "Eievui",
+      "イーブイ"
+    ]
+  },
+  "134": {
+    "id": 134,
+    "names": [
+      "水伊布",
+      "シャワーズ",
+      "Vaporeon",
+      "Vaporeon",
+      "Vaporeon",
+      "Aquana",
+      "Aquali",
+      "水伊布",
+      "샤미드",
+      "Showers",
+      "シャワーズ"
+    ]
+  },
+  "135": {
+    "id": 135,
+    "names": [
+      "雷伊布",
+      "サンダース",
+      "Jolteon",
+      "Jolteon",
+      "Jolteon",
+      "Blitza",
+      "Voltali",
+      "雷伊布",
+      "쥬피썬더",
+      "Thunders",
+      "サンダース"
+    ]
+  },
+  "136": {
+    "id": 136,
+    "names": [
+      "火伊布",
+      "ブースター",
+      "Flareon",
+      "Flareon",
+      "Flareon",
+      "Flamara",
+      "Pyroli",
+      "火伊布",
+      "부스터",
+      "Booster",
+      "ブースター"
+    ]
+  },
+  "137": {
+    "id": 137,
+    "names": [
+      "多边兽",
+      "ポリゴン",
+      "Porygon",
+      "Porygon",
+      "Porygon",
+      "Porygon",
+      "Porygon",
+      "多邊獸",
+      "폴리곤",
+      "Porygon",
+      "ポリゴン"
+    ]
+  },
+  "138": {
+    "id": 138,
+    "names": [
+      "菊石兽",
+      "オムナイト",
+      "Omanyte",
+      "Omanyte",
+      "Omanyte",
+      "Amonitas",
+      "Amonita",
+      "菊石獸",
+      "암나이트",
+      "Omnite",
+      "オムナイト"
+    ]
+  },
+  "139": {
+    "id": 139,
+    "names": [
+      "多刺菊石兽",
+      "オムスター",
+      "Omastar",
+      "Omastar",
+      "Omastar",
+      "Amoroso",
+      "Amonistar",
+      "多刺菊石獸",
+      "암스타",
+      "Omstar",
+      "オムスター"
+    ]
+  },
+  "140": {
+    "id": 140,
+    "names": [
+      "化石盔",
+      "カブト",
+      "Kabuto",
+      "Kabuto",
+      "Kabuto",
+      "Kabuto",
+      "Kabuto",
+      "化石盔",
+      "투구",
+      "Kabuto",
+      "カブト"
+    ]
+  },
+  "141": {
+    "id": 141,
+    "names": [
+      "镰刀盔",
+      "カブトプス",
+      "Kabutops",
+      "Kabutops",
+      "Kabutops",
+      "Kabutops",
+      "Kabutops",
+      "鐮刀盔",
+      "투구푸스",
+      "Kabutops",
+      "カブトプス"
+    ]
+  },
+  "142": {
+    "id": 142,
+    "names": [
+      "化石翼龙",
+      "プテラ",
+      "Aerodactyl",
+      "Aerodactyl",
+      "Aerodactyl",
+      "Aerodactyl",
+      "Ptéra",
+      "化石翼龍",
+      "프테라",
+      "Ptera",
+      "プテラ"
+    ]
+  },
+  "143": {
+    "id": 143,
+    "names": [
+      "卡比兽",
+      "カビゴン",
+      "Snorlax",
+      "Snorlax",
+      "Snorlax",
+      "Relaxo",
+      "Ronflex",
+      "卡比獸",
+      "잠만보",
+      "Kabigon",
+      "カビゴン"
+    ]
+  },
+  "144": {
+    "id": 144,
+    "names": [
+      "急冻鸟",
+      "フリーザー",
+      "Articuno",
+      "Articuno",
+      "Articuno",
+      "Arktos",
+      "Artikodin",
+      "急凍鳥",
+      "프리져",
+      "Freezer",
+      "フリーザー"
+    ]
+  },
+  "145": {
+    "id": 145,
+    "names": [
+      "闪电鸟",
+      "サンダー",
+      "Zapdos",
+      "Zapdos",
+      "Zapdos",
+      "Zapdos",
+      "Électhor",
+      "閃電鳥",
+      "썬더",
+      "Thunder",
+      "サンダー"
+    ]
+  },
+  "146": {
+    "id": 146,
+    "names": [
+      "火焰鸟",
+      "ファイヤー",
+      "Moltres",
+      "Moltres",
+      "Moltres",
+      "Lavados",
+      "Sulfura",
+      "火焰鳥",
+      "파이어",
+      "Fire",
+      "ファイヤー"
+    ]
+  },
+  "147": {
+    "id": 147,
+    "names": [
+      "迷你龙",
+      "ミニリュウ",
+      "Dratini",
+      "Dratini",
+      "Dratini",
+      "Dratini",
+      "Minidraco",
+      "迷你龍",
+      "미뇽",
+      "Miniryu",
+      "ミニリュウ"
+    ]
+  },
+  "148": {
+    "id": 148,
+    "names": [
+      "哈克龙",
+      "ハクリュー",
+      "Dragonair",
+      "Dragonair",
+      "Dragonair",
+      "Dragonir",
+      "Draco",
+      "哈克龍",
+      "신뇽",
+      "Hakuryu",
+      "ハクリュー"
+    ]
+  },
+  "149": {
+    "id": 149,
+    "names": [
+      "快龙",
+      "カイリュー",
+      "Dragonite",
+      "Dragonite",
+      "Dragonite",
+      "Dragoran",
+      "Dracolosse",
+      "快龍",
+      "망나뇽",
+      "Kairyu",
+      "カイリュー"
+    ]
+  },
+  "150": {
+    "id": 150,
+    "names": [
+      "超梦",
+      "ミュウツー",
+      "Mewtwo",
+      "Mewtwo",
+      "Mewtwo",
+      "Mewtu",
+      "Mewtwo",
+      "超夢",
+      "뮤츠",
+      "Mewtwo",
+      "ミュウツー"
+    ]
+  },
+  "151": {
+    "id": 151,
+    "names": [
+      "梦幻",
+      "ミュウ",
+      "Mew",
+      "Mew",
+      "Mew",
+      "Mew",
+      "Mew",
+      "夢幻",
+      "뮤",
+      "Mew",
+      "ミュウ"
+    ]
+  },
+  "152": {
+    "id": 152,
+    "names": [
+      "菊草叶",
+      "チコリータ",
+      "Chikorita",
+      "Chikorita",
+      "Chikorita",
+      "Endivie",
+      "Germignon",
+      "菊草葉",
+      "치코리타",
+      "Chicorita",
+      "チコリータ"
+    ]
+  },
+  "153": {
+    "id": 153,
+    "names": [
+      "月桂叶",
+      "ベイリーフ",
+      "Bayleef",
+      "Bayleef",
+      "Bayleef",
+      "Lorblatt",
+      "Macronium",
+      "月桂葉",
+      "베이리프",
+      "Bayleaf",
+      "ベイリーフ"
+    ]
+  },
+  "154": {
+    "id": 154,
+    "names": [
+      "大竺葵",
+      "メガニウム",
+      "Meganium",
+      "Meganium",
+      "Meganium",
+      "Meganie",
+      "Méganium",
+      "大竺葵",
+      "메가니움",
+      "Meganium",
+      "メガニウム"
+    ]
+  },
+  "155": {
+    "id": 155,
+    "names": [
+      "火球鼠",
+      "ヒノアラシ",
+      "Cyndaquil",
+      "Cyndaquil",
+      "Cyndaquil",
+      "Feurigel",
+      "Héricendre",
+      "火球鼠",
+      "브케인",
+      "Hinoarashi",
+      "ヒノアラシ"
+    ]
+  },
+  "156": {
+    "id": 156,
+    "names": [
+      "火岩鼠",
+      "マグマラシ",
+      "Quilava",
+      "Quilava",
+      "Quilava",
+      "Igelavar",
+      "Feurisson",
+      "火岩鼠",
+      "마그케인",
+      "Magmarashi",
+      "マグマラシ"
+    ]
+  },
+  "157": {
+    "id": 157,
+    "names": [
+      "火暴兽",
+      "バクフーン",
+      "Typhlosion",
+      "Typhlosion",
+      "Typhlosion",
+      "Tornupto",
+      "Typhlosion",
+      "火爆獸",
+      "블레이범",
+      "Bakphoon",
+      "バクフーン"
+    ]
+  },
+  "158": {
+    "id": 158,
+    "names": [
+      "小锯鳄",
+      "ワニノコ",
+      "Totodile",
+      "Totodile",
+      "Totodile",
+      "Karnimani",
+      "Kaiminus",
+      "小鋸鱷",
+      "리아코",
+      "Waninoko",
+      "ワニノコ"
+    ]
+  },
+  "159": {
+    "id": 159,
+    "names": [
+      "蓝鳄",
+      "アリゲイツ",
+      "Croconaw",
+      "Croconaw",
+      "Croconaw",
+      "Tyracroc",
+      "Crocrodil",
+      "藍鱷",
+      "엘리게이",
+      "Alligates",
+      "アリゲイツ"
+    ]
+  },
+  "160": {
+    "id": 160,
+    "names": [
+      "大力鳄",
+      "オーダイル",
+      "Feraligatr",
+      "Feraligatr",
+      "Feraligatr",
+      "Impergator",
+      "Aligatueur",
+      "大力鱷",
+      "장크로다일",
+      "Ordile",
+      "オーダイル"
+    ]
+  },
+  "161": {
+    "id": 161,
+    "names": [
+      "尾立",
+      "オタチ",
+      "Sentret",
+      "Sentret",
+      "Sentret",
+      "Wiesor",
+      "Fouinette",
+      "尾立",
+      "꼬리선",
+      "Otachi",
+      "オタチ"
+    ]
+  },
+  "162": {
+    "id": 162,
+    "names": [
+      "大尾立",
+      "オオタチ",
+      "Furret",
+      "Furret",
+      "Furret",
+      "Wiesenior",
+      "Fouinar",
+      "大尾立",
+      "다꼬리",
+      "Ootachi",
+      "オオタチ"
+    ]
+  },
+  "163": {
+    "id": 163,
+    "names": [
+      "咕咕",
+      "ホーホー",
+      "Hoothoot",
+      "Hoothoot",
+      "Hoothoot",
+      "Hoothoot",
+      "Hoothoot",
+      "咕咕",
+      "부우부",
+      "Hoho",
+      "ホーホー"
+    ]
+  },
+  "164": {
+    "id": 164,
+    "names": [
+      "猫头夜鹰",
+      "ヨルノズク",
+      "Noctowl",
+      "Noctowl",
+      "Noctowl",
+      "Noctuh",
+      "Noarfang",
+      "貓頭夜鷹",
+      "야부엉",
+      "Yorunozuku",
+      "ヨルノズク"
+    ]
+  },
+  "165": {
+    "id": 165,
+    "names": [
+      "芭瓢虫",
+      "レディバ",
+      "Ledyba",
+      "Ledyba",
+      "Ledyba",
+      "Ledyba",
+      "Coxy",
+      "芭瓢蟲",
+      "레디바",
+      "Rediba",
+      "レディバ"
+    ]
+  },
+  "166": {
+    "id": 166,
+    "names": [
+      "安瓢虫",
+      "レディアン",
+      "Ledian",
+      "Ledian",
+      "Ledian",
+      "Ledian",
+      "Coxyclaque",
+      "安瓢蟲",
+      "레디안",
+      "Redian",
+      "レディアン"
+    ]
+  },
+  "167": {
+    "id": 167,
+    "names": [
+      "圆丝蛛",
+      "イトマル",
+      "Spinarak",
+      "Spinarak",
+      "Spinarak",
+      "Webarak",
+      "Mimigal",
+      "圓絲蛛",
+      "페이검",
+      "Itomaru",
+      "イトマル"
+    ]
+  },
+  "168": {
+    "id": 168,
+    "names": [
+      "阿利多斯",
+      "アリアドス",
+      "Ariados",
+      "Ariados",
+      "Ariados",
+      "Ariados",
+      "Migalos",
+      "阿利多斯",
+      "아리아도스",
+      "Ariados",
+      "アリアドス"
+    ]
+  },
+  "169": {
+    "id": 169,
+    "names": [
+      "叉字蝠",
+      "クロバット",
+      "Crobat",
+      "Crobat",
+      "Crobat",
+      "Iksbat",
+      "Nostenfer",
+      "叉字蝠",
+      "크로뱃",
+      "Crobat",
+      "クロバット"
+    ]
+  },
+  "170": {
+    "id": 170,
+    "names": [
+      "灯笼鱼",
+      "チョンチー",
+      "Chinchou",
+      "Chinchou",
+      "Chinchou",
+      "Lampi",
+      "Loupio",
+      "燈籠魚",
+      "초라기",
+      "Chonchie",
+      "チョンチー"
+    ]
+  },
+  "171": {
+    "id": 171,
+    "names": [
+      "电灯怪",
+      "ランターン",
+      "Lanturn",
+      "Lanturn",
+      "Lanturn",
+      "Lanturn",
+      "Lanturn",
+      "電燈怪",
+      "랜턴",
+      "Lantern",
+      "ランターン"
+    ]
+  },
+  "172": {
+    "id": 172,
+    "names": [
+      "皮丘",
+      "ピチュー",
+      "Pichu",
+      "Pichu",
+      "Pichu",
+      "Pichu",
+      "Pichu",
+      "皮丘",
+      "피츄",
+      "Pichu",
+      "ピチュー"
+    ]
+  },
+  "173": {
+    "id": 173,
+    "names": [
+      "皮宝宝",
+      "ピィ",
+      "Cleffa",
+      "Cleffa",
+      "Cleffa",
+      "Pii",
+      "Mélo",
+      "皮寶寶",
+      "삐",
+      "Py",
+      "ピィ"
+    ]
+  },
+  "174": {
+    "id": 174,
+    "names": [
+      "宝宝丁",
+      "ププリン",
+      "Igglybuff",
+      "Igglybuff",
+      "Igglybuff",
+      "Fluffeluff",
+      "Toudoudou",
+      "寶寶丁",
+      "푸푸린",
+      "Pupurin",
+      "ププリン"
+    ]
+  },
+  "175": {
+    "id": 175,
+    "names": [
+      "波克比",
+      "トゲピー",
+      "Togepi",
+      "Togepi",
+      "Togepi",
+      "Togepi",
+      "Togepi",
+      "波克比",
+      "토게피",
+      "Togepy",
+      "トゲピー"
+    ]
+  },
+  "176": {
+    "id": 176,
+    "names": [
+      "波克基古",
+      "トゲチック",
+      "Togetic",
+      "Togetic",
+      "Togetic",
+      "Togetic",
+      "Togetic",
+      "波克基古",
+      "토게틱",
+      "Togechick",
+      "トゲチック"
+    ]
+  },
+  "177": {
+    "id": 177,
+    "names": [
+      "天然雀",
+      "ネイティ",
+      "Natu",
+      "Natu",
+      "Natu",
+      "Natu",
+      "Natu",
+      "天然雀",
+      "네이티",
+      "Naty",
+      "ネイティ"
+    ]
+  },
+  "178": {
+    "id": 178,
+    "names": [
+      "天然鸟",
+      "ネイティオ",
+      "Xatu",
+      "Xatu",
+      "Xatu",
+      "Xatu",
+      "Xatu",
+      "天然鳥",
+      "네이티오",
+      "Natio",
+      "ネイティオ"
+    ]
+  },
+  "179": {
+    "id": 179,
+    "names": [
+      "咩利羊",
+      "メリープ",
+      "Mareep",
+      "Mareep",
+      "Mareep",
+      "Voltilamm",
+      "Wattouat",
+      "咩利羊",
+      "메리프",
+      "Merriep",
+      "メリープ"
+    ]
+  },
+  "180": {
+    "id": 180,
+    "names": [
+      "茸茸羊",
+      "モココ",
+      "Flaaffy",
+      "Flaaffy",
+      "Flaaffy",
+      "Waaty",
+      "Lainergie",
+      "茸茸羊",
+      "보송송",
+      "Mokoko",
+      "モココ"
+    ]
+  },
+  "181": {
+    "id": 181,
+    "names": [
+      "电龙",
+      "デンリュウ",
+      "Ampharos",
+      "Ampharos",
+      "Ampharos",
+      "Ampharos",
+      "Pharamp",
+      "電龍",
+      "전룡",
+      "Denryu",
+      "デンリュウ"
+    ]
+  },
+  "182": {
+    "id": 182,
+    "names": [
+      "美丽花",
+      "キレイハナ",
+      "Bellossom",
+      "Bellossom",
+      "Bellossom",
+      "Blubella",
+      "Joliflor",
+      "美麗花",
+      "아르코",
+      "Kireihana",
+      "キレイハナ"
+    ]
+  },
+  "183": {
+    "id": 183,
+    "names": [
+      "玛力露",
+      "マリル",
+      "Marill",
+      "Marill",
+      "Marill",
+      "Marill",
+      "Marill",
+      "瑪力露",
+      "마릴",
+      "Maril",
+      "マリル"
+    ]
+  },
+  "184": {
+    "id": 184,
+    "names": [
+      "玛力露丽",
+      "マリルリ",
+      "Azumarill",
+      "Azumarill",
+      "Azumarill",
+      "Azumarill",
+      "Azumarill",
+      "瑪力露麗",
+      "마릴리",
+      "Marilli",
+      "マリルリ"
+    ]
+  },
+  "185": {
+    "id": 185,
+    "names": [
+      "树才怪",
+      "ウソッキー",
+      "Sudowoodo",
+      "Sudowoodo",
+      "Sudowoodo",
+      "Mogelbaum",
+      "Simularbre",
+      "樹才怪",
+      "꼬지모",
+      "Usokkie",
+      "ウソッキー"
+    ]
+  },
+  "186": {
+    "id": 186,
+    "names": [
+      "蚊香蛙皇",
+      "ニョロトノ",
+      "Politoed",
+      "Politoed",
+      "Politoed",
+      "Quaxo",
+      "Tarpaud",
+      "蚊香蛙皇",
+      "왕구리",
+      "Nyorotono",
+      "ニョロトノ"
+    ]
+  },
+  "187": {
+    "id": 187,
+    "names": [
+      "毽子草",
+      "ハネッコ",
+      "Hoppip",
+      "Hoppip",
+      "Hoppip",
+      "Hoppspross",
+      "Granivol",
+      "毽子草",
+      "통통코",
+      "Hanecco",
+      "ハネッコ"
+    ]
+  },
+  "188": {
+    "id": 188,
+    "names": [
+      "毽子花",
+      "ポポッコ",
+      "Skiploom",
+      "Skiploom",
+      "Skiploom",
+      "Hubelupf",
+      "Floravol",
+      "毽子花",
+      "두코",
+      "Popocco",
+      "ポポッコ"
+    ]
+  },
+  "189": {
+    "id": 189,
+    "names": [
+      "毽子棉",
+      "ワタッコ",
+      "Jumpluff",
+      "Jumpluff",
+      "Jumpluff",
+      "Papungha",
+      "Cotovol",
+      "毽子棉",
+      "솜솜코",
+      "Watacco",
+      "ワタッコ"
+    ]
+  },
+  "190": {
+    "id": 190,
+    "names": [
+      "长尾怪手",
+      "エイパム",
+      "Aipom",
+      "Aipom",
+      "Aipom",
+      "Griffel",
+      "Capumain",
+      "長尾怪手",
+      "에이팜",
+      "Eipam",
+      "エイパム"
+    ]
+  },
+  "191": {
+    "id": 191,
+    "names": [
+      "向日种子",
+      "ヒマナッツ",
+      "Sunkern",
+      "Sunkern",
+      "Sunkern",
+      "Sonnkern",
+      "Tournegrin",
+      "向日種子",
+      "해너츠",
+      "Himanuts",
+      "ヒマナッツ"
+    ]
+  },
+  "192": {
+    "id": 192,
+    "names": [
+      "向日花怪",
+      "キマワリ",
+      "Sunflora",
+      "Sunflora",
+      "Sunflora",
+      "Sonnflora",
+      "Héliatronc",
+      "向日花怪",
+      "해루미",
+      "Kimawari",
+      "キマワリ"
+    ]
+  },
+  "193": {
+    "id": 193,
+    "names": [
+      "蜻蜻蜓",
+      "ヤンヤンマ",
+      "Yanma",
+      "Yanma",
+      "Yanma",
+      "Yanma",
+      "Yanma",
+      "蜻蜻蜓",
+      "왕자리",
+      "Yanyanma",
+      "ヤンヤンマ"
+    ]
+  },
+  "194": {
+    "id": 194,
+    "names": [
+      "乌波",
+      "ウパー",
+      "Wooper",
+      "Wooper",
+      "Wooper",
+      "Felino",
+      "Axoloto",
+      "烏波",
+      "우파",
+      "Upah",
+      "ウパー"
+    ]
+  },
+  "195": {
+    "id": 195,
+    "names": [
+      "沼王",
+      "ヌオー",
+      "Quagsire",
+      "Quagsire",
+      "Quagsire",
+      "Morlord",
+      "Maraiste",
+      "沼王",
+      "누오",
+      "Nuoh",
+      "ヌオー"
+    ]
+  },
+  "196": {
+    "id": 196,
+    "names": [
+      "太阳伊布",
+      "エーフィ",
+      "Espeon",
+      "Espeon",
+      "Espeon",
+      "Psiana",
+      "Mentali",
+      "太陽伊布",
+      "에브이",
+      "Eifie",
+      "エーフィ"
+    ]
+  },
+  "197": {
+    "id": 197,
+    "names": [
+      "月亮伊布",
+      "ブラッキー",
+      "Umbreon",
+      "Umbreon",
+      "Umbreon",
+      "Nachtara",
+      "Noctali",
+      "月亮伊布",
+      "블래키",
+      "Blacky",
+      "ブラッキー"
+    ]
+  },
+  "198": {
+    "id": 198,
+    "names": [
+      "黑暗鸦",
+      "ヤミカラス",
+      "Murkrow",
+      "Murkrow",
+      "Murkrow",
+      "Kramurx",
+      "Cornèbre",
+      "黑暗鴉",
+      "니로우",
+      "Yamikarasu",
+      "ヤミカラス"
+    ]
+  },
+  "199": {
+    "id": 199,
+    "names": [
+      "呆呆王",
+      "ヤドキング",
+      "Slowking",
+      "Slowking",
+      "Slowking",
+      "Laschoking",
+      "Roigada",
+      "呆呆王",
+      "야도킹",
+      "Yadoking",
+      "ヤドキング"
+    ]
+  },
+  "200": {
+    "id": 200,
+    "names": [
+      "梦妖",
+      "ムウマ",
+      "Misdreavus",
+      "Misdreavus",
+      "Misdreavus",
+      "Traunfugil",
+      "Feuforêve",
+      "夢妖",
+      "무우마",
+      "Muma",
+      "ムウマ"
+    ]
+  },
+  "201": {
+    "id": 201,
+    "names": [
+      "未知图腾",
+      "アンノーン",
+      "Unown",
+      "Unown",
+      "Unown",
+      "Icognito",
+      "Zarbi",
+      "未知圖騰",
+      "안농",
+      "Unknown",
+      "アンノーン"
+    ]
+  },
+  "202": {
+    "id": 202,
+    "names": [
+      "果然翁",
+      "ソーナンス",
+      "Wobbuffet",
+      "Wobbuffet",
+      "Wobbuffet",
+      "Woingenau",
+      "Qulbutoké",
+      "果然翁",
+      "마자용",
+      "Sonans",
+      "ソーナンス"
+    ]
+  },
+  "203": {
+    "id": 203,
+    "names": [
+      "麒麟奇",
+      "キリンリキ",
+      "Girafarig",
+      "Girafarig",
+      "Girafarig",
+      "Girafarig",
+      "Girafarig",
+      "麒麟奇",
+      "키링키",
+      "Kirinriki",
+      "キリンリキ"
+    ]
+  },
+  "204": {
+    "id": 204,
+    "names": [
+      "榛果球",
+      "クヌギダマ",
+      "Pineco",
+      "Pineco",
+      "Pineco",
+      "Tannza",
+      "Pomdepik",
+      "榛果球",
+      "피콘",
+      "Kunugidama",
+      "クヌギダマ"
+    ]
+  },
+  "205": {
+    "id": 205,
+    "names": [
+      "佛烈托斯",
+      "フォレトス",
+      "Forretress",
+      "Forretress",
+      "Forretress",
+      "Forstellka",
+      "Foretress",
+      "佛烈托斯",
+      "쏘콘",
+      "Foretos",
+      "フォレトス"
+    ]
+  },
+  "206": {
+    "id": 206,
+    "names": [
+      "土龙弟弟",
+      "ノコッチ",
+      "Dunsparce",
+      "Dunsparce",
+      "Dunsparce",
+      "Dummisel",
+      "Insolourdo",
+      "土龍弟弟",
+      "노고치",
+      "Nokocchi",
+      "ノコッチ"
+    ]
+  },
+  "207": {
+    "id": 207,
+    "names": [
+      "天蝎",
+      "グライガー",
+      "Gligar",
+      "Gligar",
+      "Gligar",
+      "Skorgla",
+      "Scorplane",
+      "天蠍",
+      "글라이거",
+      "Gliger",
+      "グライガー"
+    ]
+  },
+  "208": {
+    "id": 208,
+    "names": [
+      "大钢蛇",
+      "ハガネール",
+      "Steelix",
+      "Steelix",
+      "Steelix",
+      "Stahlos",
+      "Steelix",
+      "大鋼蛇",
+      "강철톤",
+      "Haganeil",
+      "ハガネール"
+    ]
+  },
+  "209": {
+    "id": 209,
+    "names": [
+      "布鲁",
+      "ブルー",
+      "Snubbull",
+      "Snubbull",
+      "Snubbull",
+      "Snubbull",
+      "Snubbull",
+      "布魯",
+      "블루",
+      "Bulu",
+      "ブルー"
+    ]
+  },
+  "210": {
+    "id": 210,
+    "names": [
+      "布鲁皇",
+      "グランブル",
+      "Granbull",
+      "Granbull",
+      "Granbull",
+      "Granbull",
+      "Granbull",
+      "布魯皇",
+      "그랑블루",
+      "Granbulu",
+      "グランブル"
+    ]
+  },
+  "211": {
+    "id": 211,
+    "names": [
+      "千针鱼",
+      "ハリーセン",
+      "Qwilfish",
+      "Qwilfish",
+      "Qwilfish",
+      "Baldorfish",
+      "Qwilfish",
+      "千針魚",
+      "침바루",
+      "Harysen",
+      "ハリーセン"
+    ]
+  },
+  "212": {
+    "id": 212,
+    "names": [
+      "巨钳螳螂",
+      "ハッサム",
+      "Scizor",
+      "Scizor",
+      "Scizor",
+      "Scherox",
+      "Cizayox",
+      "巨鉗螳螂",
+      "핫삼",
+      "Hassam",
+      "ハッサム"
+    ]
+  },
+  "213": {
+    "id": 213,
+    "names": [
+      "壶壶",
+      "ツボツボ",
+      "Shuckle",
+      "Shuckle",
+      "Shuckle",
+      "Pottrott",
+      "Caratroc",
+      "壺壺",
+      "단단지",
+      "Tsubotsubo",
+      "ツボツボ"
+    ]
+  },
+  "214": {
+    "id": 214,
+    "names": [
+      "赫拉克罗斯",
+      "ヘラクロス",
+      "Heracross",
+      "Heracross",
+      "Heracross",
+      "Skaraborn",
+      "Scarhino",
+      "赫拉克羅斯",
+      "헤라크로스",
+      "Heracros",
+      "ヘラクロス"
+    ]
+  },
+  "215": {
+    "id": 215,
+    "names": [
+      "狃拉",
+      "ニューラ",
+      "Sneasel",
+      "Sneasel",
+      "Sneasel",
+      "Sniebel",
+      "Farfuret",
+      "狃拉",
+      "포푸니",
+      "Nyula",
+      "ニューラ"
+    ]
+  },
+  "216": {
+    "id": 216,
+    "names": [
+      "熊宝宝",
+      "ヒメグマ",
+      "Teddiursa",
+      "Teddiursa",
+      "Teddiursa",
+      "Teddiursa",
+      "Teddiursa",
+      "熊寶寶",
+      "깜지곰",
+      "Himeguma",
+      "ヒメグマ"
+    ]
+  },
+  "217": {
+    "id": 217,
+    "names": [
+      "圈圈熊",
+      "リングマ",
+      "Ursaring",
+      "Ursaring",
+      "Ursaring",
+      "Ursaring",
+      "Ursaring",
+      "圈圈熊",
+      "링곰",
+      "Ringuma",
+      "リングマ"
+    ]
+  },
+  "218": {
+    "id": 218,
+    "names": [
+      "熔岩虫",
+      "マグマッグ",
+      "Slugma",
+      "Slugma",
+      "Slugma",
+      "Schneckmag",
+      "Limagma",
+      "熔岩蟲",
+      "마그마그",
+      "Magmag",
+      "マグマッグ"
+    ]
+  },
+  "219": {
+    "id": 219,
+    "names": [
+      "熔岩蜗牛",
+      "マグカルゴ",
+      "Magcargo",
+      "Magcargo",
+      "Magcargo",
+      "Magcargo",
+      "Volcaropod",
+      "熔岩蝸牛",
+      "마그카르고",
+      "Magcargot",
+      "マグカルゴ"
+    ]
+  },
+  "220": {
+    "id": 220,
+    "names": [
+      "小山猪",
+      "ウリムー",
+      "Swinub",
+      "Swinub",
+      "Swinub",
+      "Quiekel",
+      "Marcacrin",
+      "小山豬",
+      "꾸꾸리",
+      "Urimoo",
+      "ウリムー"
+    ]
+  },
+  "221": {
+    "id": 221,
+    "names": [
+      "长毛猪",
+      "イノムー",
+      "Piloswine",
+      "Piloswine",
+      "Piloswine",
+      "Keifel",
+      "Cochignon",
+      "長毛豬",
+      "메꾸리",
+      "Inomoo",
+      "イノムー"
+    ]
+  },
+  "222": {
+    "id": 222,
+    "names": [
+      "太阳珊瑚",
+      "サニーゴ",
+      "Corsola",
+      "Corsola",
+      "Corsola",
+      "Corasonn",
+      "Corayon",
+      "太陽珊瑚",
+      "코산호",
+      "Sunnygo",
+      "サニーゴ"
+    ]
+  },
+  "223": {
+    "id": 223,
+    "names": [
+      "铁炮鱼",
+      "テッポウオ",
+      "Remoraid",
+      "Remoraid",
+      "Remoraid",
+      "Remoraid",
+      "Rémoraid",
+      "鐵砲魚",
+      "총어",
+      "Teppouo",
+      "テッポウオ"
+    ]
+  },
+  "224": {
+    "id": 224,
+    "names": [
+      "章鱼桶",
+      "オクタン",
+      "Octillery",
+      "Octillery",
+      "Octillery",
+      "Octillery",
+      "Octillery",
+      "章魚桶",
+      "대포무노",
+      "Okutank",
+      "オクタン"
+    ]
+  },
+  "225": {
+    "id": 225,
+    "names": [
+      "信使鸟",
+      "デリバード",
+      "Delibird",
+      "Delibird",
+      "Delibird",
+      "Botogel",
+      "Cadoizo",
+      "信使鳥",
+      "딜리버드",
+      "Delibird",
+      "デリバード"
+    ]
+  },
+  "226": {
+    "id": 226,
+    "names": [
+      "巨翅飞鱼",
+      "マンタイン",
+      "Mantine",
+      "Mantine",
+      "Mantine",
+      "Mantax",
+      "Démanta",
+      "巨翅飛魚",
+      "만타인",
+      "Mantain",
+      "マンタイン"
+    ]
+  },
+  "227": {
+    "id": 227,
+    "names": [
+      "盔甲鸟",
+      "エアームド",
+      "Skarmory",
+      "Skarmory",
+      "Skarmory",
+      "Panzaeron",
+      "Airmure",
+      "盔甲鳥",
+      "무장조",
+      "Airmd",
+      "エアームド"
+    ]
+  },
+  "228": {
+    "id": 228,
+    "names": [
+      "戴鲁比",
+      "デルビル",
+      "Houndour",
+      "Houndour",
+      "Houndour",
+      "Hunduster",
+      "Malosse",
+      "戴魯比",
+      "델빌",
+      "Delvil",
+      "デルビル"
+    ]
+  },
+  "229": {
+    "id": 229,
+    "names": [
+      "黑鲁加",
+      "ヘルガー",
+      "Houndoom",
+      "Houndoom",
+      "Houndoom",
+      "Hundemon",
+      "Démolosse",
+      "黑魯加",
+      "헬가",
+      "Hellgar",
+      "ヘルガー"
+    ]
+  },
+  "230": {
+    "id": 230,
+    "names": [
+      "刺龙王",
+      "キングドラ",
+      "Kingdra",
+      "Kingdra",
+      "Kingdra",
+      "Seedraking",
+      "Hyporoi",
+      "刺龍王",
+      "킹드라",
+      "Kingdra",
+      "キングドラ"
+    ]
+  },
+  "231": {
+    "id": 231,
+    "names": [
+      "小小象",
+      "ゴマゾウ",
+      "Phanpy",
+      "Phanpy",
+      "Phanpy",
+      "Phanpy",
+      "Phanpy",
+      "小小象",
+      "코코리",
+      "Gomazou",
+      "ゴマゾウ"
+    ]
+  },
+  "232": {
+    "id": 232,
+    "names": [
+      "顿甲",
+      "ドンファン",
+      "Donphan",
+      "Donphan",
+      "Donphan",
+      "Donphan",
+      "Donphan",
+      "頓甲",
+      "코리갑",
+      "Donfan",
+      "ドンファン"
+    ]
+  },
+  "233": {
+    "id": 233,
+    "names": [
+      "多边兽２",
+      "ポリゴン２",
+      "Porygon2",
+      "Porygon2",
+      "Porygon2",
+      "Porygon2",
+      "Porygon2",
+      "多邊獸２",
+      "폴리곤2",
+      "Porygon2",
+      "ポリゴン２"
+    ]
+  },
+  "234": {
+    "id": 234,
+    "names": [
+      "惊角鹿",
+      "オドシシ",
+      "Stantler",
+      "Stantler",
+      "Stantler",
+      "Damhirplex",
+      "Cerfrousse",
+      "驚角鹿",
+      "노라키",
+      "Odoshishi",
+      "オドシシ"
+    ]
+  },
+  "235": {
+    "id": 235,
+    "names": [
+      "图图犬",
+      "ドーブル",
+      "Smeargle",
+      "Smeargle",
+      "Smeargle",
+      "Farbeagle",
+      "Queulorior",
+      "圖圖犬",
+      "루브도",
+      "Doble",
+      "ドーブル"
+    ]
+  },
+  "236": {
+    "id": 236,
+    "names": [
+      "无畏小子",
+      "バルキー",
+      "Tyrogue",
+      "Tyrogue",
+      "Tyrogue",
+      "Rabauz",
+      "Debugant",
+      "無畏小子",
+      "배루키",
+      "Balkie",
+      "バルキー"
+    ]
+  },
+  "237": {
+    "id": 237,
+    "names": [
+      "战舞郎",
+      "カポエラー",
+      "Hitmontop",
+      "Hitmontop",
+      "Hitmontop",
+      "Kapoera",
+      "Kapoera",
+      "戰舞郎",
+      "카포에라",
+      "Kapoerer",
+      "カポエラー"
+    ]
+  },
+  "238": {
+    "id": 238,
+    "names": [
+      "迷唇娃",
+      "ムチュール",
+      "Smoochum",
+      "Smoochum",
+      "Smoochum",
+      "Kussilla",
+      "Lippouti",
+      "迷唇娃",
+      "뽀뽀라",
+      "Muchul",
+      "ムチュール"
+    ]
+  },
+  "239": {
+    "id": 239,
+    "names": [
+      "电击怪",
+      "エレキッド",
+      "Elekid",
+      "Elekid",
+      "Elekid",
+      "Elekid",
+      "Élekid",
+      "電擊怪",
+      "에레키드",
+      "Elekid",
+      "エレキッド"
+    ]
+  },
+  "240": {
+    "id": 240,
+    "names": [
+      "鸭嘴宝宝",
+      "ブビィ",
+      "Magby",
+      "Magby",
+      "Magby",
+      "Magby",
+      "Magby",
+      "鴨嘴寶寶",
+      "마그비",
+      "Buby",
+      "ブビィ"
+    ]
+  },
+  "241": {
+    "id": 241,
+    "names": [
+      "大奶罐",
+      "ミルタンク",
+      "Miltank",
+      "Miltank",
+      "Miltank",
+      "Miltank",
+      "Écrémeuh",
+      "大奶罐",
+      "밀탱크",
+      "Miltank",
+      "ミルタンク"
+    ]
+  },
+  "242": {
+    "id": 242,
+    "names": [
+      "幸福蛋",
+      "ハピナス",
+      "Blissey",
+      "Blissey",
+      "Blissey",
+      "Heiteira",
+      "Leuphorie",
+      "幸福蛋",
+      "해피너스",
+      "Happinas",
+      "ハピナス"
+    ]
+  },
+  "243": {
+    "id": 243,
+    "names": [
+      "雷公",
+      "ライコウ",
+      "Raikou",
+      "Raikou",
+      "Raikou",
+      "Raikou",
+      "Raikou",
+      "雷公",
+      "라이코",
+      "Raikou",
+      "ライコウ"
+    ]
+  },
+  "244": {
+    "id": 244,
+    "names": [
+      "炎帝",
+      "エンテイ",
+      "Entei",
+      "Entei",
+      "Entei",
+      "Entei",
+      "Entei",
+      "炎帝",
+      "앤테이",
+      "Entei",
+      "エンテイ"
+    ]
+  },
+  "245": {
+    "id": 245,
+    "names": [
+      "水君",
+      "スイクン",
+      "Suicune",
+      "Suicune",
+      "Suicune",
+      "Suicune",
+      "Suicune",
+      "水君",
+      "스이쿤",
+      "Suikun",
+      "スイクン"
+    ]
+  },
+  "246": {
+    "id": 246,
+    "names": [
+      "幼基拉斯",
+      "ヨーギラス",
+      "Larvitar",
+      "Larvitar",
+      "Larvitar",
+      "Larvitar",
+      "Embrylex",
+      "幼基拉斯",
+      "애버라스",
+      "Yogiras",
+      "ヨーギラス"
+    ]
+  },
+  "247": {
+    "id": 247,
+    "names": [
+      "沙基拉斯",
+      "サナギラス",
+      "Pupitar",
+      "Pupitar",
+      "Pupitar",
+      "Pupitar",
+      "Ymphect",
+      "沙基拉斯",
+      "데기라스",
+      "Sanagiras",
+      "サナギラス"
+    ]
+  },
+  "248": {
+    "id": 248,
+    "names": [
+      "班基拉斯",
+      "バンギラス",
+      "Tyranitar",
+      "Tyranitar",
+      "Tyranitar",
+      "Despotar",
+      "Tyranocif",
+      "班基拉斯",
+      "마기라스",
+      "Bangiras",
+      "バンギラス"
+    ]
+  },
+  "249": {
+    "id": 249,
+    "names": [
+      "洛奇亚",
+      "ルギア",
+      "Lugia",
+      "Lugia",
+      "Lugia",
+      "Lugia",
+      "Lugia",
+      "洛奇亞",
+      "루기아",
+      "Lugia",
+      "ルギア"
+    ]
+  },
+  "250": {
+    "id": 250,
+    "names": [
+      "凤王",
+      "ホウオウ",
+      "Ho-Oh",
+      "Ho-Oh",
+      "Ho-Oh",
+      "Ho-Oh",
+      "Ho-Oh",
+      "鳳王",
+      "칠색조",
+      "Houou",
+      "ホウオウ"
+    ]
+  },
+  "251": {
+    "id": 251,
+    "names": [
+      "时拉比",
+      "セレビィ",
+      "Celebi",
+      "Celebi",
+      "Celebi",
+      "Celebi",
+      "Celebi",
+      "時拉比",
+      "세레비",
+      "Celebi",
+      "セレビィ"
+    ]
+  },
+  "252": {
+    "id": 252,
+    "names": [
+      "木守宫",
+      "キモリ",
+      "Treecko",
+      "Treecko",
+      "Treecko",
+      "Geckarbor",
+      "Arcko",
+      "木守宮",
+      "나무지기",
+      "Kimori",
+      "キモリ"
+    ]
+  },
+  "253": {
+    "id": 253,
+    "names": [
+      "森林蜥蜴",
+      "ジュプトル",
+      "Grovyle",
+      "Grovyle",
+      "Grovyle",
+      "Reptain",
+      "Massko",
+      "森林蜥蜴",
+      "나무돌이",
+      "Juptile",
+      "ジュプトル"
+    ]
+  },
+  "254": {
+    "id": 254,
+    "names": [
+      "蜥蜴王",
+      "ジュカイン",
+      "Sceptile",
+      "Sceptile",
+      "Sceptile",
+      "Gewaldro",
+      "Jungko",
+      "蜥蜴王",
+      "나무킹",
+      "Jukain",
+      "ジュカイン"
+    ]
+  },
+  "255": {
+    "id": 255,
+    "names": [
+      "火稚鸡",
+      "アチャモ",
+      "Torchic",
+      "Torchic",
+      "Torchic",
+      "Flemmli",
+      "Poussifeu",
+      "火稚雞",
+      "아차모",
+      "Achamo",
+      "アチャモ"
+    ]
+  },
+  "256": {
+    "id": 256,
+    "names": [
+      "力壮鸡",
+      "ワカシャモ",
+      "Combusken",
+      "Combusken",
+      "Combusken",
+      "Jungglut",
+      "Galifeu",
+      "力壯雞",
+      "영치코",
+      "Wakasyamo",
+      "ワカシャモ"
+    ]
+  },
+  "257": {
+    "id": 257,
+    "names": [
+      "火焰鸡",
+      "バシャーモ",
+      "Blaziken",
+      "Blaziken",
+      "Blaziken",
+      "Lohgock",
+      "Braségali",
+      "火焰雞",
+      "번치코",
+      "Bursyamo",
+      "バシャーモ"
+    ]
+  },
+  "258": {
+    "id": 258,
+    "names": [
+      "水躍鱼",
+      "ミズゴロウ",
+      "Mudkip",
+      "Mudkip",
+      "Mudkip",
+      "Hydropi",
+      "Gobou",
+      "水躍魚",
+      "물짱이",
+      "Mizugorou",
+      "ミズゴロウ"
+    ]
+  },
+  "259": {
+    "id": 259,
+    "names": [
+      "沼躍鱼",
+      "ヌマクロー",
+      "Marshtomp",
+      "Marshtomp",
+      "Marshtomp",
+      "Moorabbel",
+      "Flobio",
+      "沼躍魚",
+      "늪짱이",
+      "Numacraw",
+      "ヌマクロー"
+    ]
+  },
+  "260": {
+    "id": 260,
+    "names": [
+      "巨沼怪",
+      "ラグラージ",
+      "Swampert",
+      "Swampert",
+      "Swampert",
+      "Sumpex",
+      "Laggron",
+      "巨沼怪",
+      "대짱이",
+      "Laglarge",
+      "ラグラージ"
+    ]
+  },
+  "261": {
+    "id": 261,
+    "names": [
+      "土狼犬",
+      "ポチエナ",
+      "Poochyena",
+      "Poochyena",
+      "Poochyena",
+      "Fiffyen",
+      "Medhyèna",
+      "土狼犬",
+      "포챠나",
+      "Pochiena",
+      "ポチエナ"
+    ]
+  },
+  "262": {
+    "id": 262,
+    "names": [
+      "大狼犬",
+      "グラエナ",
+      "Mightyena",
+      "Mightyena",
+      "Mightyena",
+      "Magnayen",
+      "Grahyèna",
+      "大狼犬",
+      "그라에나",
+      "Guraena",
+      "グラエナ"
+    ]
+  },
+  "263": {
+    "id": 263,
+    "names": [
+      "蛇纹熊",
+      "ジグザグマ",
+      "Zigzagoon",
+      "Zigzagoon",
+      "Zigzagoon",
+      "Zigzachs",
+      "Zigzaton",
+      "蛇紋熊",
+      "지그제구리",
+      "Ziguzaguma",
+      "ジグザグマ"
+    ]
+  },
+  "264": {
+    "id": 264,
+    "names": [
+      "直冲熊",
+      "マッスグマ",
+      "Linoone",
+      "Linoone",
+      "Linoone",
+      "Geradaks",
+      "Linéon",
+      "直衝熊",
+      "직구리",
+      "Massuguma",
+      "マッスグマ"
+    ]
+  },
+  "265": {
+    "id": 265,
+    "names": [
+      "刺尾虫",
+      "ケムッソ",
+      "Wurmple",
+      "Wurmple",
+      "Wurmple",
+      "Waumpel",
+      "Chenipotte",
+      "刺尾蟲",
+      "개무소",
+      "Kemusso",
+      "ケムッソ"
+    ]
+  },
+  "266": {
+    "id": 266,
+    "names": [
+      "甲壳茧",
+      "カラサリス",
+      "Silcoon",
+      "Silcoon",
+      "Silcoon",
+      "Schaloko",
+      "Armulys",
+      "甲殼繭",
+      "실쿤",
+      "Karasalis",
+      "カラサリス"
+    ]
+  },
+  "267": {
+    "id": 267,
+    "names": [
+      "狩猎凤蝶",
+      "アゲハント",
+      "Beautifly",
+      "Beautifly",
+      "Beautifly",
+      "Papinella",
+      "Charmillon",
+      "狩獵鳳蝶",
+      "뷰티플라이",
+      "Agehunt",
+      "アゲハント"
+    ]
+  },
+  "268": {
+    "id": 268,
+    "names": [
+      "盾甲茧",
+      "マユルド",
+      "Cascoon",
+      "Cascoon",
+      "Cascoon",
+      "Panekon",
+      "Blindalys",
+      "盾甲繭",
+      "카스쿤",
+      "Mayuld",
+      "マユルド"
+    ]
+  },
+  "271": {
+    "id": 271,
+    "names": [
+      "莲帽小童",
+      "ハスブレロ",
+      "Lombre",
+      "Lombre",
+      "Lombre",
+      "Lombrero",
+      "Lombre",
+      "蓮帽小童",
+      "로토스",
+      "Hasubrero",
+      "ハスブレロ"
+    ]
+  },
+  "272": {
+    "id": 272,
+    "names": [
+      "乐天河童",
+      "ルンパッパ",
+      "Ludicolo",
+      "Ludicolo",
+      "Ludicolo",
+      "Kappalores",
+      "Ludicolo",
+      "樂天河童",
+      "로파파",
+      "Runpappa",
+      "ルンパッパ"
+    ]
+  },
+  "273": {
+    "id": 273,
+    "names": [
+      "橡实果",
+      "タネボー",
+      "Seedot",
+      "Seedot",
+      "Seedot",
+      "Samurzel",
+      "Grainipiot",
+      "橡實果",
+      "도토링",
+      "Taneboh",
+      "タネボー"
+    ]
+  },
+  "274": {
+    "id": 274,
+    "names": [
+      "长鼻叶",
+      "コノハナ",
+      "Nuzleaf",
+      "Nuzleaf",
+      "Nuzleaf",
+      "Blanas",
+      "Pifeuil",
+      "長鼻葉",
+      "잎새코",
+      "Konohana",
+      "コノハナ"
+    ]
+  },
+  "275": {
+    "id": 275,
+    "names": [
+      "狡猾天狗",
+      "ダーテング",
+      "Shiftry",
+      "Shiftry",
+      "Shiftry",
+      "Tengulist",
+      "Tengalice",
+      "狡猾天狗",
+      "다탱구",
+      "Dirteng",
+      "ダーテング"
+    ]
+  },
+  "276": {
+    "id": 276,
+    "names": [
+      "傲骨燕",
+      "スバメ",
+      "Taillow",
+      "Taillow",
+      "Taillow",
+      "Schwalbini",
+      "Nirondelle",
+      "傲骨燕",
+      "테일로",
+      "Subame",
+      "スバメ"
+    ]
+  },
+  "277": {
+    "id": 277,
+    "names": [
+      "大王燕",
+      "オオスバメ",
+      "Swellow",
+      "Swellow",
+      "Swellow",
+      "Schwalboss",
+      "Hélédelle",
+      "大王燕",
+      "스왈로",
+      "Ohsubame",
+      "オオスバメ"
+    ]
+  },
+  "278": {
+    "id": 278,
+    "names": [
+      "长翅鸥",
+      "キャモメ",
+      "Wingull",
+      "Wingull",
+      "Wingull",
+      "Wingull",
+      "Goélise",
+      "長翅鷗",
+      "갈모매",
+      "Camome",
+      "キャモメ"
+    ]
+  },
+  "279": {
+    "id": 279,
+    "names": [
+      "大嘴鸥",
+      "ペリッパー",
+      "Pelipper",
+      "Pelipper",
+      "Pelipper",
+      "Pelipper",
+      "Bekipan",
+      "大嘴鷗",
+      "패리퍼",
+      "Pelipper",
+      "ペリッパー"
+    ]
+  },
+  "280": {
+    "id": 280,
+    "names": [
+      "拉鲁拉丝",
+      "ラルトス",
+      "Ralts",
+      "Ralts",
+      "Ralts",
+      "Trasla",
+      "Tarsal",
+      "拉魯拉絲",
+      "랄토스",
+      "Ralts",
+      "ラルトス"
+    ]
+  },
+  "281": {
+    "id": 281,
+    "names": [
+      "奇鲁莉安",
+      "キルリア",
+      "Kirlia",
+      "Kirlia",
+      "Kirlia",
+      "Kirlia",
+      "Kirlia",
+      "奇魯莉安",
+      "킬리아",
+      "Kirlia",
+      "キルリア"
+    ]
+  },
+  "282": {
+    "id": 282,
+    "names": [
+      "沙奈朵",
+      "サーナイト",
+      "Gardevoir",
+      "Gardevoir",
+      "Gardevoir",
+      "Guardevoir",
+      "Gardevoir",
+      "沙奈朵",
+      "가디안",
+      "Sirnight",
+      "サーナイト"
+    ]
+  },
+  "283": {
+    "id": 283,
+    "names": [
+      "溜溜糖球",
+      "アメタマ",
+      "Surskit",
+      "Surskit",
+      "Surskit",
+      "Gehweiher",
+      "Arakdo",
+      "溜溜糖球",
+      "비구술",
+      "Ametama",
+      "アメタマ"
+    ]
+  },
+  "284": {
+    "id": 284,
+    "names": [
+      "雨翅蛾",
+      "アメモース",
+      "Masquerain",
+      "Masquerain",
+      "Masquerain",
+      "Maskeregen",
+      "Maskadra",
+      "雨翅蛾",
+      "비나방",
+      "Amemoth",
+      "アメモース"
+    ]
+  },
+  "285": {
+    "id": 285,
+    "names": [
+      "蘑蘑菇",
+      "キノココ",
+      "Shroomish",
+      "Shroomish",
+      "Shroomish",
+      "Knilz",
+      "Balignon",
+      "蘑蘑菇",
+      "버섯꼬",
+      "Kinococo",
+      "キノココ"
+    ]
+  },
+  "286": {
+    "id": 286,
+    "names": [
+      "斗笠菇",
+      "キノガッサ",
+      "Breloom",
+      "Breloom",
+      "Breloom",
+      "Kapilz",
+      "Chapignon",
+      "斗笠菇",
+      "버섯모",
+      "Kinogassa",
+      "キノガッサ"
+    ]
+  },
+  "287": {
+    "id": 287,
+    "names": [
+      "懒人獭",
+      "ナマケロ",
+      "Slakoth",
+      "Slakoth",
+      "Slakoth",
+      "Bummelz",
+      "Parecool",
+      "懶人獺",
+      "게을로",
+      "Namakero",
+      "ナマケロ"
+    ]
+  },
+  "288": {
+    "id": 288,
+    "names": [
+      "过动猿",
+      "ヤルキモノ",
+      "Vigoroth",
+      "Vigoroth",
+      "Vigoroth",
+      "Muntier",
+      "Vigoroth",
+      "過動猿",
+      "발바로",
+      "Yarukimono",
+      "ヤルキモノ"
+    ]
+  },
+  "289": {
+    "id": 289,
+    "names": [
+      "请假王",
+      "ケッキング",
+      "Slaking",
+      "Slaking",
+      "Slaking",
+      "Letarking",
+      "Monaflèmit",
+      "請假王",
+      "게을킹",
+      "Kekking",
+      "ケッキング"
+    ]
+  },
+  "290": {
+    "id": 290,
+    "names": [
+      "土居忍士",
+      "ツチニン",
+      "Nincada",
+      "Nincada",
+      "Nincada",
+      "Nincada",
+      "Ningale",
+      "土居忍士",
+      "토중몬",
+      "Tutinin",
+      "ツチニン"
+    ]
+  },
+  "291": {
+    "id": 291,
+    "names": [
+      "铁面忍者",
+      "テッカニン",
+      "Ninjask",
+      "Ninjask",
+      "Ninjask",
+      "Ninjask",
+      "Ninjask",
+      "鐵面忍者",
+      "아이스크",
+      "Tekkanin",
+      "テッカニン"
+    ]
+  },
+  "292": {
+    "id": 292,
+    "names": [
+      "脱壳忍者",
+      "ヌケニン",
+      "Shedinja",
+      "Shedinja",
+      "Shedinja",
+      "Ninjatom",
+      "Munja",
+      "脫殼忍者",
+      "껍질몬",
+      "Nukenin",
+      "ヌケニン"
+    ]
+  },
+  "293": {
+    "id": 293,
+    "names": [
+      "咕妞妞",
+      "ゴニョニョ",
+      "Whismur",
+      "Whismur",
+      "Whismur",
+      "Flurmel",
+      "Chuchmur",
+      "咕妞妞",
+      "소곤룡",
+      "Gonyonyo",
+      "ゴニョニョ"
+    ]
+  },
+  "294": {
+    "id": 294,
+    "names": [
+      "吼爆弹",
+      "ドゴーム",
+      "Loudred",
+      "Loudred",
+      "Loudred",
+      "Krakeelo",
+      "Ramboum",
+      "吼爆彈",
+      "노공룡",
+      "Dogohmb",
+      "ドゴーム"
+    ]
+  },
+  "295": {
+    "id": 295,
+    "names": [
+      "爆音怪",
+      "バクオング",
+      "Exploud",
+      "Exploud",
+      "Exploud",
+      "Krawumms",
+      "Brouhabam",
+      "爆音怪",
+      "폭음룡",
+      "Bakuong",
+      "バクオング"
+    ]
+  },
+  "296": {
+    "id": 296,
+    "names": [
+      "幕下力士",
+      "マクノシタ",
+      "Makuhita",
+      "Makuhita",
+      "Makuhita",
+      "Makuhita",
+      "Makuhita",
+      "幕下力士",
+      "마크탕",
+      "Makunoshita",
+      "マクノシタ"
+    ]
+  },
+  "297": {
+    "id": 297,
+    "names": [
+      "铁掌力士",
+      "ハリテヤマ",
+      "Hariyama",
+      "Hariyama",
+      "Hariyama",
+      "Hariyama",
+      "Hariyama",
+      "鐵掌力士",
+      "하리뭉",
+      "Hariteyama",
+      "ハリテヤマ"
+    ]
+  },
+  "298": {
+    "id": 298,
+    "names": [
+      "露力丽",
+      "ルリリ",
+      "Azurill",
+      "Azurill",
+      "Azurill",
+      "Azurill",
+      "Azurill",
+      "露力麗",
+      "루리리",
+      "Ruriri",
+      "ルリリ"
+    ]
+  },
+  "299": {
+    "id": 299,
+    "names": [
+      "朝北鼻",
+      "ノズパス",
+      "Nosepass",
+      "Nosepass",
+      "Nosepass",
+      "Nasgnet",
+      "Tarinor",
+      "朝北鼻",
+      "코코파스",
+      "Nosepass",
+      "ノズパス"
+    ]
+  },
+  "300": {
+    "id": 300,
+    "names": [
+      "向尾喵",
+      "エネコ",
+      "Skitty",
+      "Skitty",
+      "Skitty",
+      "Eneco",
+      "Skitty",
+      "向尾喵",
+      "에나비",
+      "Eneco",
+      "エネコ"
+    ]
+  },
+  "301": {
+    "id": 301,
+    "names": [
+      "优雅猫",
+      "エネコロロ",
+      "Delcatty",
+      "Delcatty",
+      "Delcatty",
+      "Enekoro",
+      "Delcatty",
+      "優雅貓",
+      "델케티",
+      "Enekororo",
+      "エネコロロ"
+    ]
+  },
+  "302": {
+    "id": 302,
+    "names": [
+      "勾魂眼",
+      "ヤミラミ",
+      "Sableye",
+      "Sableye",
+      "Sableye",
+      "Zobiris",
+      "Ténéfix",
+      "勾魂眼",
+      "깜까미",
+      "Yamirami",
+      "ヤミラミ"
+    ]
+  },
+  "303": {
+    "id": 303,
+    "names": [
+      "大嘴娃",
+      "クチート",
+      "Mawile",
+      "Mawile",
+      "Mawile",
+      "Flunkifer",
+      "Mysdibule",
+      "大嘴娃",
+      "입치트",
+      "Kucheat",
+      "クチート"
+    ]
+  },
+  "304": {
+    "id": 304,
+    "names": [
+      "可可多拉",
+      "ココドラ",
+      "Aron",
+      "Aron",
+      "Aron",
+      "Stollunior",
+      "Galekid",
+      "可可多拉",
+      "가보리",
+      "Cokodora",
+      "ココドラ"
+    ]
+  },
+  "305": {
+    "id": 305,
+    "names": [
+      "可多拉",
+      "コドラ",
+      "Lairon",
+      "Lairon",
+      "Lairon",
+      "Stollrak",
+      "Galegon",
+      "可多拉",
+      "갱도라",
+      "Kodora",
+      "コドラ"
+    ]
+  },
+  "306": {
+    "id": 306,
+    "names": [
+      "波士可多拉",
+      "ボスゴドラ",
+      "Aggron",
+      "Aggron",
+      "Aggron",
+      "Stolloss",
+      "Galeking",
+      "波士可多拉",
+      "보스로라",
+      "Bossgodora",
+      "ボスゴドラ"
+    ]
+  },
+  "307": {
+    "id": 307,
+    "names": [
+      "玛沙那",
+      "アサナン",
+      "Meditite",
+      "Meditite",
+      "Meditite",
+      "Meditie",
+      "Méditikka",
+      "瑪沙那",
+      "요가랑",
+      "Asanan",
+      "アサナン"
+    ]
+  },
+  "308": {
+    "id": 308,
+    "names": [
+      "恰雷姆",
+      "チャーレム",
+      "Medicham",
+      "Medicham",
+      "Medicham",
+      "Meditalis",
+      "Charmina",
+      "恰雷姆",
+      "요가램",
+      "Charem",
+      "チャーレム"
+    ]
+  },
+  "309": {
+    "id": 309,
+    "names": [
+      "落雷兽",
+      "ラクライ",
+      "Electrike",
+      "Electrike",
+      "Electrike",
+      "Frizelbliz",
+      "Dynavolt",
+      "落雷獸",
+      "썬더라이",
+      "Rakurai",
+      "ラクライ"
+    ]
+  },
+  "310": {
+    "id": 310,
+    "names": [
+      "雷电兽",
+      "ライボルト",
+      "Manectric",
+      "Manectric",
+      "Manectric",
+      "Voltenso",
+      "Élecsprint",
+      "雷電獸",
+      "썬더볼트",
+      "Livolt",
+      "ライボルト"
+    ]
+  },
+  "311": {
+    "id": 311,
+    "names": [
+      "正电拍拍",
+      "プラスル",
+      "Plusle",
+      "Plusle",
+      "Plusle",
+      "Plusle",
+      "Posipi",
+      "正電拍拍",
+      "플러시",
+      "Prasle",
+      "プラスル"
+    ]
+  },
+  "312": {
+    "id": 312,
+    "names": [
+      "負电拍拍",
+      "マイナン",
+      "Minun",
+      "Minun",
+      "Minun",
+      "Minun",
+      "Négapi",
+      "負電拍拍",
+      "마이농",
+      "Minun",
+      "マイナン"
+    ]
+  },
+  "313": {
+    "id": 313,
+    "names": [
+      "电萤虫",
+      "バルビート",
+      "Volbeat",
+      "Volbeat",
+      "Volbeat",
+      "Volbeat",
+      "Muciole",
+      "電螢蟲",
+      "볼비트",
+      "Barubeat",
+      "バルビート"
+    ]
+  },
+  "314": {
+    "id": 314,
+    "names": [
+      "甜甜萤",
+      "イルミーゼ",
+      "Illumise",
+      "Illumise",
+      "Illumise",
+      "Illumise",
+      "Lumivole",
+      "甜甜螢",
+      "네오비트",
+      "Illumise",
+      "イルミーゼ"
+    ]
+  },
+  "315": {
+    "id": 315,
+    "names": [
+      "毒蔷薇",
+      "ロゼリア",
+      "Roselia",
+      "Roselia",
+      "Roselia",
+      "Roselia",
+      "Rosélia",
+      "毒薔薇",
+      "로젤리아",
+      "Roselia",
+      "ロゼリア"
+    ]
+  },
+  "316": {
+    "id": 316,
+    "names": [
+      "溶食兽",
+      "ゴクリン",
+      "Gulpin",
+      "Gulpin",
+      "Gulpin",
+      "Schluppuck",
+      "Gloupti",
+      "溶食獸",
+      "꼴깍몬",
+      "Gokulin",
+      "ゴクリン"
+    ]
+  },
+  "317": {
+    "id": 317,
+    "names": [
+      "吞食兽",
+      "マルノーム",
+      "Swalot",
+      "Swalot",
+      "Swalot",
+      "Schlukwech",
+      "Avaltout",
+      "吞食獸",
+      "꿀꺽몬",
+      "Marunoom",
+      "マルノーム"
+    ]
+  },
+  "318": {
+    "id": 318,
+    "names": [
+      "利牙鱼",
+      "キバニア",
+      "Carvanha",
+      "Carvanha",
+      "Carvanha",
+      "Kanivanha",
+      "Carvanha",
+      "利牙魚",
+      "샤프니아",
+      "Kibanha",
+      "キバニア"
+    ]
+  },
+  "319": {
+    "id": 319,
+    "names": [
+      "巨牙鲨",
+      "サメハダー",
+      "Sharpedo",
+      "Sharpedo",
+      "Sharpedo",
+      "Tohaido",
+      "Sharpedo",
+      "巨牙鯊",
+      "샤크니아",
+      "Samehader",
+      "サメハダー"
+    ]
+  },
+  "320": {
+    "id": 320,
+    "names": [
+      "吼吼鲸",
+      "ホエルコ",
+      "Wailmer",
+      "Wailmer",
+      "Wailmer",
+      "Wailmer",
+      "Wailmer",
+      "吼吼鯨",
+      "고래왕자",
+      "Whalko",
+      "ホエルコ"
+    ]
+  },
+  "321": {
+    "id": 321,
+    "names": [
+      "吼鲸王",
+      "ホエルオー",
+      "Wailord",
+      "Wailord",
+      "Wailord",
+      "Wailord",
+      "Wailord",
+      "吼鯨王",
+      "고래왕",
+      "Whaloh",
+      "ホエルオー"
+    ]
+  },
+  "322": {
+    "id": 322,
+    "names": [
+      "呆火驼",
+      "ドンメル",
+      "Numel",
+      "Numel",
+      "Numel",
+      "Camaub",
+      "Chamallot",
+      "呆火駝",
+      "둔타",
+      "Donmel",
+      "ドンメル"
+    ]
+  },
+  "323": {
+    "id": 323,
+    "names": [
+      "喷火驼",
+      "バクーダ",
+      "Camerupt",
+      "Camerupt",
+      "Camerupt",
+      "Camerupt",
+      "Camérupt",
+      "噴火駝",
+      "폭타",
+      "Bakuuda",
+      "バクーダ"
+    ]
+  },
+  "324": {
+    "id": 324,
+    "names": [
+      "煤炭龟",
+      "コータス",
+      "Torkoal",
+      "Torkoal",
+      "Torkoal",
+      "Qurtel",
+      "Chartor",
+      "煤炭龜",
+      "코터스",
+      "Cotoise",
+      "コータス"
+    ]
+  },
+  "325": {
+    "id": 325,
+    "names": [
+      "跳跳猪",
+      "バネブー",
+      "Spoink",
+      "Spoink",
+      "Spoink",
+      "Spoink",
+      "Spoink",
+      "跳跳豬",
+      "피그점프",
+      "Baneboo",
+      "バネブー"
+    ]
+  },
+  "326": {
+    "id": 326,
+    "names": [
+      "噗噗猪",
+      "ブーピッグ",
+      "Grumpig",
+      "Grumpig",
+      "Grumpig",
+      "Groink",
+      "Groret",
+      "噗噗豬",
+      "피그킹",
+      "Boopig",
+      "ブーピッグ"
+    ]
+  },
+  "327": {
+    "id": 327,
+    "names": [
+      "晃晃斑",
+      "パッチール",
+      "Spinda",
+      "Spinda",
+      "Spinda",
+      "Pandir",
+      "Spinda",
+      "晃晃斑",
+      "얼루기",
+      "Patcheel",
+      "パッチール"
+    ]
+  },
+  "328": {
+    "id": 328,
+    "names": [
+      "大颚蚁",
+      "ナックラー",
+      "Trapinch",
+      "Trapinch",
+      "Trapinch",
+      "Knacklion",
+      "Kraknoix",
+      "大顎蟻",
+      "톱치",
+      "Nuckrar",
+      "ナックラー"
+    ]
+  },
+  "329": {
+    "id": 329,
+    "names": [
+      "超音波幼虫",
+      "ビブラーバ",
+      "Vibrava",
+      "Vibrava",
+      "Vibrava",
+      "Vibrava",
+      "Vibraninf",
+      "超音波幼蟲",
+      "비브라바",
+      "Vibrava",
+      "ビブラーバ"
+    ]
+  },
+  "330": {
+    "id": 330,
+    "names": [
+      "沙漠蜻蜓",
+      "フライゴン",
+      "Flygon",
+      "Flygon",
+      "Flygon",
+      "Libelldra",
+      "Libégon",
+      "沙漠蜻蜓",
+      "플라이곤",
+      "Frygon",
+      "フライゴン"
+    ]
+  },
+  "331": {
+    "id": 331,
+    "names": [
+      "刺球仙人掌",
+      "サボネア",
+      "Cacnea",
+      "Cacnea",
+      "Cacnea",
+      "Tuska",
+      "Cacnea",
+      "刺球仙人掌",
+      "선인왕",
+      "Sabonea",
+      "サボネア"
+    ]
+  },
+  "332": {
+    "id": 332,
+    "names": [
+      "梦歌仙人掌",
+      "ノクタス",
+      "Cacturne",
+      "Cacturne",
+      "Cacturne",
+      "Noktuska",
+      "Cacturne",
+      "夢歌仙人掌",
+      "밤선인",
+      "Noctus",
+      "ノクタス"
+    ]
+  },
+  "333": {
+    "id": 333,
+    "names": [
+      "青绵鸟",
+      "チルット",
+      "Swablu",
+      "Swablu",
+      "Swablu",
+      "Wablu",
+      "Tylton",
+      "青綿鳥",
+      "파비코",
+      "Tyltto",
+      "チルット"
+    ]
+  },
+  "334": {
+    "id": 334,
+    "names": [
+      "七夕青鸟",
+      "チルタリス",
+      "Altaria",
+      "Altaria",
+      "Altaria",
+      "Altaria",
+      "Altaria",
+      "七夕青鳥",
+      "파비코리",
+      "Tyltalis",
+      "チルタリス"
+    ]
+  },
+  "335": {
+    "id": 335,
+    "names": [
+      "猫鼬斩",
+      "ザングース",
+      "Zangoose",
+      "Zangoose",
+      "Zangoose",
+      "Sengo",
+      "Mangriff",
+      "貓鼬斬",
+      "쟝고",
+      "Zangoose",
+      "ザングース"
+    ]
+  },
+  "336": {
+    "id": 336,
+    "names": [
+      "饭匙蛇",
+      "ハブネーク",
+      "Seviper",
+      "Seviper",
+      "Seviper",
+      "Vipitis",
+      "Séviper",
+      "飯匙蛇",
+      "세비퍼",
+      "Habunake",
+      "ハブネーク"
+    ]
+  },
+  "337": {
+    "id": 337,
+    "names": [
+      "月石",
+      "ルナトーン",
+      "Lunatone",
+      "Lunatone",
+      "Lunatone",
+      "Lunastein",
+      "Séléroc",
+      "月石",
+      "루나톤",
+      "Lunatone",
+      "ルナトーン"
+    ]
+  },
+  "338": {
+    "id": 338,
+    "names": [
+      "太阳岩",
+      "ソルロック",
+      "Solrock",
+      "Solrock",
+      "Solrock",
+      "Sonnfel",
+      "Solaroc",
+      "太陽岩",
+      "솔록",
+      "Solrock",
+      "ソルロック"
+    ]
+  },
+  "339": {
+    "id": 339,
+    "names": [
+      "泥泥鰍",
+      "ドジョッチ",
+      "Barboach",
+      "Barboach",
+      "Barboach",
+      "Schmerbe",
+      "Barloche",
+      "泥泥鰍",
+      "미꾸리",
+      "Dojoach",
+      "ドジョッチ"
+    ]
+  },
+  "340": {
+    "id": 340,
+    "names": [
+      "鲶鱼王",
+      "ナマズン",
+      "Whiscash",
+      "Whiscash",
+      "Whiscash",
+      "Welsar",
+      "Barbicha",
+      "鯰魚王",
+      "메깅",
+      "Namazun",
+      "ナマズン"
+    ]
+  },
+  "341": {
+    "id": 341,
+    "names": [
+      "龙虾小兵",
+      "ヘイガニ",
+      "Corphish",
+      "Corphish",
+      "Corphish",
+      "Krebscorps",
+      "Écrapince",
+      "龍蝦小兵",
+      "가재군",
+      "Heigani",
+      "ヘイガニ"
+    ]
+  },
+  "342": {
+    "id": 342,
+    "names": [
+      "铁螯龙虾",
+      "シザリガー",
+      "Crawdaunt",
+      "Crawdaunt",
+      "Crawdaunt",
+      "Krebutack",
+      "Colhomard",
+      "鐵螯龍蝦",
+      "가재장군",
+      "Shizariger",
+      "シザリガー"
+    ]
+  },
+  "343": {
+    "id": 343,
+    "names": [
+      "天秤偶",
+      "ヤジロン",
+      "Baltoy",
+      "Baltoy",
+      "Baltoy",
+      "Puppance",
+      "Balbuto",
+      "天秤偶",
+      "오뚝군",
+      "Yajilon",
+      "ヤジロン"
+    ]
+  },
+  "344": {
+    "id": 344,
+    "names": [
+      "念力土偶",
+      "ネンドール",
+      "Claydol",
+      "Claydol",
+      "Claydol",
+      "Lepumentas",
+      "Kaorine",
+      "念力土偶",
+      "점토도리",
+      "Nendoll",
+      "ネンドール"
+    ]
+  },
+  "345": {
+    "id": 345,
+    "names": [
+      "触手百合",
+      "リリーラ",
+      "Lileep",
+      "Lileep",
+      "Lileep",
+      "Liliep",
+      "Lilia",
+      "觸手百合",
+      "릴링",
+      "Lilyla",
+      "リリーラ"
+    ]
+  },
+  "346": {
+    "id": 346,
+    "names": [
+      "摇篮百合",
+      "ユレイドル",
+      "Cradily",
+      "Cradily",
+      "Cradily",
+      "Wielie",
+      "Vacilys",
+      "搖籃百合",
+      "릴리요",
+      "Yuradle",
+      "ユレイドル"
+    ]
+  },
+  "347": {
+    "id": 347,
+    "names": [
+      "太古羽虫",
+      "アノプス",
+      "Anorith",
+      "Anorith",
+      "Anorith",
+      "Anorith",
+      "Anorith",
+      "太古羽蟲",
+      "아노딥스",
+      "Anopth",
+      "アノプス"
+    ]
+  },
+  "348": {
+    "id": 348,
+    "names": [
+      "太古盔甲",
+      "アーマルド",
+      "Armaldo",
+      "Armaldo",
+      "Armaldo",
+      "Armaldo",
+      "Armaldo",
+      "太古盔甲",
+      "아말도",
+      "Armaldo",
+      "アーマルド"
+    ]
+  },
+  "349": {
+    "id": 349,
+    "names": [
+      "丑丑鱼",
+      "ヒンバス",
+      "Feebas",
+      "Feebas",
+      "Feebas",
+      "Barschwa",
+      "Barpau",
+      "醜醜魚",
+      "빈티나",
+      "Hinbass",
+      "ヒンバス"
+    ]
+  },
+  "350": {
+    "id": 350,
+    "names": [
+      "美纳斯",
+      "ミロカロス",
+      "Milotic",
+      "Milotic",
+      "Milotic",
+      "Milotic",
+      "Milobellus",
+      "美納斯",
+      "밀로틱",
+      "Milokaross",
+      "ミロカロス"
+    ]
+  },
+  "351": {
+    "id": 351,
+    "names": [
+      "飘浮泡泡",
+      "ポワルン",
+      "Castform",
+      "Castform",
+      "Castform",
+      "Formeo",
+      "Morphéo",
+      "飄浮泡泡",
+      "캐스퐁",
+      "Powalen",
+      "ポワルン"
+    ]
+  },
+  "352": {
+    "id": 352,
+    "names": [
+      "变隐龙",
+      "カクレオン",
+      "Kecleon",
+      "Kecleon",
+      "Kecleon",
+      "Kecleon",
+      "Kecleon",
+      "變隱龍",
+      "켈리몬",
+      "Kakureon",
+      "カクレオン"
+    ]
+  },
+  "353": {
+    "id": 353,
+    "names": [
+      "怨影娃娃",
+      "カゲボウズ",
+      "Shuppet",
+      "Shuppet",
+      "Shuppet",
+      "Shuppet",
+      "Polichombr",
+      "怨影娃娃",
+      "어둠대신",
+      "Kagebouzu",
+      "カゲボウズ"
+    ]
+  },
+  "354": {
+    "id": 354,
+    "names": [
+      "诅咒娃娃",
+      "ジュペッタ",
+      "Banette",
+      "Banette",
+      "Banette",
+      "Banette",
+      "Branette",
+      "詛咒娃娃",
+      "다크펫",
+      "Juppeta",
+      "ジュペッタ"
+    ]
+  },
+  "355": {
+    "id": 355,
+    "names": [
+      "夜巡灵",
+      "ヨマワル",
+      "Duskull",
+      "Duskull",
+      "Duskull",
+      "Zwirrlicht",
+      "Skelénox",
+      "夜巡靈",
+      "해골몽",
+      "Yomawaru",
+      "ヨマワル"
+    ]
+  },
+  "356": {
+    "id": 356,
+    "names": [
+      "彷徨夜灵",
+      "サマヨール",
+      "Dusclops",
+      "Dusclops",
+      "Dusclops",
+      "Zwirrklop",
+      "Téraclope",
+      "彷徨夜靈",
+      "미라몽",
+      "Samayouru",
+      "サマヨール"
+    ]
+  },
+  "357": {
+    "id": 357,
+    "names": [
+      "热带龙",
+      "トロピウス",
+      "Tropius",
+      "Tropius",
+      "Tropius",
+      "Tropius",
+      "Tropius",
+      "熱帶龍",
+      "트로피우스",
+      "Tropius",
+      "トロピウス"
+    ]
+  },
+  "358": {
+    "id": 358,
+    "names": [
+      "风铃铃",
+      "チリーン",
+      "Chimecho",
+      "Chimecho",
+      "Chimecho",
+      "Palimpalim",
+      "Éoko",
+      "風鈴鈴",
+      "치렁",
+      "Chirean",
+      "チリーン"
+    ]
+  },
+  "359": {
+    "id": 359,
+    "names": [
+      "阿勃梭鲁",
+      "アブソル",
+      "Absol",
+      "Absol",
+      "Absol",
+      "Absol",
+      "Absol",
+      "阿勃梭魯",
+      "앱솔",
+      "Absol",
+      "アブソル"
+    ]
+  },
+  "360": {
+    "id": 360,
+    "names": [
+      "小果然",
+      "ソーナノ",
+      "Wynaut",
+      "Wynaut",
+      "Wynaut",
+      "Isso",
+      "Okéoké",
+      "小果然",
+      "마자",
+      "Sohnano",
+      "ソーナノ"
+    ]
+  },
+  "361": {
+    "id": 361,
+    "names": [
+      "雪童子",
+      "ユキワラシ",
+      "Snorunt",
+      "Snorunt",
+      "Snorunt",
+      "Schneppke",
+      "Stalgamin",
+      "雪童子",
+      "눈꼬마",
+      "Yukiwarashi",
+      "ユキワラシ"
+    ]
+  },
+  "362": {
+    "id": 362,
+    "names": [
+      "冰鬼护",
+      "オニゴーリ",
+      "Glalie",
+      "Glalie",
+      "Glalie",
+      "Firnontor",
+      "Oniglali",
+      "冰鬼護",
+      "얼음귀신",
+      "Onigohri",
+      "オニゴーリ"
+    ]
+  },
+  "363": {
+    "id": 363,
+    "names": [
+      "海豹球",
+      "タマザラシ",
+      "Spheal",
+      "Spheal",
+      "Spheal",
+      "Seemops",
+      "Obalie",
+      "海豹球",
+      "대굴레오",
+      "Tamazarashi",
+      "タマザラシ"
+    ]
+  },
+  "364": {
+    "id": 364,
+    "names": [
+      "海魔狮",
+      "トドグラー",
+      "Sealeo",
+      "Sealeo",
+      "Sealeo",
+      "Seejong",
+      "Phogleur",
+      "海魔獅",
+      "씨레오",
+      "Todoggler",
+      "トドグラー"
+    ]
+  },
+  "365": {
+    "id": 365,
+    "names": [
+      "帝牙海狮",
+      "トドゼルガ",
+      "Walrein",
+      "Walrein",
+      "Walrein",
+      "Walraisa",
+      "Kaimorse",
+      "帝牙海獅",
+      "씨카이저",
+      "Todoseruga",
+      "トドゼルガ"
+    ]
+  },
+  "366": {
+    "id": 366,
+    "names": [
+      "珍珠贝",
+      "パールル",
+      "Clamperl",
+      "Clamperl",
+      "Clamperl",
+      "Perlu",
+      "Coquiperl",
+      "珍珠貝",
+      "진주몽",
+      "Pearlulu",
+      "パールル"
+    ]
+  },
+  "367": {
+    "id": 367,
+    "names": [
+      "猎斑鱼",
+      "ハンテール",
+      "Huntail",
+      "Huntail",
+      "Huntail",
+      "Aalabyss",
+      "Serpang",
+      "獵斑魚",
+      "헌테일",
+      "Huntail",
+      "ハンテール"
+    ]
+  },
+  "368": {
+    "id": 368,
+    "names": [
+      "樱花鱼",
+      "サクラビス",
+      "Gorebyss",
+      "Gorebyss",
+      "Gorebyss",
+      "Saganabyss",
+      "Rosabyss",
+      "櫻花魚",
+      "분홍장이",
+      "Sakurabyss",
+      "サクラビス"
+    ]
+  },
+  "369": {
+    "id": 369,
+    "names": [
+      "古空棘鱼",
+      "ジーランス",
+      "Relicanth",
+      "Relicanth",
+      "Relicanth",
+      "Relicanth",
+      "Relicanth",
+      "古空棘魚",
+      "시라칸",
+      "Glanth",
+      "ジーランス"
+    ]
+  },
+  "370": {
+    "id": 370,
+    "names": [
+      "爱心鱼",
+      "ラブカス",
+      "Luvdisc",
+      "Luvdisc",
+      "Luvdisc",
+      "Liebiskus",
+      "Lovdisc",
+      "愛心魚",
+      "사랑동이",
+      "Lovecus",
+      "ラブカス"
+    ]
+  },
+  "371": {
+    "id": 371,
+    "names": [
+      "宝贝龙",
+      "タツベイ",
+      "Bagon",
+      "Bagon",
+      "Bagon",
+      "Kindwurm",
+      "Draby",
+      "寶貝龍",
+      "아공이",
+      "Tatsubay",
+      "タツベイ"
+    ]
+  },
+  "372": {
+    "id": 372,
+    "names": [
+      "甲壳龙",
+      "コモルー",
+      "Shelgon",
+      "Shelgon",
+      "Shelgon",
+      "Draschel",
+      "Drackhaus",
+      "甲殼龍",
+      "쉘곤",
+      "Komoruu",
+      "コモルー"
+    ]
+  },
+  "373": {
+    "id": 373,
+    "names": [
+      "暴飞龙",
+      "ボーマンダ",
+      "Salamence",
+      "Salamence",
+      "Salamence",
+      "Brutalanda",
+      "Drattak",
+      "暴飛龍",
+      "보만다",
+      "Bohmander",
+      "ボーマンダ"
+    ]
+  },
+  "374": {
+    "id": 374,
+    "names": [
+      "铁哑铃",
+      "ダンバル",
+      "Beldum",
+      "Beldum",
+      "Beldum",
+      "Tanhel",
+      "Terhal",
+      "鐵啞鈴",
+      "메탕",
+      "Dumbber",
+      "ダンバル"
+    ]
+  },
+  "375": {
+    "id": 375,
+    "names": [
+      "金属怪",
+      "メタング",
+      "Metang",
+      "Metang",
+      "Metang",
+      "Metang",
+      "Métang",
+      "金屬怪",
+      "메탕구",
+      "Metang",
+      "メタング"
+    ]
+  },
+  "376": {
+    "id": 376,
+    "names": [
+      "巨金怪",
+      "メタグロス",
+      "Metagross",
+      "Metagross",
+      "Metagross",
+      "Metagross",
+      "Métalosse",
+      "巨金怪",
+      "메타그로스",
+      "Metagross",
+      "メタグロス"
+    ]
+  },
+  "377": {
+    "id": 377,
+    "names": [
+      "雷吉洛克",
+      "レジロック",
+      "Regirock",
+      "Regirock",
+      "Regirock",
+      "Regirock",
+      "Regirock",
+      "雷吉洛克",
+      "레지락",
+      "Regirock",
+      "レジロック"
+    ]
+  },
+  "378": {
+    "id": 378,
+    "names": [
+      "雷吉艾斯",
+      "レジアイス",
+      "Regice",
+      "Regice",
+      "Regice",
+      "Regice",
+      "Regice",
+      "雷吉艾斯",
+      "레지아이스",
+      "Regice",
+      "レジアイス"
+    ]
+  },
+  "379": {
+    "id": 379,
+    "names": [
+      "雷吉斯奇鲁",
+      "レジスチル",
+      "Registeel",
+      "Registeel",
+      "Registeel",
+      "Registeel",
+      "Registeel",
+      "雷吉斯奇魯",
+      "레지스틸",
+      "Registeel",
+      "レジスチル"
+    ]
+  },
+  "380": {
+    "id": 380,
+    "names": [
+      "拉帝亚斯",
+      "ラティアス",
+      "Latias",
+      "Latias",
+      "Latias",
+      "Latias",
+      "Latias",
+      "拉帝亞斯",
+      "라티아스",
+      "Latias",
+      "ラティアス"
+    ]
+  },
+  "381": {
+    "id": 381,
+    "names": [
+      "拉帝欧斯",
+      "ラティオス",
+      "Latios",
+      "Latios",
+      "Latios",
+      "Latios",
+      "Latios",
+      "拉帝歐斯",
+      "라티오스",
+      "Latios",
+      "ラティオス"
+    ]
+  },
+  "382": {
+    "id": 382,
+    "names": [
+      "盖欧卡",
+      "カイオーガ",
+      "Kyogre",
+      "Kyogre",
+      "Kyogre",
+      "Kyogre",
+      "Kyogre",
+      "蓋歐卡",
+      "가이오가",
+      "Kyogre",
+      "カイオーガ"
+    ]
+  },
+  "383": {
+    "id": 383,
+    "names": [
+      "固拉多",
+      "グラードン",
+      "Groudon",
+      "Groudon",
+      "Groudon",
+      "Groudon",
+      "Groudon",
+      "固拉多",
+      "그란돈",
+      "Groudon",
+      "グラードン"
+    ]
+  },
+  "384": {
+    "id": 384,
+    "names": [
+      "烈空坐",
+      "レックウザ",
+      "Rayquaza",
+      "Rayquaza",
+      "Rayquaza",
+      "Rayquaza",
+      "Rayquaza",
+      "烈空坐",
+      "레쿠쟈",
+      "Rayquaza",
+      "レックウザ"
+    ]
+  },
+  "385": {
+    "id": 385,
+    "names": [
+      "基拉祈",
+      "ジラーチ",
+      "Jirachi",
+      "Jirachi",
+      "Jirachi",
+      "Jirachi",
+      "Jirachi",
+      "基拉祈",
+      "지라치",
+      "Jirachi",
+      "ジラーチ"
+    ]
+  },
+  "386": {
+    "id": 386,
+    "names": [
+      "代欧奇希斯",
+      "デオキシス",
+      "Deoxys",
+      "Deoxys",
+      "Deoxys",
+      "Deoxys",
+      "Deoxys",
+      "代歐奇希斯",
+      "테오키스",
+      "Deoxys",
+      "デオキシス"
+    ]
+  },
+  "387": {
+    "id": 387,
+    "names": [
+      "草苗龟",
+      "ナエトル",
+      "Turtwig",
+      "Turtwig",
+      "Turtwig",
+      "Chelast",
+      "Tortipouss",
+      "草苗龜",
+      "모부기",
+      "Naetle",
+      "ナエトル"
+    ]
+  },
+  "388": {
+    "id": 388,
+    "names": [
+      "树林龟",
+      "ハヤシガメ",
+      "Grotle",
+      "Grotle",
+      "Grotle",
+      "Chelcarain",
+      "Boskara",
+      "樹林龜",
+      "수풀부기",
+      "Hayashigame",
+      "ハヤシガメ"
+    ]
+  },
+  "389": {
+    "id": 389,
+    "names": [
+      "土台龟",
+      "ドダイトス",
+      "Torterra",
+      "Torterra",
+      "Torterra",
+      "Chelterrar",
+      "Torterra",
+      "土台龜",
+      "토대부기",
+      "Dodaitose",
+      "ドダイトス"
+    ]
+  },
+  "390": {
+    "id": 390,
+    "names": [
+      "小火焰猴",
+      "ヒコザル",
+      "Chimchar",
+      "Chimchar",
+      "Chimchar",
+      "Panflam",
+      "Ouisticram",
+      "小火焰猴",
+      "불꽃숭이",
+      "Hikozaru",
+      "ヒコザル"
+    ]
+  },
+  "391": {
+    "id": 391,
+    "names": [
+      "猛火猴",
+      "モウカザル",
+      "Monferno",
+      "Monferno",
+      "Monferno",
+      "Panpyro",
+      "Chimpenfeu",
+      "猛火猴",
+      "파이숭이",
+      "Mōkazaru",
+      "モウカザル"
+    ]
+  },
+  "392": {
+    "id": 392,
+    "names": [
+      "烈焰猴",
+      "ゴウカザル",
+      "Infernape",
+      "Infernape",
+      "Infernape",
+      "Panferno",
+      "Simiabraz",
+      "烈焰猴",
+      "초염몽",
+      "Gōkazaru",
+      "ゴウカザル"
+    ]
+  },
+  "393": {
+    "id": 393,
+    "names": [
+      "波加曼",
+      "ポッチャマ",
+      "Piplup",
+      "Piplup",
+      "Piplup",
+      "Plinfa",
+      "Tiplouf",
+      "波加曼",
+      "팽도리",
+      "Pochama",
+      "ポッチャマ"
+    ]
+  },
+  "394": {
+    "id": 394,
+    "names": [
+      "波皇子",
+      "ポッタイシ",
+      "Prinplup",
+      "Prinplup",
+      "Prinplup",
+      "Pliprin",
+      "Prinplouf",
+      "波皇子",
+      "팽태자",
+      "Pottaishi",
+      "ポッタイシ"
+    ]
+  },
+  "395": {
+    "id": 395,
+    "names": [
+      "帝王拿波",
+      "エンペルト",
+      "Empoleon",
+      "Empoleon",
+      "Empoleon",
+      "Impoleon",
+      "Pingoléon",
+      "帝王拿波",
+      "엠페르트",
+      "Emperte",
+      "エンペルト"
+    ]
+  },
+  "396": {
+    "id": 396,
+    "names": [
+      "姆克儿",
+      "ムックル",
+      "Starly",
+      "Starly",
+      "Starly",
+      "Staralili",
+      "Étourmi",
+      "姆克兒",
+      "찌르꼬",
+      "Mukkuru",
+      "ムックル"
+    ]
+  },
+  "397": {
+    "id": 397,
+    "names": [
+      "姆克鸟",
+      "ムクバード",
+      "Staravia",
+      "Staravia",
+      "Staravia",
+      "Staravia",
+      "Étourvol",
+      "姆克鳥",
+      "찌르버드",
+      "Mukubird",
+      "ムクバード"
+    ]
+  },
+  "398": {
+    "id": 398,
+    "names": [
+      "姆克鹰",
+      "ムクホーク",
+      "Staraptor",
+      "Staraptor",
+      "Staraptor",
+      "Staraptor",
+      "Étouraptor",
+      "姆克鷹",
+      "찌르호크",
+      "Mukuhawk",
+      "ムクホーク"
+    ]
+  },
+  "399": {
+    "id": 399,
+    "names": [
+      "大牙狸",
+      "ビッパ",
+      "Bidoof",
+      "Bidoof",
+      "Bidoof",
+      "Bidiza",
+      "Keunotor",
+      "大牙狸",
+      "비버니",
+      "Bipper",
+      "ビッパ"
+    ]
+  },
+  "400": {
+    "id": 400,
+    "names": [
+      "大尾狸",
+      "ビーダル",
+      "Bibarel",
+      "Bibarel",
+      "Bibarel",
+      "Bidifas",
+      "Castorno",
+      "大尾狸",
+      "비버통",
+      "Beadull",
+      "ビーダル"
+    ]
+  },
+  "401": {
+    "id": 401,
+    "names": [
+      "圆法师",
+      "コロボーシ",
+      "Kricketot",
+      "Kricketot",
+      "Kricketot",
+      "Zirpurze",
+      "Crikzik",
+      "圓法師",
+      "귀뚤뚜기",
+      "Korobohshi",
+      "コロボーシ"
+    ]
+  },
+  "402": {
+    "id": 402,
+    "names": [
+      "音箱蟀",
+      "コロトック",
+      "Kricketune",
+      "Kricketune",
+      "Kricketune",
+      "Zirpeise",
+      "Mélokrik",
+      "音箱蟀",
+      "귀뚤톡크",
+      "Korotok",
+      "コロトック"
+    ]
+  },
+  "403": {
+    "id": 403,
+    "names": [
+      "小猫怪",
+      "コリンク",
+      "Shinx",
+      "Shinx",
+      "Shinx",
+      "Sheinux",
+      "Lixy",
+      "小貓怪",
+      "꼬링크",
+      "Kolink",
+      "コリンク"
+    ]
+  },
+  "404": {
+    "id": 404,
+    "names": [
+      "勒克猫",
+      "ルクシオ",
+      "Luxio",
+      "Luxio",
+      "Luxio",
+      "Luxio",
+      "Luxio",
+      "勒克貓",
+      "럭시오",
+      "Luxio",
+      "ルクシオ"
+    ]
+  },
+  "405": {
+    "id": 405,
+    "names": [
+      "伦琴猫",
+      "レントラー",
+      "Luxray",
+      "Luxray",
+      "Luxray",
+      "Luxtra",
+      "Luxray",
+      "倫琴貓",
+      "렌트라",
+      "Rentorar",
+      "レントラー"
+    ]
+  },
+  "406": {
+    "id": 406,
+    "names": [
+      "含羞苞",
+      "スボミー",
+      "Budew",
+      "Budew",
+      "Budew",
+      "Knospi",
+      "Rozbouton",
+      "含羞苞",
+      "꼬몽울",
+      "Subomie",
+      "スボミー"
+    ]
+  },
+  "407": {
+    "id": 407,
+    "names": [
+      "罗丝雷朵",
+      "ロズレイド",
+      "Roserade",
+      "Roserade",
+      "Roserade",
+      "Roserade",
+      "Roserade",
+      "羅絲雷朵",
+      "로즈레이드",
+      "Roserade",
+      "ロズレイド"
+    ]
+  },
+  "408": {
+    "id": 408,
+    "names": [
+      "头盖龙",
+      "ズガイドス",
+      "Cranidos",
+      "Cranidos",
+      "Cranidos",
+      "Koknodon",
+      "Kranidos",
+      "頭蓋龍",
+      "두개도스",
+      "Zugaidos",
+      "ズガイドス"
+    ]
+  },
+  "409": {
+    "id": 409,
+    "names": [
+      "战槌龙",
+      "ラムパルド",
+      "Rampardos",
+      "Rampardos",
+      "Rampardos",
+      "Rameidon",
+      "Charkos",
+      "戰槌龍",
+      "램펄드",
+      "Rampard",
+      "ラムパルド"
+    ]
+  },
+  "410": {
+    "id": 410,
+    "names": [
+      "盾甲龙",
+      "タテトプス",
+      "Shieldon",
+      "Shieldon",
+      "Shieldon",
+      "Schilterus",
+      "Dinoclier",
+      "盾甲龍",
+      "방패톱스",
+      "Tatetops",
+      "タテトプス"
+    ]
+  },
+  "411": {
+    "id": 411,
+    "names": [
+      "护城龙",
+      "トリデプス",
+      "Bastiodon",
+      "Bastiodon",
+      "Bastiodon",
+      "Bollterus",
+      "Bastiodon",
+      "護城龍",
+      "바리톱스",
+      "Trideps",
+      "トリデプス"
+    ]
+  },
+  "412": {
+    "id": 412,
+    "names": [
+      "结草儿",
+      "ミノムッチ",
+      "Burmy",
+      "Burmy",
+      "Burmy",
+      "Burmy",
+      "Cheniti",
+      "結草兒",
+      "도롱충이",
+      "Minomucchi",
+      "ミノムッチ"
+    ]
+  },
+  "413": {
+    "id": 413,
+    "names": [
+      "结草贵妇",
+      "ミノマダム",
+      "Wormadam",
+      "Wormadam",
+      "Wormadam",
+      "Burmadame",
+      "Cheniselle",
+      "結草貴婦",
+      "도롱마담",
+      "Minomadam",
+      "ミノマダム"
+    ]
+  },
+  "414": {
+    "id": 414,
+    "names": [
+      "绅士蛾",
+      "ガーメイル",
+      "Mothim",
+      "Mothim",
+      "Mothim",
+      "Moterpel",
+      "Papilord",
+      "紳士蛾",
+      "나메일",
+      "Garmeil",
+      "ガーメイル"
+    ]
+  },
+  "415": {
+    "id": 415,
+    "names": [
+      "三蜜蜂",
+      "ミツハニー",
+      "Combee",
+      "Combee",
+      "Combee",
+      "Wadribie",
+      "Apitrini",
+      "三蜜蜂",
+      "세꿀버리",
+      "Mitsuhoney",
+      "ミツハニー"
+    ]
+  },
+  "416": {
+    "id": 416,
+    "names": [
+      "蜂女王",
+      "ビークイン",
+      "Vespiquen",
+      "Vespiquen",
+      "Vespiquen",
+      "Honweisel",
+      "Apireine",
+      "蜂女王",
+      "비퀸",
+      "Beequeen",
+      "ビークイン"
+    ]
+  },
+  "417": {
+    "id": 417,
+    "names": [
+      "帕奇利兹",
+      "パチリス",
+      "Pachirisu",
+      "Pachirisu",
+      "Pachirisu",
+      "Pachirisu",
+      "Pachirisu",
+      "帕奇利茲",
+      "파치리스",
+      "Pachirisu",
+      "パチリス"
+    ]
+  },
+  "418": {
+    "id": 418,
+    "names": [
+      "泳圈鼬",
+      "ブイゼル",
+      "Buizel",
+      "Buizel",
+      "Buizel",
+      "Bamelin",
+      "Mustébouée",
+      "泳圈鼬",
+      "브이젤",
+      "Buoysel",
+      "ブイゼル"
+    ]
+  },
+  "419": {
+    "id": 419,
+    "names": [
+      "浮潜鼬",
+      "フローゼル",
+      "Floatzel",
+      "Floatzel",
+      "Floatzel",
+      "Bojelin",
+      "Mustéflott",
+      "浮潛鼬",
+      "플로젤",
+      "Flowsel",
+      "フローゼル"
+    ]
+  },
+  "420": {
+    "id": 420,
+    "names": [
+      "樱花宝",
+      "チェリンボ",
+      "Cherubi",
+      "Cherubi",
+      "Cherubi",
+      "Kikugi",
+      "Ceribou",
+      "櫻花寶",
+      "체리버",
+      "Cherinbo",
+      "チェリンボ"
+    ]
+  },
+  "421": {
+    "id": 421,
+    "names": [
+      "樱花儿",
+      "チェリム",
+      "Cherrim",
+      "Cherrim",
+      "Cherrim",
+      "Kinoso",
+      "Ceriflor",
+      "櫻花兒",
+      "체리꼬",
+      "Cherrim",
+      "チェリム"
+    ]
+  },
+  "422": {
+    "id": 422,
+    "names": [
+      "无壳海兔",
+      "カラナクシ",
+      "Shellos",
+      "Shellos",
+      "Shellos",
+      "Schalellos",
+      "Sancoki",
+      "無殼海兔",
+      "깝질무",
+      "Karanakushi",
+      "カラナクシ"
+    ]
+  },
+  "423": {
+    "id": 423,
+    "names": [
+      "海兔兽",
+      "トリトドン",
+      "Gastrodon",
+      "Gastrodon",
+      "Gastrodon",
+      "Gastrodon",
+      "Tritosor",
+      "海兔獸",
+      "트리토돈",
+      "Toritodon",
+      "トリトドン"
+    ]
+  },
+  "424": {
+    "id": 424,
+    "names": [
+      "双尾怪手",
+      "エテボース",
+      "Ambipom",
+      "Ambipom",
+      "Ambipom",
+      "Ambidiffel",
+      "Capidextre",
+      "雙尾怪手",
+      "겟핸보숭",
+      "Eteboth",
+      "エテボース"
+    ]
+  },
+  "425": {
+    "id": 425,
+    "names": [
+      "飘飘球",
+      "フワンテ",
+      "Drifloon",
+      "Drifloon",
+      "Drifloon",
+      "Driftlon",
+      "Baudrive",
+      "飄飄球",
+      "흔들풍손",
+      "Fuwante",
+      "フワンテ"
+    ]
+  },
+  "426": {
+    "id": 426,
+    "names": [
+      "随风球",
+      "フワライド",
+      "Drifblim",
+      "Drifblim",
+      "Drifblim",
+      "Drifzepeli",
+      "Grodrive",
+      "隨風球",
+      "둥실라이드",
+      "Fuwaride",
+      "フワライド"
+    ]
+  },
+  "427": {
+    "id": 427,
+    "names": [
+      "卷卷耳",
+      "ミミロル",
+      "Buneary",
+      "Buneary",
+      "Buneary",
+      "Haspiror",
+      "Laporeille",
+      "捲捲耳",
+      "이어롤",
+      "Mimirol",
+      "ミミロル"
+    ]
+  },
+  "428": {
+    "id": 428,
+    "names": [
+      "长耳兔",
+      "ミミロップ",
+      "Lopunny",
+      "Lopunny",
+      "Lopunny",
+      "Schlapor",
+      "Lockpin",
+      "長耳兔",
+      "이어롭",
+      "Mimilop",
+      "ミミロップ"
+    ]
+  },
+  "429": {
+    "id": 429,
+    "names": [
+      "梦妖魔",
+      "ムウマージ",
+      "Mismagius",
+      "Mismagius",
+      "Mismagius",
+      "Traunmagil",
+      "Magirêve",
+      "夢妖魔",
+      "무우마직",
+      "Mumage",
+      "ムウマージ"
+    ]
+  },
+  "430": {
+    "id": 430,
+    "names": [
+      "乌鸦头头",
+      "ドンカラス",
+      "Honchkrow",
+      "Honchkrow",
+      "Honchkrow",
+      "Kramshef",
+      "Corboss",
+      "烏鴉頭頭",
+      "돈크로우",
+      "Donkarasu",
+      "ドンカラス"
+    ]
+  },
+  "431": {
+    "id": 431,
+    "names": [
+      "魅力喵",
+      "ニャルマー",
+      "Glameow",
+      "Glameow",
+      "Glameow",
+      "Charmian",
+      "Chaglam",
+      "魅力喵",
+      "나옹마",
+      "Nyarmar",
+      "ニャルマー"
+    ]
+  },
+  "432": {
+    "id": 432,
+    "names": [
+      "东施喵",
+      "ブニャット",
+      "Purugly",
+      "Purugly",
+      "Purugly",
+      "Shnurgarst",
+      "Chaffreux",
+      "東施喵",
+      "몬냥이",
+      "Bunyat",
+      "ブニャット"
+    ]
+  },
+  "433": {
+    "id": 433,
+    "names": [
+      "铃铛响",
+      "リーシャン",
+      "Chingling",
+      "Chingling",
+      "Chingling",
+      "Klingplim",
+      "Korillon",
+      "鈴鐺響",
+      "랑딸랑",
+      "Lisyan",
+      "リーシャン"
+    ]
+  },
+  "434": {
+    "id": 434,
+    "names": [
+      "臭鼬噗",
+      "スカンプー",
+      "Stunky",
+      "Stunky",
+      "Stunky",
+      "Skunkapuh",
+      "Moufouette",
+      "臭鼬噗",
+      "스컹뿡",
+      "Skunpoo",
+      "スカンプー"
+    ]
+  },
+  "435": {
+    "id": 435,
+    "names": [
+      "坦克臭鼬",
+      "スカタンク",
+      "Skuntank",
+      "Skuntank",
+      "Skuntank",
+      "Skuntank",
+      "Moufflair",
+      "坦克臭鼬",
+      "스컹탱크",
+      "Skutank",
+      "スカタンク"
+    ]
+  },
+  "436": {
+    "id": 436,
+    "names": [
+      "铜镜怪",
+      "ドーミラー",
+      "Bronzor",
+      "Bronzor",
+      "Bronzor",
+      "Bronzel",
+      "Archéomire",
+      "銅鏡怪",
+      "동미러",
+      "Domirror",
+      "ドーミラー"
+    ]
+  },
+  "437": {
+    "id": 437,
+    "names": [
+      "青铜钟",
+      "ドータクン",
+      "Bronzong",
+      "Bronzong",
+      "Bronzong",
+      "Bronzong",
+      "Archéodong",
+      "青銅鐘",
+      "동탁군",
+      "Dotakun",
+      "ドータクン"
+    ]
+  },
+  "438": {
+    "id": 438,
+    "names": [
+      "盆才怪",
+      "ウソハチ",
+      "Bonsly",
+      "Bonsly",
+      "Bonsly",
+      "Mobai",
+      "Manzaï",
+      "盆才怪",
+      "꼬지지",
+      "Usohachi",
+      "ウソハチ"
+    ]
+  },
+  "439": {
+    "id": 439,
+    "names": [
+      "魔尼尼",
+      "マネネ",
+      "Mime Jr.",
+      "Mime Jr.",
+      "Mime Jr.",
+      "Pantimimi",
+      "Mime Jr.",
+      "魔尼尼",
+      "흉내내",
+      "Manene",
+      "マネネ"
+    ]
+  },
+  "440": {
+    "id": 440,
+    "names": [
+      "小福蛋",
+      "ピンプク",
+      "Happiny",
+      "Happiny",
+      "Happiny",
+      "Wonneira",
+      "Ptiravi",
+      "小福蛋",
+      "핑복",
+      "Pinpuku",
+      "ピンプク"
+    ]
+  },
+  "441": {
+    "id": 441,
+    "names": [
+      "聒噪鸟",
+      "ペラップ",
+      "Chatot",
+      "Chatot",
+      "Chatot",
+      "Plaudagei",
+      "Pijako",
+      "聒噪鳥",
+      "페라페",
+      "Perap",
+      "ペラップ"
+    ]
+  },
+  "442": {
+    "id": 442,
+    "names": [
+      "花岩怪",
+      "ミカルゲ",
+      "Spiritomb",
+      "Spiritomb",
+      "Spiritomb",
+      "Kryppuk",
+      "Spiritomb",
+      "花岩怪",
+      "화강돌",
+      "Mikaruge",
+      "ミカルゲ"
+    ]
+  },
+  "443": {
+    "id": 443,
+    "names": [
+      "圆陆鲨",
+      "フカマル",
+      "Gible",
+      "Gible",
+      "Gible",
+      "Kaumalat",
+      "Griknot",
+      "圓陸鯊",
+      "딥상어동",
+      "Fukamaru",
+      "フカマル"
+    ]
+  },
+  "444": {
+    "id": 444,
+    "names": [
+      "尖牙陆鲨",
+      "ガバイト",
+      "Gabite",
+      "Gabite",
+      "Gabite",
+      "Knarksel",
+      "Carmache",
+      "尖牙陸鯊",
+      "한바이트",
+      "Gabite",
+      "ガバイト"
+    ]
+  },
+  "445": {
+    "id": 445,
+    "names": [
+      "烈咬陆鲨",
+      "ガブリアス",
+      "Garchomp",
+      "Garchomp",
+      "Garchomp",
+      "Knakrack",
+      "Carchacrok",
+      "烈咬陸鯊",
+      "한카리아스",
+      "Gablias",
+      "ガブリアス"
+    ]
+  },
+  "446": {
+    "id": 446,
+    "names": [
+      "小卡比兽",
+      "ゴンベ",
+      "Munchlax",
+      "Munchlax",
+      "Munchlax",
+      "Mampfaxo",
+      "Goinfrex",
+      "小卡比獸",
+      "먹고자",
+      "Gonbe",
+      "ゴンベ"
+    ]
+  },
+  "447": {
+    "id": 447,
+    "names": [
+      "利欧路",
+      "リオル",
+      "Riolu",
+      "Riolu",
+      "Riolu",
+      "Riolu",
+      "Riolu",
+      "利歐路",
+      "리오르",
+      "Riolu",
+      "リオル"
+    ]
+  },
+  "448": {
+    "id": 448,
+    "names": [
+      "路卡利欧",
+      "ルカリオ",
+      "Lucario",
+      "Lucario",
+      "Lucario",
+      "Lucario",
+      "Lucario",
+      "路卡利歐",
+      "루카리오",
+      "Lucario",
+      "ルカリオ"
+    ]
+  },
+  "449": {
+    "id": 449,
+    "names": [
+      "沙河马",
+      "ヒポポタス",
+      "Hippopotas",
+      "Hippopotas",
+      "Hippopotas",
+      "Hippopotas",
+      "Hippopotas",
+      "沙河馬",
+      "히포포타스",
+      "Hipopotas",
+      "ヒポポタス"
+    ]
+  },
+  "450": {
+    "id": 450,
+    "names": [
+      "河马兽",
+      "カバルドン",
+      "Hippowdon",
+      "Hippowdon",
+      "Hippowdon",
+      "Hippoterus",
+      "Hippodocus",
+      "河馬獸",
+      "하마돈",
+      "Kabarudon",
+      "カバルドン"
+    ]
+  },
+  "451": {
+    "id": 451,
+    "names": [
+      "钳尾蝎",
+      "スコルピ",
+      "Skorupi",
+      "Skorupi",
+      "Skorupi",
+      "Pionskora",
+      "Rapion",
+      "鉗尾蠍",
+      "스콜피",
+      "Scorpi",
+      "スコルピ"
+    ]
+  },
+  "452": {
+    "id": 452,
+    "names": [
+      "龙王蝎",
+      "ドラピオン",
+      "Drapion",
+      "Drapion",
+      "Drapion",
+      "Piondragi",
+      "Drascore",
+      "龍王蠍",
+      "드래피온",
+      "Dorapion",
+      "ドラピオン"
+    ]
+  },
+  "453": {
+    "id": 453,
+    "names": [
+      "不良蛙",
+      "グレッグル",
+      "Croagunk",
+      "Croagunk",
+      "Croagunk",
+      "Glibunkel",
+      "Cradopaud",
+      "不良蛙",
+      "삐딱구리",
+      "Gureggru",
+      "グレッグル"
+    ]
+  },
+  "454": {
+    "id": 454,
+    "names": [
+      "毒骷蛙",
+      "ドクロッグ",
+      "Toxicroak",
+      "Toxicroak",
+      "Toxicroak",
+      "Toxiquak",
+      "Coatox",
+      "毒骷蛙",
+      "독개굴",
+      "Dokurog",
+      "ドクロッグ"
+    ]
+  },
+  "455": {
+    "id": 455,
+    "names": [
+      "尖牙笼",
+      "マスキッパ",
+      "Carnivine",
+      "Carnivine",
+      "Carnivine",
+      "Venuflibis",
+      "Vortente",
+      "尖牙籠",
+      "무스틈니",
+      "Muskippa",
+      "マスキッパ"
+    ]
+  },
+  "456": {
+    "id": 456,
+    "names": [
+      "荧光鱼",
+      "ケイコウオ",
+      "Finneon",
+      "Finneon",
+      "Finneon",
+      "Finneon",
+      "Écayon",
+      "螢光魚",
+      "형광어",
+      "Keikouo",
+      "ケイコウオ"
+    ]
+  },
+  "457": {
+    "id": 457,
+    "names": [
+      "霓虹鱼",
+      "ネオラント",
+      "Lumineon",
+      "Lumineon",
+      "Lumineon",
+      "Lumineon",
+      "Luminéon",
+      "霓虹魚",
+      "네오라이트",
+      "Neolant",
+      "ネオラント"
+    ]
+  },
+  "458": {
+    "id": 458,
+    "names": [
+      "小球飞鱼",
+      "タマンタ",
+      "Mantyke",
+      "Mantyke",
+      "Mantyke",
+      "Mantirps",
+      "Babimanta",
+      "小球飛魚",
+      "타만타",
+      "Tamanta",
+      "タマンタ"
+    ]
+  },
+  "459": {
+    "id": 459,
+    "names": [
+      "雪笠怪",
+      "ユキカブリ",
+      "Snover",
+      "Snover",
+      "Snover",
+      "Shnebedeck",
+      "Blizzi",
+      "雪笠怪",
+      "눈쓰개",
+      "Yukikaburi",
+      "ユキカブリ"
+    ]
+  },
+  "460": {
+    "id": 460,
+    "names": [
+      "暴雪王",
+      "ユキノオー",
+      "Abomasnow",
+      "Abomasnow",
+      "Abomasnow",
+      "Rexblisar",
+      "Blizzaroi",
+      "暴雪王",
+      "눈설왕",
+      "Yukinooh",
+      "ユキノオー"
+    ]
+  },
+  "461": {
+    "id": 461,
+    "names": [
+      "玛狃拉",
+      "マニューラ",
+      "Weavile",
+      "Weavile",
+      "Weavile",
+      "Snibunna",
+      "Dimoret",
+      "瑪狃拉",
+      "포푸니라",
+      "Manyula",
+      "マニューラ"
+    ]
+  },
+  "462": {
+    "id": 462,
+    "names": [
+      "自爆磁怪",
+      "ジバコイル",
+      "Magnezone",
+      "Magnezone",
+      "Magnezone",
+      "Magnezone",
+      "Magnézone",
+      "自爆磁怪",
+      "자포코일",
+      "Jibacoil",
+      "ジバコイル"
+    ]
+  },
+  "463": {
+    "id": 463,
+    "names": [
+      "大舌舔",
+      "ベロベルト",
+      "Lickilicky",
+      "Lickilicky",
+      "Lickilicky",
+      "Schlurplek",
+      "Coudlangue",
+      "大舌舔",
+      "내룸벨트",
+      "Beroberto",
+      "ベロベルト"
+    ]
+  },
+  "464": {
+    "id": 464,
+    "names": [
+      "超甲狂犀",
+      "ドサイドン",
+      "Rhyperior",
+      "Rhyperior",
+      "Rhyperior",
+      "Rihornior",
+      "Rhinastoc",
+      "超甲狂犀",
+      "거대코뿌리",
+      "Dosydon",
+      "ドサイドン"
+    ]
+  },
+  "465": {
+    "id": 465,
+    "names": [
+      "巨蔓藤",
+      "モジャンボ",
+      "Tangrowth",
+      "Tangrowth",
+      "Tangrowth",
+      "Tangoloss",
+      "Bouldeneu",
+      "巨蔓藤",
+      "덩쿠림보",
+      "Mojumbo",
+      "モジャンボ"
+    ]
+  },
+  "466": {
+    "id": 466,
+    "names": [
+      "电击魔兽",
+      "エレキブル",
+      "Electivire",
+      "Electivire",
+      "Electivire",
+      "Elevoltek",
+      "Élekable",
+      "電擊魔獸",
+      "에레키블",
+      "Elekible",
+      "エレキブル"
+    ]
+  },
+  "467": {
+    "id": 467,
+    "names": [
+      "鸭嘴炎兽",
+      "ブーバーン",
+      "Magmortar",
+      "Magmortar",
+      "Magmortar",
+      "Magbrant",
+      "Maganon",
+      "鴨嘴炎獸",
+      "마그마번",
+      "Booburn",
+      "ブーバーン"
+    ]
+  },
+  "468": {
+    "id": 468,
+    "names": [
+      "波克基斯",
+      "トゲキッス",
+      "Togekiss",
+      "Togekiss",
+      "Togekiss",
+      "Togekiss",
+      "Togekiss",
+      "波克基斯",
+      "토게키스",
+      "Togekiss",
+      "トゲキッス"
+    ]
+  },
+  "469": {
+    "id": 469,
+    "names": [
+      "远古巨蜓",
+      "メガヤンマ",
+      "Yanmega",
+      "Yanmega",
+      "Yanmega",
+      "Yanmega",
+      "Yanmega",
+      "遠古巨蜓",
+      "메가자리",
+      "Megayanma",
+      "メガヤンマ"
+    ]
+  },
+  "470": {
+    "id": 470,
+    "names": [
+      "叶伊布",
+      "リーフィア",
+      "Leafeon",
+      "Leafeon",
+      "Leafeon",
+      "Folipurba",
+      "Phyllali",
+      "葉伊布",
+      "리피아",
+      "Leafia",
+      "リーフィア"
+    ]
+  },
+  "471": {
+    "id": 471,
+    "names": [
+      "冰伊布",
+      "グレイシア",
+      "Glaceon",
+      "Glaceon",
+      "Glaceon",
+      "Glaziola",
+      "Givrali",
+      "冰伊布",
+      "글레이시아",
+      "Glacia",
+      "グレイシア"
+    ]
+  },
+  "472": {
+    "id": 472,
+    "names": [
+      "天蝎王",
+      "グライオン",
+      "Gliscor",
+      "Gliscor",
+      "Gliscor",
+      "Skorgro",
+      "Scorvol",
+      "天蠍王",
+      "글라이온",
+      "Glion",
+      "グライオン"
+    ]
+  },
+  "473": {
+    "id": 473,
+    "names": [
+      "象牙猪",
+      "マンムー",
+      "Mamoswine",
+      "Mamoswine",
+      "Mamoswine",
+      "Mamutel",
+      "Mammochon",
+      "象牙豬",
+      "맘모꾸리",
+      "Mammoo",
+      "マンムー"
+    ]
+  },
+  "474": {
+    "id": 474,
+    "names": [
+      "多边兽Ｚ",
+      "ポリゴンＺ",
+      "Porygon-Z",
+      "Porygon-Z",
+      "Porygon-Z",
+      "Porygon-Z",
+      "Porygon-Z",
+      "多邊獸Ｚ",
+      "폴리곤Z",
+      "PorygonZ",
+      "ポリゴンＺ"
+    ]
+  },
+  "475": {
+    "id": 475,
+    "names": [
+      "艾路雷朵",
+      "エルレイド",
+      "Gallade",
+      "Gallade",
+      "Gallade",
+      "Galagladi",
+      "Gallame",
+      "艾路雷朵",
+      "엘레이드",
+      "Erlade",
+      "エルレイド"
+    ]
+  },
+  "476": {
+    "id": 476,
+    "names": [
+      "大朝北鼻",
+      "ダイノーズ",
+      "Probopass",
+      "Probopass",
+      "Probopass",
+      "Voluminas",
+      "Tarinorme",
+      "大朝北鼻",
+      "대코파스",
+      "Dainose",
+      "ダイノーズ"
+    ]
+  },
+  "477": {
+    "id": 477,
+    "names": [
+      "黑夜魔灵",
+      "ヨノワール",
+      "Dusknoir",
+      "Dusknoir",
+      "Dusknoir",
+      "Zwirrfinst",
+      "Noctunoir",
+      "黑夜魔靈",
+      "야느와르몽",
+      "Yonoir",
+      "ヨノワール"
+    ]
+  },
+  "478": {
+    "id": 478,
+    "names": [
+      "雪妖女",
+      "ユキメノコ",
+      "Froslass",
+      "Froslass",
+      "Froslass",
+      "Frosdedje",
+      "Momartik",
+      "雪妖女",
+      "눈여아",
+      "Yukimenoko",
+      "ユキメノコ"
+    ]
+  },
+  "479": {
+    "id": 479,
+    "names": [
+      "洛托姆",
+      "ロトム",
+      "Rotom",
+      "Rotom",
+      "Rotom",
+      "Rotom",
+      "Motisma",
+      "洛托姆",
+      "로토무",
+      "Rotom",
+      "ロトム"
+    ]
+  },
+  "480": {
+    "id": 480,
+    "names": [
+      "由克希",
+      "ユクシー",
+      "Uxie",
+      "Uxie",
+      "Uxie",
+      "Selfe",
+      "Créhelf",
+      "由克希",
+      "유크시",
+      "Yuxie",
+      "ユクシー"
+    ]
+  },
+  "481": {
+    "id": 481,
+    "names": [
+      "艾姆利多",
+      "エムリット",
+      "Mesprit",
+      "Mesprit",
+      "Mesprit",
+      "Vesprit",
+      "Créfollet",
+      "艾姆利多",
+      "엠라이트",
+      "Emrit",
+      "エムリット"
+    ]
+  },
+  "482": {
+    "id": 482,
+    "names": [
+      "亚克诺姆",
+      "アグノム",
+      "Azelf",
+      "Azelf",
+      "Azelf",
+      "Tobutz",
+      "Créfadet",
+      "亞克諾姆",
+      "아그놈",
+      "Agnome",
+      "アグノム"
+    ]
+  },
+  "483": {
+    "id": 483,
+    "names": [
+      "帝牙卢卡",
+      "ディアルガ",
+      "Dialga",
+      "Dialga",
+      "Dialga",
+      "Dialga",
+      "Dialga",
+      "帝牙盧卡",
+      "디아루가",
+      "Dialga",
+      "ディアルガ"
+    ]
+  },
+  "484": {
+    "id": 484,
+    "names": [
+      "帕路奇亚",
+      "パルキア",
+      "Palkia",
+      "Palkia",
+      "Palkia",
+      "Palkia",
+      "Palkia",
+      "帕路奇亞",
+      "펄기아",
+      "Palkia",
+      "パルキア"
+    ]
+  },
+  "485": {
+    "id": 485,
+    "names": [
+      "席多蓝恩",
+      "ヒードラン",
+      "Heatran",
+      "Heatran",
+      "Heatran",
+      "Heatran",
+      "Heatran",
+      "席多藍恩",
+      "히드런",
+      "Heatran",
+      "ヒードラン"
+    ]
+  },
+  "486": {
+    "id": 486,
+    "names": [
+      "雷吉奇卡斯",
+      "レジギガス",
+      "Regigigas",
+      "Regigigas",
+      "Regigigas",
+      "Regigigas",
+      "Regigigas",
+      "雷吉奇卡斯",
+      "레지기가스",
+      "Regigigas",
+      "レジギガス"
+    ]
+  },
+  "487": {
+    "id": 487,
+    "names": [
+      "骑拉帝纳",
+      "ギラティナ",
+      "Giratina",
+      "Giratina",
+      "Giratina",
+      "Giratina",
+      "Giratina",
+      "騎拉帝納",
+      "기라티나",
+      "Giratina",
+      "ギラティナ"
+    ]
+  },
+  "488": {
+    "id": 488,
+    "names": [
+      "克雷色利亚",
+      "クレセリア",
+      "Cresselia",
+      "Cresselia",
+      "Cresselia",
+      "Cresselia",
+      "Cresselia",
+      "克雷色利亞",
+      "크레세리아",
+      "Crecelia",
+      "クレセリア"
+    ]
+  },
+  "489": {
+    "id": 489,
+    "names": [
+      "霏欧纳",
+      "フィオネ",
+      "Phione",
+      "Phione",
+      "Phione",
+      "Phione",
+      "Phione",
+      "霏歐納",
+      "피오네",
+      "Phione",
+      "フィオネ"
+    ]
+  },
+  "490": {
+    "id": 490,
+    "names": [
+      "玛纳霏",
+      "マナフィ",
+      "Manaphy",
+      "Manaphy",
+      "Manaphy",
+      "Manaphy",
+      "Manaphy",
+      "瑪納霏",
+      "마나피",
+      "Manaphy",
+      "マナフィ"
+    ]
+  },
+  "491": {
+    "id": 491,
+    "names": [
+      "达克莱伊",
+      "ダークライ",
+      "Darkrai",
+      "Darkrai",
+      "Darkrai",
+      "Darkrai",
+      "Darkrai",
+      "達克萊伊",
+      "다크라이",
+      "Darkrai",
+      "ダークライ"
+    ]
+  },
+  "492": {
+    "id": 492,
+    "names": [
+      "谢米",
+      "シェイミ",
+      "Shaymin",
+      "Shaymin",
+      "Shaymin",
+      "Shaymin",
+      "Shaymin",
+      "謝米",
+      "쉐이미",
+      "Shaymin",
+      "シェイミ"
+    ]
+  },
+  "493": {
+    "id": 493,
+    "names": [
+      "阿尔宙斯",
+      "アルセウス",
+      "Arceus",
+      "Arceus",
+      "Arceus",
+      "Arceus",
+      "Arceus",
+      "阿爾宙斯",
+      "아르세우스",
+      "Arceus",
+      "アルセウス"
+    ]
+  },
+  "494": {
+    "id": 494,
+    "names": [
+      "比克提尼",
+      "ビクティニ",
+      "Victini",
+      "Victini",
+      "Victini",
+      "Victini",
+      "Victini",
+      "比克提尼",
+      "비크티니",
+      "ビクティニ"
+    ]
+  },
+  "495": {
+    "id": 495,
+    "names": [
+      "藤藤蛇",
+      "ツタージャ",
+      "Snivy",
+      "Snivy",
+      "Snivy",
+      "Serpifeu",
+      "Vipélierre",
+      "藤藤蛇",
+      "주리비얀",
+      "ツタージャ"
+    ]
+  },
+  "496": {
+    "id": 496,
+    "names": [
+      "青藤蛇",
+      "ジャノビー",
+      "Servine",
+      "Servine",
+      "Servine",
+      "Efoserp",
+      "Lianaja",
+      "青藤蛇",
+      "샤비",
+      "ジャノビー"
+    ]
+  },
+  "497": {
+    "id": 497,
+    "names": [
+      "君主蛇",
+      "ジャローダ",
+      "Serperior",
+      "Serperior",
+      "Serperior",
+      "Serpiroyal",
+      "Majaspic",
+      "君主蛇",
+      "샤로다",
+      "ジャローダ"
+    ]
+  },
+  "498": {
+    "id": 498,
+    "names": [
+      "暖暖猪",
+      "ポカブ",
+      "Tepig",
+      "Tepig",
+      "Tepig",
+      "Floink",
+      "Gruikui",
+      "暖暖豬",
+      "뚜꾸리",
+      "ポカブ"
+    ]
+  },
+  "499": {
+    "id": 499,
+    "names": [
+      "炒炒猪",
+      "チャオブー",
+      "Pignite",
+      "Pignite",
+      "Pignite",
+      "Ferkokel",
+      "Grotichon",
+      "炒炒豬",
+      "차오꿀",
+      "チャオブー"
+    ]
+  },
+  "500": {
+    "id": 500,
+    "names": [
+      "炎武王",
+      "エンブオー",
+      "Emboar",
+      "Emboar",
+      "Emboar",
+      "Flambirex",
+      "Roitiflam",
+      "炎武王",
+      "염무왕",
+      "エンブオー"
+    ]
+  },
+  "501": {
+    "id": 501,
+    "names": [
+      "水水獭",
+      "ミジュマル",
+      "Oshawott",
+      "Oshawott",
+      "Oshawott",
+      "Ottaro",
+      "Moustillon",
+      "水水獺",
+      "수댕이",
+      "ミジュマル"
+    ]
+  },
+  "502": {
+    "id": 502,
+    "names": [
+      "双刃丸",
+      "フタチマル",
+      "Dewott",
+      "Dewott",
+      "Dewott",
+      "Zwottronin",
+      "Mateloutre",
+      "雙刃丸",
+      "쌍검자비",
+      "フタチマル"
+    ]
+  },
+  "503": {
+    "id": 503,
+    "names": [
+      "大剑鬼",
+      "ダイケンキ",
+      "Samurott",
+      "Samurott",
+      "Samurott",
+      "Admurai",
+      "Clamiral",
+      "大劍鬼",
+      "대검귀",
+      "ダイケンキ"
+    ]
+  },
+  "504": {
+    "id": 504,
+    "names": [
+      "探探鼠",
+      "ミネズミ",
+      "Patrat",
+      "Patrat",
+      "Patrat",
+      "Nagelotz",
+      "Ratentif",
+      "探探鼠",
+      "보르쥐",
+      "ミネズミ"
+    ]
+  },
+  "505": {
+    "id": 505,
+    "names": [
+      "步哨鼠",
+      "ミルホッグ",
+      "Watchog",
+      "Watchog",
+      "Watchog",
+      "Kukmarda",
+      "Miradar",
+      "步哨鼠",
+      "보르그",
+      "ミルホッグ"
+    ]
+  },
+  "506": {
+    "id": 506,
+    "names": [
+      "小约克",
+      "ヨーテリー",
+      "Lillipup",
+      "Lillipup",
+      "Lillipup",
+      "Yorkleff",
+      "Ponchiot",
+      "小約克",
+      "요테리",
+      "ヨーテリー"
+    ]
+  },
+  "507": {
+    "id": 507,
+    "names": [
+      "哈约克",
+      "ハーデリア",
+      "Herdier",
+      "Herdier",
+      "Herdier",
+      "Terribark",
+      "Ponchien",
+      "哈約克",
+      "하데리어",
+      "ハーデリア"
+    ]
+  },
+  "508": {
+    "id": 508,
+    "names": [
+      "长毛狗",
+      "ムーランド",
+      "Stoutland",
+      "Stoutland",
+      "Stoutland",
+      "Bissbark",
+      "Mastouffe",
+      "長毛狗",
+      "바랜드",
+      "ムーランド"
+    ]
+  },
+  "509": {
+    "id": 509,
+    "names": [
+      "扒手猫",
+      "チョロネコ",
+      "Purrloin",
+      "Purrloin",
+      "Purrloin",
+      "Felilou",
+      "Chacripan",
+      "扒手貓",
+      "쌔비냥",
+      "チョロネコ"
+    ]
+  },
+  "510": {
+    "id": 510,
+    "names": [
+      "酷豹",
+      "レパルダス",
+      "Liepard",
+      "Liepard",
+      "Liepard",
+      "Kleoparda",
+      "Léopardus",
+      "酷豹",
+      "레파르다스",
+      "レパルダス"
+    ]
+  },
+  "511": {
+    "id": 511,
+    "names": [
+      "花椰猴",
+      "ヤナップ",
+      "Pansage",
+      "Pansage",
+      "Pansage",
+      "Vegimak",
+      "Feuillajou",
+      "花椰猴",
+      "야나프",
+      "ヤナップ"
+    ]
+  },
+  "512": {
+    "id": 512,
+    "names": [
+      "花椰猿",
+      "ヤナッキー",
+      "Simisage",
+      "Simisage",
+      "Simisage",
+      "Vegichita",
+      "Feuiloutan",
+      "花椰猿",
+      "야나키",
+      "ヤナッキー"
+    ]
+  },
+  "513": {
+    "id": 513,
+    "names": [
+      "爆香猴",
+      "バオップ",
+      "Pansear",
+      "Pansear",
+      "Pansear",
+      "Grillmak",
+      "Flamajou",
+      "爆香猴",
+      "바오프",
+      "バオップ"
+    ]
+  },
+  "514": {
+    "id": 514,
+    "names": [
+      "爆香猿",
+      "バオッキー",
+      "Simisear",
+      "Simisear",
+      "Simisear",
+      "Grillchita",
+      "Flamoutan",
+      "爆香猿",
+      "바오키",
+      "バオッキー"
+    ]
+  },
+  "515": {
+    "id": 515,
+    "names": [
+      "冷水猴",
+      "ヒヤップ",
+      "Panpour",
+      "Panpour",
+      "Panpour",
+      "Sodamak",
+      "Flotajou",
+      "冷水猴",
+      "앗차프",
+      "ヒヤップ"
+    ]
+  },
+  "516": {
+    "id": 516,
+    "names": [
+      "冷水猿",
+      "ヒヤッキー",
+      "Simipour",
+      "Simipour",
+      "Simipour",
+      "Sodachita",
+      "Flotoutan",
+      "冷水猿",
+      "앗차키",
+      "ヒヤッキー"
+    ]
+  },
+  "517": {
+    "id": 517,
+    "names": [
+      "食梦梦",
+      "ムンナ",
+      "Munna",
+      "Munna",
+      "Munna",
+      "Somniam",
+      "Munna",
+      "食夢夢",
+      "몽나",
+      "ムンナ"
+    ]
+  },
+  "518": {
+    "id": 518,
+    "names": [
+      "梦梦蚀",
+      "ムシャーナ",
+      "Musharna",
+      "Musharna",
+      "Musharna",
+      "Somnivora",
+      "Mushana",
+      "夢夢蝕",
+      "몽얌나",
+      "ムシャーナ"
+    ]
+  },
+  "519": {
+    "id": 519,
+    "names": [
+      "豆豆鸽",
+      "マメパト",
+      "Pidove",
+      "Pidove",
+      "Pidove",
+      "Dusselgurr",
+      "Poichigeon",
+      "豆豆鴿",
+      "콩둘기",
+      "マメパト"
+    ]
+  },
+  "520": {
+    "id": 520,
+    "names": [
+      "咕咕鸽",
+      "ハトーボー",
+      "Tranquill",
+      "Tranquill",
+      "Tranquill",
+      "Navitaub",
+      "Colombeau",
+      "咕咕鴿",
+      "유토브",
+      "ハトーボー"
+    ]
+  },
+  "521": {
+    "id": 521,
+    "names": [
+      "高傲雉鸡",
+      "ケンホロウ",
+      "Unfezant",
+      "Unfezant",
+      "Unfezant",
+      "Fasasnob",
+      "Déflaisan",
+      "高傲雉雞",
+      "켄호로우",
+      "ケンホロウ"
+    ]
+  },
+  "522": {
+    "id": 522,
+    "names": [
+      "斑斑马",
+      "シママ",
+      "Blitzle",
+      "Blitzle",
+      "Blitzle",
+      "Elezeba",
+      "Zébibron",
+      "斑斑馬",
+      "줄뮤마",
+      "シママ"
+    ]
+  },
+  "523": {
+    "id": 523,
+    "names": [
+      "雷电斑马",
+      "ゼブライカ",
+      "Zebstrika",
+      "Zebstrika",
+      "Zebstrika",
+      "Zebritz",
+      "Zéblitz",
+      "雷電斑馬",
+      "제브라이카",
+      "ゼブライカ"
+    ]
+  },
+  "524": {
+    "id": 524,
+    "names": [
+      "石丸子",
+      "ダンゴロ",
+      "Roggenrola",
+      "Roggenrola",
+      "Roggenrola",
+      "Kiesling",
+      "Nodulithe",
+      "石丸子",
+      "단굴",
+      "ダンゴロ"
+    ]
+  },
+  "525": {
+    "id": 525,
+    "names": [
+      "地幔岩",
+      "ガントル",
+      "Boldore",
+      "Boldore",
+      "Boldore",
+      "Sedimantur",
+      "Géolithe",
+      "地幔岩",
+      "암트르",
+      "ガントル"
+    ]
+  },
+  "526": {
+    "id": 526,
+    "names": [
+      "庞岩怪",
+      "ギガイアス",
+      "Gigalith",
+      "Gigalith",
+      "Gigalith",
+      "Brockoloss",
+      "Gigalithe",
+      "龐岩怪",
+      "기가이어스",
+      "ギガイアス"
+    ]
+  },
+  "527": {
+    "id": 527,
+    "names": [
+      "滚滚蝙蝠",
+      "コロモリ",
+      "Woobat",
+      "Woobat",
+      "Woobat",
+      "Fleknoil",
+      "Chovsourir",
+      "滾滾蝙蝠",
+      "또르박쥐",
+      "コロモリ"
+    ]
+  },
+  "528": {
+    "id": 528,
+    "names": [
+      "心蝙蝠",
+      "ココロモリ",
+      "Swoobat",
+      "Swoobat",
+      "Swoobat",
+      "Fletiamo",
+      "Rhinolove",
+      "心蝙蝠",
+      "맘박쥐",
+      "ココロモリ"
+    ]
+  },
+  "529": {
+    "id": 529,
+    "names": [
+      "螺钉地鼠",
+      "モグリュー",
+      "Drilbur",
+      "Drilbur",
+      "Drilbur",
+      "Rotomurf",
+      "Rototaupe",
+      "螺釘地鼠",
+      "두더류",
+      "モグリュー"
+    ]
+  },
+  "530": {
+    "id": 530,
+    "names": [
+      "龙头地鼠",
+      "ドリュウズ",
+      "Excadrill",
+      "Excadrill",
+      "Excadrill",
+      "Stalobor",
+      "Minotaupe",
+      "龍頭地鼠",
+      "몰드류",
+      "ドリュウズ"
+    ]
+  },
+  "531": {
+    "id": 531,
+    "names": [
+      "差不多娃娃",
+      "タブンネ",
+      "Audino",
+      "Audino",
+      "Audino",
+      "Ohrdoch",
+      "Nanméouïe",
+      "差不多娃娃",
+      "다부니",
+      "タブンネ"
+    ]
+  },
+  "532": {
+    "id": 532,
+    "names": [
+      "搬运小匠",
+      "ドッコラー",
+      "Timburr",
+      "Timburr",
+      "Timburr",
+      "Praktibalk",
+      "Charpenti",
+      "搬運小匠",
+      "으랏차",
+      "ドッコラー"
+    ]
+  },
+  "533": {
+    "id": 533,
+    "names": [
+      "铁骨土人",
+      "ドテッコツ",
+      "Gurdurr",
+      "Gurdurr",
+      "Gurdurr",
+      "Strepoli",
+      "Ouvrifier",
+      "鐵骨土人",
+      "토쇠골",
+      "ドテッコツ"
+    ]
+  },
+  "534": {
+    "id": 534,
+    "names": [
+      "修建老匠",
+      "ローブシン",
+      "Conkeldurr",
+      "Conkeldurr",
+      "Conkeldurr",
+      "Meistagrif",
+      "Bétochef",
+      "修建老匠",
+      "노보청",
+      "ローブシン"
+    ]
+  },
+  "535": {
+    "id": 535,
+    "names": [
+      "圆蝌蚪",
+      "オタマロ",
+      "Tympole",
+      "Tympole",
+      "Tympole",
+      "Schallquap",
+      "Tritonde",
+      "圓蝌蚪",
+      "동챙이",
+      "オタマロ"
+    ]
+  },
+  "536": {
+    "id": 536,
+    "names": [
+      "蓝蟾蜍",
+      "ガマガル",
+      "Palpitoad",
+      "Palpitoad",
+      "Palpitoad",
+      "Mebrana",
+      "Batracné",
+      "藍蟾蜍",
+      "두까비",
+      "ガマガル"
+    ]
+  },
+  "537": {
+    "id": 537,
+    "names": [
+      "蟾蜍王",
+      "ガマゲロゲ",
+      "Seismitoad",
+      "Seismitoad",
+      "Seismitoad",
+      "Branawarz",
+      "Crapustule",
+      "蟾蜍王",
+      "두빅굴",
+      "ガマゲロゲ"
+    ]
+  },
+  "538": {
+    "id": 538,
+    "names": [
+      "投摔鬼",
+      "ナゲキ",
+      "Throh",
+      "Throh",
+      "Throh",
+      "Jiutesto",
+      "Judokrak",
+      "投摔鬼",
+      "던지미",
+      "ナゲキ"
+    ]
+  },
+  "539": {
+    "id": 539,
+    "names": [
+      "打击鬼",
+      "ダゲキ",
+      "Sawk",
+      "Sawk",
+      "Sawk",
+      "Karadonis",
+      "Karaclée",
+      "打擊鬼",
+      "타격귀",
+      "ダゲキ"
+    ]
+  },
+  "540": {
+    "id": 540,
+    "names": [
+      "虫宝包",
+      "クルミル",
+      "Sewaddle",
+      "Sewaddle",
+      "Sewaddle",
+      "Strawickl",
+      "Larveyette",
+      "蟲寶包",
+      "두르보",
+      "クルミル"
+    ]
+  },
+  "541": {
+    "id": 541,
+    "names": [
+      "宝包茧",
+      "クルマユ",
+      "Swadloon",
+      "Swadloon",
+      "Swadloon",
+      "Folikon",
+      "Couverdure",
+      "寶包繭",
+      "두르쿤",
+      "クルマユ"
+    ]
+  },
+  "542": {
+    "id": 542,
+    "names": [
+      "保姆虫",
+      "ハハコモリ",
+      "Leavanny",
+      "Leavanny",
+      "Leavanny",
+      "Matrifol",
+      "Manternel",
+      "保母蟲",
+      "모아머",
+      "ハハコモリ"
+    ]
+  },
+  "543": {
+    "id": 543,
+    "names": [
+      "百足蜈蚣",
+      "フシデ",
+      "Venipede",
+      "Venipede",
+      "Venipede",
+      "Toxiped",
+      "Venipatte",
+      "百足蜈蚣",
+      "마디네",
+      "フシデ"
+    ]
+  },
+  "544": {
+    "id": 544,
+    "names": [
+      "车轮球",
+      "ホイーガ",
+      "Whirlipede",
+      "Whirlipede",
+      "Whirlipede",
+      "Rollum",
+      "Scobolide",
+      "車輪毬",
+      "휠구",
+      "ホイーガ"
+    ]
+  },
+  "545": {
+    "id": 545,
+    "names": [
+      "蜈蚣王",
+      "ペンドラー",
+      "Scolipede",
+      "Scolipede",
+      "Scolipede",
+      "Cerapendra",
+      "Brutapode",
+      "蜈蚣王",
+      "펜드라",
+      "ペンドラー"
+    ]
+  },
+  "546": {
+    "id": 546,
+    "names": [
+      "木棉球",
+      "モンメン",
+      "Cottonee",
+      "Cottonee",
+      "Cottonee",
+      "Waumboll",
+      "Doudouvet",
+      "木棉球",
+      "소미안",
+      "モンメン"
+    ]
+  },
+  "547": {
+    "id": 547,
+    "names": [
+      "风妖精",
+      "エルフーン",
+      "Whimsicott",
+      "Whimsicott",
+      "Whimsicott",
+      "Elfun",
+      "Farfaduvet",
+      "風妖精",
+      "엘풍",
+      "エルフーン"
+    ]
+  },
+  "548": {
+    "id": 548,
+    "names": [
+      "百合根娃娃",
+      "チュリネ",
+      "Petilil",
+      "Petilil",
+      "Petilil",
+      "Lilminip",
+      "Chlorobule",
+      "百合根娃娃",
+      "치릴리",
+      "チュリネ"
+    ]
+  },
+  "549": {
+    "id": 549,
+    "names": [
+      "裙儿小姐",
+      "ドレディア",
+      "Lilligant",
+      "Lilligant",
+      "Lilligant",
+      "Dressella",
+      "Fragilady",
+      "裙兒小姐",
+      "드레디어",
+      "ドレディア"
+    ]
+  },
+  "550": {
+    "id": 550,
+    "names": [
+      "野蛮鲈鱼",
+      "バスラオ",
+      "Basculin",
+      "Basculin",
+      "Basculin",
+      "Barschuft",
+      "Bargantua",
+      "野蠻鱸魚",
+      "배쓰나이",
+      "バスラオ"
+    ]
+  },
+  "551": {
+    "id": 551,
+    "names": [
+      "黑眼鳄",
+      "メグロコ",
+      "Sandile",
+      "Sandile",
+      "Sandile",
+      "Ganovil",
+      "Mascaïman",
+      "黑眼鱷",
+      "깜눈크",
+      "メグロコ"
+    ]
+  },
+  "552": {
+    "id": 552,
+    "names": [
+      "混混鳄",
+      "ワルビル",
+      "Krokorok",
+      "Krokorok",
+      "Krokorok",
+      "Rokkaiman",
+      "Escroco",
+      "混混鱷",
+      "악비르",
+      "ワルビル"
+    ]
+  },
+  "553": {
+    "id": 553,
+    "names": [
+      "流氓鳄",
+      "ワルビアル",
+      "Krookodile",
+      "Krookodile",
+      "Krookodile",
+      "Rabigator",
+      "Crocorible",
+      "流氓鱷",
+      "악비아르",
+      "ワルビアル"
+    ]
+  },
+  "554": {
+    "id": 554,
+    "names": [
+      "火红不倒翁",
+      "ダルマッカ",
+      "Darumaka",
+      "Darumaka",
+      "Darumaka",
+      "Flampion",
+      "Darumarond",
+      "火紅不倒翁",
+      "달막화",
+      "ダルマッカ"
+    ]
+  },
+  "555": {
+    "id": 555,
+    "names": [
+      "达摩狒狒",
+      "ヒヒダルマ",
+      "Darmanitan",
+      "Darmanitan",
+      "Darmanitan",
+      "Flampivian",
+      "Darumacho",
+      "達摩狒狒",
+      "불비달마",
+      "ヒヒダルマ"
+    ]
+  },
+  "556": {
+    "id": 556,
+    "names": [
+      "沙铃仙人掌",
+      "マラカッチ",
+      "Maractus",
+      "Maractus",
+      "Maractus",
+      "Maracamba",
+      "Maracachi",
+      "沙鈴仙人掌",
+      "마라카치",
+      "マラカッチ"
+    ]
+  },
+  "557": {
+    "id": 557,
+    "names": [
+      "石居蟹",
+      "イシズマイ",
+      "Dwebble",
+      "Dwebble",
+      "Dwebble",
+      "Lithomith",
+      "Crabicoque",
+      "石居蟹",
+      "돌살이",
+      "イシズマイ"
+    ]
+  },
+  "558": {
+    "id": 558,
+    "names": [
+      "岩殿居蟹",
+      "イワパレス",
+      "Crustle",
+      "Crustle",
+      "Crustle",
+      "Castellith",
+      "Crabaraque",
+      "岩殿居蟹",
+      "암팰리스",
+      "イワパレス"
+    ]
+  },
+  "559": {
+    "id": 559,
+    "names": [
+      "滑滑小子",
+      "ズルッグ",
+      "Scraggy",
+      "Scraggy",
+      "Scraggy",
+      "Zurrokex",
+      "Baggiguane",
+      "滑滑小子",
+      "곤율랭",
+      "ズルッグ"
+    ]
+  },
+  "560": {
+    "id": 560,
+    "names": [
+      "头巾混混",
+      "ズルズキン",
+      "Scrafty",
+      "Scrafty",
+      "Scrafty",
+      "Irokex",
+      "Baggaïd",
+      "頭巾混混",
+      "곤율거니",
+      "ズルズキン"
+    ]
+  },
+  "561": {
+    "id": 561,
+    "names": [
+      "象征鸟",
+      "シンボラー",
+      "Sigilyph",
+      "Sigilyph",
+      "Sigilyph",
+      "Symvolara",
+      "Cryptéro",
+      "象徵鳥",
+      "심보러",
+      "シンボラー"
+    ]
+  },
+  "562": {
+    "id": 562,
+    "names": [
+      "哭哭面具",
+      "デスマス",
+      "Yamask",
+      "Yamask",
+      "Yamask",
+      "Makabaja",
+      "Tutafeh",
+      "哭哭面具",
+      "데스마스",
+      "デスマス"
+    ]
+  },
+  "563": {
+    "id": 563,
+    "names": [
+      "死神棺",
+      "デスカーン",
+      "Cofagrigus",
+      "Cofagrigus",
+      "Cofagrigus",
+      "Echnatoll",
+      "Tutankafer",
+      "死神棺",
+      "데스니칸",
+      "デスカーン"
+    ]
+  },
+  "564": {
+    "id": 564,
+    "names": [
+      "原盖海龟",
+      "プロトーガ",
+      "Tirtouga",
+      "Tirtouga",
+      "Tirtouga",
+      "Galapaflos",
+      "Carapagos",
+      "原蓋海龜",
+      "프로토가",
+      "プロトーガ"
+    ]
+  },
+  "565": {
+    "id": 565,
+    "names": [
+      "肋骨海龟",
+      "アバゴーラ",
+      "Carracosta",
+      "Carracosta",
+      "Carracosta",
+      "Karippas",
+      "Mégapagos",
+      "肋骨海龜",
+      "늑골라",
+      "アバゴーラ"
+    ]
+  },
+  "566": {
+    "id": 566,
+    "names": [
+      "始祖小鸟",
+      "アーケン",
+      "Archen",
+      "Archen",
+      "Archen",
+      "Flapteryx",
+      "Arkéapti",
+      "始祖小鳥",
+      "아켄",
+      "アーケン"
+    ]
+  },
+  "567": {
+    "id": 567,
+    "names": [
+      "始祖大鸟",
+      "アーケオス",
+      "Archeops",
+      "Archeops",
+      "Archeops",
+      "Aeropteryx",
+      "Aéroptéryx",
+      "始祖大鳥",
+      "아케오스",
+      "アーケオス"
+    ]
+  },
+  "568": {
+    "id": 568,
+    "names": [
+      "破破袋",
+      "ヤブクロン",
+      "Trubbish",
+      "Trubbish",
+      "Trubbish",
+      "Unratütox",
+      "Miamiasme",
+      "破破袋",
+      "깨봉이",
+      "ヤブクロン"
+    ]
+  },
+  "569": {
+    "id": 569,
+    "names": [
+      "灰尘山",
+      "ダストダス",
+      "Garbodor",
+      "Garbodor",
+      "Garbodor",
+      "Deponitox",
+      "Miasmax",
+      "灰塵山",
+      "더스트나",
+      "ダストダス"
+    ]
+  },
+  "570": {
+    "id": 570,
+    "names": [
+      "索罗亚",
+      "ゾロア",
+      "Zorua",
+      "Zorua",
+      "Zorua",
+      "Zorua",
+      "Zorua",
+      "索羅亞",
+      "조로아",
+      "ゾロア"
+    ]
+  },
+  "571": {
+    "id": 571,
+    "names": [
+      "索罗亚克",
+      "ゾロアーク",
+      "Zoroark",
+      "Zoroark",
+      "Zoroark",
+      "Zoroark",
+      "Zoroark",
+      "索羅亞克",
+      "조로아크",
+      "ゾロアーク"
+    ]
+  },
+  "572": {
+    "id": 572,
+    "names": [
+      "泡沫栗鼠",
+      "チラーミィ",
+      "Minccino",
+      "Minccino",
+      "Minccino",
+      "Picochilla",
+      "Chinchidou",
+      "泡沫栗鼠",
+      "치라미",
+      "チラーミィ"
+    ]
+  },
+  "573": {
+    "id": 573,
+    "names": [
+      "奇诺栗鼠",
+      "チラチーノ",
+      "Cinccino",
+      "Cinccino",
+      "Cinccino",
+      "Chillabell",
+      "Pashmilla",
+      "奇諾栗鼠",
+      "치라치노",
+      "チラチーノ"
+    ]
+  },
+  "574": {
+    "id": 574,
+    "names": [
+      "哥德宝宝",
+      "ゴチム",
+      "Gothita",
+      "Gothita",
+      "Gothita",
+      "Mollimorba",
+      "Scrutella",
+      "哥德寶寶",
+      "고디탱",
+      "ゴチム"
+    ]
+  },
+  "575": {
+    "id": 575,
+    "names": [
+      "哥德小童",
+      "ゴチミル",
+      "Gothorita",
+      "Gothorita",
+      "Gothorita",
+      "Hypnomorba",
+      "Mesmérella",
+      "哥德小童",
+      "고디보미",
+      "ゴチミル"
+    ]
+  },
+  "576": {
+    "id": 576,
+    "names": [
+      "哥德小姐",
+      "ゴチルゼル",
+      "Gothitelle",
+      "Gothitelle",
+      "Gothitelle",
+      "Morbitesse",
+      "Sidérella",
+      "哥德小姐",
+      "고디모아젤",
+      "ゴチルゼル"
+    ]
+  },
+  "577": {
+    "id": 577,
+    "names": [
+      "单卵细胞球",
+      "ユニラン",
+      "Solosis",
+      "Solosis",
+      "Solosis",
+      "Monozyto",
+      "Nucléos",
+      "單卵細胞球",
+      "유니란",
+      "ユニラン"
+    ]
+  },
+  "578": {
+    "id": 578,
+    "names": [
+      "双卵细胞球",
+      "ダブラン",
+      "Duosion",
+      "Duosion",
+      "Duosion",
+      "Mitodos",
+      "Méios",
+      "雙卵細胞球",
+      "듀란",
+      "ダブラン"
+    ]
+  },
+  "579": {
+    "id": 579,
+    "names": [
+      "人造细胞卵",
+      "ランクルス",
+      "Reuniclus",
+      "Reuniclus",
+      "Reuniclus",
+      "Zytomega",
+      "Symbios",
+      "人造細胞卵",
+      "란쿨루스",
+      "ランクルス"
+    ]
+  },
+  "580": {
+    "id": 580,
+    "names": [
+      "鸭宝宝",
+      "コアルヒー",
+      "Ducklett",
+      "Ducklett",
+      "Ducklett",
+      "Piccolente",
+      "Couaneton",
+      "鴨寶寶",
+      "꼬지보리",
+      "コアルヒー"
+    ]
+  },
+  "581": {
+    "id": 581,
+    "names": [
+      "舞天鹅",
+      "スワンナ",
+      "Swanna",
+      "Swanna",
+      "Swanna",
+      "Swaroness",
+      "Lakmécygne",
+      "舞天鵝",
+      "스완나",
+      "スワンナ"
+    ]
+  },
+  "582": {
+    "id": 582,
+    "names": [
+      "迷你冰",
+      "バニプッチ",
+      "Vanillite",
+      "Vanillite",
+      "Vanillite",
+      "Gelatini",
+      "Sorbébé",
+      "迷你冰",
+      "바닐프티",
+      "バニプッチ"
+    ]
+  },
+  "583": {
+    "id": 583,
+    "names": [
+      "多多冰",
+      "バニリッチ",
+      "Vanillish",
+      "Vanillish",
+      "Vanillish",
+      "Gelatroppo",
+      "Sorboul",
+      "多多冰",
+      "바닐리치",
+      "バニリッチ"
+    ]
+  },
+  "584": {
+    "id": 584,
+    "names": [
+      "双倍多多冰",
+      "バイバニラ",
+      "Vanilluxe",
+      "Vanilluxe",
+      "Vanilluxe",
+      "Gelatwino",
+      "Sorbouboul",
+      "雙倍多多冰",
+      "배바닐라",
+      "バイバニラ"
+    ]
+  },
+  "585": {
+    "id": 585,
+    "names": [
+      "四季鹿",
+      "シキジカ",
+      "Deerling",
+      "Deerling",
+      "Deerling",
+      "Sesokitz",
+      "Vivaldaim",
+      "四季鹿",
+      "사철록",
+      "シキジカ"
+    ]
+  },
+  "586": {
+    "id": 586,
+    "names": [
+      "萌芽鹿",
+      "メブキジカ",
+      "Sawsbuck",
+      "Sawsbuck",
+      "Sawsbuck",
+      "Kronjuwild",
+      "Haydaim",
+      "萌芽鹿",
+      "바라철록",
+      "メブキジカ"
+    ]
+  },
+  "587": {
+    "id": 587,
+    "names": [
+      "电飞鼠",
+      "エモンガ",
+      "Emolga",
+      "Emolga",
+      "Emolga",
+      "Emolga",
+      "Emolga",
+      "電飛鼠",
+      "에몽가",
+      "エモンガ"
+    ]
+  },
+  "588": {
+    "id": 588,
+    "names": [
+      "盖盖虫",
+      "カブルモ",
+      "Karrablast",
+      "Karrablast",
+      "Karrablast",
+      "Laukaps",
+      "Carabing",
+      "蓋蓋蟲",
+      "딱정곤",
+      "カブルモ"
+    ]
+  },
+  "589": {
+    "id": 589,
+    "names": [
+      "骑士蜗牛",
+      "シュバルゴ",
+      "Escavalier",
+      "Escavalier",
+      "Escavalier",
+      "Cavalanzas",
+      "Lançargot",
+      "騎士蝸牛",
+      "슈바르고",
+      "シュバルゴ"
+    ]
+  },
+  "590": {
+    "id": 590,
+    "names": [
+      "哎呀球菇",
+      "タマゲタケ",
+      "Foongus",
+      "Foongus",
+      "Foongus",
+      "Tarnpignon",
+      "Trompignon",
+      "哎呀球菇",
+      "깜놀버슬",
+      "タマゲタケ"
+    ]
+  },
+  "591": {
+    "id": 591,
+    "names": [
+      "败露球菇",
+      "モロバレル",
+      "Amoonguss",
+      "Amoonguss",
+      "Amoonguss",
+      "Hutsassa",
+      "Gaulet",
+      "敗露球菇",
+      "뽀록나",
+      "モロバレル"
+    ]
+  },
+  "592": {
+    "id": 592,
+    "names": [
+      "轻飘飘",
+      "プルリル",
+      "Frillish",
+      "Frillish",
+      "Frillish",
+      "Quabbel",
+      "Viskuse",
+      "輕飄飄",
+      "탱그릴",
+      "プルリル"
+    ]
+  },
+  "593": {
+    "id": 593,
+    "names": [
+      "胖嘟嘟",
+      "ブルンゲル",
+      "Jellicent",
+      "Jellicent",
+      "Jellicent",
+      "Apoquallyp",
+      "Moyade",
+      "胖嘟嘟",
+      "탱탱겔",
+      "ブルンゲル"
+    ]
+  },
+  "594": {
+    "id": 594,
+    "names": [
+      "保姆曼波",
+      "ママンボウ",
+      "Alomomola",
+      "Alomomola",
+      "Alomomola",
+      "Mamolida",
+      "Mamanbo",
+      "保母曼波",
+      "맘복치",
+      "ママンボウ"
+    ]
+  },
+  "595": {
+    "id": 595,
+    "names": [
+      "电电虫",
+      "バチュル",
+      "Joltik",
+      "Joltik",
+      "Joltik",
+      "Wattzapf",
+      "Statitik",
+      "電電蟲",
+      "파쪼옥",
+      "バチュル"
+    ]
+  },
+  "596": {
+    "id": 596,
+    "names": [
+      "电蜘蛛",
+      "デンチュラ",
+      "Galvantula",
+      "Galvantula",
+      "Galvantula",
+      "Voltula",
+      "Mygavolt",
+      "電蜘蛛",
+      "전툴라",
+      "デンチュラ"
+    ]
+  },
+  "597": {
+    "id": 597,
+    "names": [
+      "种子铁球",
+      "テッシード",
+      "Ferroseed",
+      "Ferroseed",
+      "Ferroseed",
+      "Kastadur",
+      "Grindur",
+      "種子鐵球",
+      "철시드",
+      "テッシード"
+    ]
+  },
+  "598": {
+    "id": 598,
+    "names": [
+      "坚果哑铃",
+      "ナットレイ",
+      "Ferrothorn",
+      "Ferrothorn",
+      "Ferrothorn",
+      "Tentantel",
+      "Noacier",
+      "堅果啞鈴",
+      "너트령",
+      "ナットレイ"
+    ]
+  },
+  "599": {
+    "id": 599,
+    "names": [
+      "齿轮儿",
+      "ギアル",
+      "Klink",
+      "Klink",
+      "Klink",
+      "Klikk",
+      "Tic",
+      "齒輪兒",
+      "기어르",
+      "ギアル"
+    ]
+  },
+  "600": {
+    "id": 600,
+    "names": [
+      "齿轮组",
+      "ギギアル",
+      "Klang",
+      "Klang",
+      "Klang",
+      "Kliklak",
+      "Clic",
+      "齒輪組",
+      "기기어르",
+      "ギギアル"
+    ]
+  },
+  "601": {
+    "id": 601,
+    "names": [
+      "齿轮怪",
+      "ギギギアル",
+      "Klinklang",
+      "Klinklang",
+      "Klinklang",
+      "Klikdiklak",
+      "Cliticlic",
+      "齒輪怪",
+      "기기기어르",
+      "ギギギアル"
+    ]
+  },
+  "602": {
+    "id": 602,
+    "names": [
+      "麻麻小鱼",
+      "シビシラス",
+      "Tynamo",
+      "Tynamo",
+      "Tynamo",
+      "Zapplardin",
+      "Anchwatt",
+      "麻麻小魚",
+      "저리어",
+      "シビシラス"
+    ]
+  },
+  "603": {
+    "id": 603,
+    "names": [
+      "麻麻鳗",
+      "シビビール",
+      "Eelektrik",
+      "Eelektrik",
+      "Eelektrik",
+      "Zapplalek",
+      "Lampéroie",
+      "麻麻鰻",
+      "저리릴",
+      "シビビール"
+    ]
+  },
+  "604": {
+    "id": 604,
+    "names": [
+      "麻麻鳗鱼王",
+      "シビルドン",
+      "Eelektross",
+      "Eelektross",
+      "Eelektross",
+      "Zapplarang",
+      "Ohmassacre",
+      "麻麻鰻魚王",
+      "저리더프",
+      "シビルドン"
+    ]
+  },
+  "605": {
+    "id": 605,
+    "names": [
+      "小灰怪",
+      "リグレー",
+      "Elgyem",
+      "Elgyem",
+      "Elgyem",
+      "Pygraulon",
+      "Lewsor",
+      "小灰怪",
+      "리그레",
+      "リグレー"
+    ]
+  },
+  "606": {
+    "id": 606,
+    "names": [
+      "大宇怪",
+      "オーベム",
+      "Beheeyem",
+      "Beheeyem",
+      "Beheeyem",
+      "Megalon",
+      "Neitram",
+      "大宇怪",
+      "벰크",
+      "オーベム"
+    ]
+  },
+  "607": {
+    "id": 607,
+    "names": [
+      "烛光灵",
+      "ヒトモシ",
+      "Litwick",
+      "Litwick",
+      "Litwick",
+      "Lichtel",
+      "Funécire",
+      "燭光靈",
+      "불켜미",
+      "ヒトモシ"
+    ]
+  },
+  "608": {
+    "id": 608,
+    "names": [
+      "灯火幽灵",
+      "ランプラー",
+      "Lampent",
+      "Lampent",
+      "Lampent",
+      "Laternecto",
+      "Mélancolux",
+      "燈火幽靈",
+      "램프라",
+      "ランプラー"
+    ]
+  },
+  "609": {
+    "id": 609,
+    "names": [
+      "水晶灯火灵",
+      "シャンデラ",
+      "Chandelure",
+      "Chandelure",
+      "Chandelure",
+      "Skelabra",
+      "Lugulabre",
+      "水晶燈火靈",
+      "샹델라",
+      "シャンデラ"
+    ]
+  },
+  "610": {
+    "id": 610,
+    "names": [
+      "牙牙",
+      "キバゴ",
+      "Axew",
+      "Axew",
+      "Axew",
+      "Milza",
+      "Coupenotte",
+      "牙牙",
+      "터검니",
+      "キバゴ"
+    ]
+  },
+  "611": {
+    "id": 611,
+    "names": [
+      "斧牙龙",
+      "オノンド",
+      "Fraxure",
+      "Fraxure",
+      "Fraxure",
+      "Sharfax",
+      "Incisache",
+      "斧牙龍",
+      "액슨도",
+      "オノンド"
+    ]
+  },
+  "612": {
+    "id": 612,
+    "names": [
+      "双斧战龙",
+      "オノノクス",
+      "Haxorus",
+      "Haxorus",
+      "Haxorus",
+      "Maxax",
+      "Tranchodon",
+      "雙斧戰龍",
+      "액스라이즈",
+      "オノノクス"
+    ]
+  },
+  "613": {
+    "id": 613,
+    "names": [
+      "喷嚏熊",
+      "クマシュン",
+      "Cubchoo",
+      "Cubchoo",
+      "Cubchoo",
+      "Petznief",
+      "Polarhume",
+      "噴嚏熊",
+      "코고미",
+      "クマシュン"
+    ]
+  },
+  "614": {
+    "id": 614,
+    "names": [
+      "冻原熊",
+      "ツンベアー",
+      "Beartic",
+      "Beartic",
+      "Beartic",
+      "Siberio",
+      "Polagriffe",
+      "凍原熊",
+      "툰베어",
+      "ツンベアー"
+    ]
+  },
+  "615": {
+    "id": 615,
+    "names": [
+      "几何雪花",
+      "フリージオ",
+      "Cryogonal",
+      "Cryogonal",
+      "Cryogonal",
+      "Frigometri",
+      "Hexagel",
+      "幾何雪花",
+      "프리지오",
+      "フリージオ"
+    ]
+  },
+  "616": {
+    "id": 616,
+    "names": [
+      "小嘴蜗",
+      "チョボマキ",
+      "Shelmet",
+      "Shelmet",
+      "Shelmet",
+      "Schnuthelm",
+      "Escargaume",
+      "小嘴蝸",
+      "쪼마리",
+      "チョボマキ"
+    ]
+  },
+  "617": {
+    "id": 617,
+    "names": [
+      "敏捷虫",
+      "アギルダー",
+      "Accelgor",
+      "Accelgor",
+      "Accelgor",
+      "Hydragil",
+      "Limaspeed",
+      "敏捷蟲",
+      "어지리더",
+      "アギルダー"
+    ]
+  },
+  "618": {
+    "id": 618,
+    "names": [
+      "泥巴鱼",
+      "マッギョ",
+      "Stunfisk",
+      "Stunfisk",
+      "Stunfisk",
+      "Flunschlik",
+      "Limonde",
+      "泥巴魚",
+      "메더",
+      "マッギョ"
+    ]
+  },
+  "619": {
+    "id": 619,
+    "names": [
+      "功夫鼬",
+      "コジョフー",
+      "Mienfoo",
+      "Mienfoo",
+      "Mienfoo",
+      "Lin-Fu",
+      "Kungfouine",
+      "功夫鼬",
+      "비조푸",
+      "コジョフー"
+    ]
+  },
+  "620": {
+    "id": 620,
+    "names": [
+      "师父鼬",
+      "コジョンド",
+      "Mienshao",
+      "Mienshao",
+      "Mienshao",
+      "Wie-Shu",
+      "Shaofouine",
+      "師父鼬",
+      "비조도",
+      "コジョンド"
+    ]
+  },
+  "621": {
+    "id": 621,
+    "names": [
+      "赤面龙",
+      "クリムガン",
+      "Druddigon",
+      "Druddigon",
+      "Druddigon",
+      "Shardrago",
+      "Drakkarmin",
+      "赤面龍",
+      "크리만",
+      "クリムガン"
+    ]
+  },
+  "622": {
+    "id": 622,
+    "names": [
+      "泥偶小人",
+      "ゴビット",
+      "Golett",
+      "Golett",
+      "Golett",
+      "Golbit",
+      "Gringolem",
+      "泥偶小人",
+      "골비람",
+      "ゴビット"
+    ]
+  },
+  "623": {
+    "id": 623,
+    "names": [
+      "泥偶巨人",
+      "ゴルーグ",
+      "Golurk",
+      "Golurk",
+      "Golurk",
+      "Golgantes",
+      "Golemastoc",
+      "泥偶巨人",
+      "골루그",
+      "ゴルーグ"
+    ]
+  },
+  "624": {
+    "id": 624,
+    "names": [
+      "驹刀小兵",
+      "コマタナ",
+      "Pawniard",
+      "Pawniard",
+      "Pawniard",
+      "Gladiantri",
+      "Scalpion",
+      "駒刀小兵",
+      "자망칼",
+      "コマタナ"
+    ]
+  },
+  "625": {
+    "id": 625,
+    "names": [
+      "劈斩司令",
+      "キリキザン",
+      "Bisharp",
+      "Bisharp",
+      "Bisharp",
+      "Caesurio",
+      "Scalproie",
+      "劈斬司令",
+      "절각참",
+      "キリキザン"
+    ]
+  },
+  "626": {
+    "id": 626,
+    "names": [
+      "爆炸头水牛",
+      "バッフロン",
+      "Bouffalant",
+      "Bouffalant",
+      "Bouffalant",
+      "Bisofank",
+      "Frison",
+      "爆炸頭水牛",
+      "버프론",
+      "バッフロン"
+    ]
+  },
+  "627": {
+    "id": 627,
+    "names": [
+      "毛头小鹰",
+      "ワシボン",
+      "Rufflet",
+      "Rufflet",
+      "Rufflet",
+      "Geronimatz",
+      "Furaiglon",
+      "毛頭小鷹",
+      "수리둥보",
+      "ワシボン"
+    ]
+  },
+  "628": {
+    "id": 628,
+    "names": [
+      "勇士雄鹰",
+      "ウォーグル",
+      "Braviary",
+      "Braviary",
+      "Braviary",
+      "Washakwil",
+      "Gueriaigle",
+      "勇士雄鷹",
+      "워글",
+      "ウォーグル"
+    ]
+  },
+  "629": {
+    "id": 629,
+    "names": [
+      "秃鹰丫头",
+      "バルチャイ",
+      "Vullaby",
+      "Vullaby",
+      "Vullaby",
+      "Skallyk",
+      "Vostourno",
+      "禿鷹丫頭",
+      "벌차이",
+      "バルチャイ"
+    ]
+  },
+  "630": {
+    "id": 630,
+    "names": [
+      "秃鹰娜",
+      "バルジーナ",
+      "Mandibuzz",
+      "Mandibuzz",
+      "Mandibuzz",
+      "Grypheldis",
+      "Vaututrice",
+      "禿鷹娜",
+      "버랜지나",
+      "バルジーナ"
+    ]
+  },
+  "631": {
+    "id": 631,
+    "names": [
+      "熔蚁兽",
+      "クイタラン",
+      "Heatmor",
+      "Heatmor",
+      "Heatmor",
+      "Furnifraß",
+      "Aflamanoir",
+      "熔蟻獸",
+      "앤티골",
+      "クイタラン"
+    ]
+  },
+  "632": {
+    "id": 632,
+    "names": [
+      "铁蚁",
+      "アイアント",
+      "Durant",
+      "Durant",
+      "Durant",
+      "Fermicula",
+      "Fermite",
+      "鐵蟻",
+      "아이앤트",
+      "アイアント"
+    ]
+  },
+  "633": {
+    "id": 633,
+    "names": [
+      "单首龙",
+      "モノズ",
+      "Deino",
+      "Deino",
+      "Deino",
+      "Kapuno",
+      "Solochi",
+      "單首龍",
+      "모노두",
+      "モノズ"
+    ]
+  },
+  "634": {
+    "id": 634,
+    "names": [
+      "双首暴龙",
+      "ジヘッド",
+      "Zweilous",
+      "Zweilous",
+      "Zweilous",
+      "Duodino",
+      "Diamat",
+      "雙首暴龍",
+      "디헤드",
+      "ジヘッド"
+    ]
+  },
+  "635": {
+    "id": 635,
+    "names": [
+      "三首恶龙",
+      "サザンドラ",
+      "Hydreigon",
+      "Hydreigon",
+      "Hydreigon",
+      "Trikephalo",
+      "Trioxhydre",
+      "三首惡龍",
+      "삼삼드래",
+      "サザンドラ"
+    ]
+  },
+  "636": {
+    "id": 636,
+    "names": [
+      "燃烧虫",
+      "メラルバ",
+      "Larvesta",
+      "Larvesta",
+      "Larvesta",
+      "Ignivor",
+      "Pyronille",
+      "燃燒蟲",
+      "활화르바",
+      "メラルバ"
+    ]
+  },
+  "637": {
+    "id": 637,
+    "names": [
+      "火神蛾",
+      "ウルガモス",
+      "Volcarona",
+      "Volcarona",
+      "Volcarona",
+      "Ramoth",
+      "Pyrax",
+      "火神蛾",
+      "불카모스",
+      "ウルガモス"
+    ]
+  },
+  "638": {
+    "id": 638,
+    "names": [
+      "勾帕路翁",
+      "コバルオン",
+      "Cobalion",
+      "Cobalion",
+      "Cobalion",
+      "Kobalium",
+      "Cobaltium",
+      "勾帕路翁",
+      "코바르온",
+      "コバルオン"
+    ]
+  },
+  "639": {
+    "id": 639,
+    "names": [
+      "代拉基翁",
+      "テラキオン",
+      "Terrakion",
+      "Terrakion",
+      "Terrakion",
+      "Terrakium",
+      "Terrakium",
+      "代拉基翁",
+      "테라키온",
+      "テラキオン"
+    ]
+  },
+  "640": {
+    "id": 640,
+    "names": [
+      "毕力吉翁",
+      "ビリジオン",
+      "Virizion",
+      "Virizion",
+      "Virizion",
+      "Viridium",
+      "Viridium",
+      "畢力吉翁",
+      "비리디온",
+      "ビリジオン"
+    ]
+  },
+  "641": {
+    "id": 641,
+    "names": [
+      "龙卷云",
+      "トルネロス",
+      "Tornadus",
+      "Tornadus",
+      "Tornadus",
+      "Boreos",
+      "Boréas",
+      "龍捲雲",
+      "토네로스",
+      "トルネロス"
+    ]
+  },
+  "642": {
+    "id": 642,
+    "names": [
+      "雷电云",
+      "ボルトロス",
+      "Thundurus",
+      "Thundurus",
+      "Thundurus",
+      "Voltolos",
+      "Fulguris",
+      "雷電雲",
+      "볼트로스",
+      "ボルトロス"
+    ]
+  },
+  "643": {
+    "id": 643,
+    "names": [
+      "莱希拉姆",
+      "レシラム",
+      "Reshiram",
+      "Reshiram",
+      "Reshiram",
+      "Reshiram",
+      "Reshiram",
+      "萊希拉姆",
+      "레시라무",
+      "レシラム"
+    ]
+  },
+  "644": {
+    "id": 644,
+    "names": [
+      "捷克罗姆",
+      "ゼクロム",
+      "Zekrom",
+      "Zekrom",
+      "Zekrom",
+      "Zekrom",
+      "Zekrom",
+      "捷克羅姆",
+      "제크로무",
+      "ゼクロム"
+    ]
+  },
+  "645": {
+    "id": 645,
+    "names": [
+      "土地云",
+      "ランドロス",
+      "Landorus",
+      "Landorus",
+      "Landorus",
+      "Demeteros",
+      "Démétéros",
+      "土地雲",
+      "랜드로스",
+      "ランドロス"
+    ]
+  },
+  "646": {
+    "id": 646,
+    "names": [
+      "酋雷姆",
+      "キュレム",
+      "Kyurem",
+      "Kyurem",
+      "Kyurem",
+      "Kyurem",
+      "Kyurem",
+      "酋雷姆",
+      "큐레무",
+      "キュレム"
+    ]
+  },
+  "647": {
+    "id": 647,
+    "names": [
+      "凯路迪欧",
+      "ケルディオ",
+      "Keldeo",
+      "Keldeo",
+      "Keldeo",
+      "Keldeo",
+      "Keldeo",
+      "凱路迪歐",
+      "케르디오",
+      "ケルディオ"
+    ]
+  },
+  "648": {
+    "id": 648,
+    "names": [
+      "美洛耶塔",
+      "メロエッタ",
+      "Meloetta",
+      "Meloetta",
+      "Meloetta",
+      "Meloetta",
+      "Meloetta",
+      "美洛耶塔",
+      "메로엣타",
+      "メロエッタ"
+    ]
+  },
+  "649": {
+    "id": 649,
+    "names": [
+      "盖诺赛克特",
+      "ゲノセクト",
+      "Genesect",
+      "Genesect",
+      "Genesect",
+      "Genesect",
+      "Genesect",
+      "蓋諾賽克特",
+      "게노세크트",
+      "ゲノセクト"
+    ]
+  },
+  "650": {
+    "id": 650,
+    "names": [
+      "哈力栗",
+      "ハリマロン",
+      "Chespin",
+      "Chespin",
+      "Chespin",
+      "Igamaro",
+      "Marisson",
+      "哈力栗",
+      "도치마론",
+      "ハリマロン"
+    ]
+  },
+  "651": {
+    "id": 651,
+    "names": [
+      "胖胖哈力",
+      "ハリボーグ",
+      "Quilladin",
+      "Quilladin",
+      "Quilladin",
+      "Igastarnish",
+      "Boguérisse",
+      "胖胖哈力",
+      "도치보구",
+      "ハリボーグ"
+    ]
+  },
+  "652": {
+    "id": 652,
+    "names": [
+      "布里卡隆",
+      "ブリガロン",
+      "Chesnaught",
+      "Chesnaught",
+      "Chesnaught",
+      "Brigaron",
+      "Blindépique",
+      "布里卡隆",
+      "브리가론",
+      "ブリガロン"
+    ]
+  },
+  "653": {
+    "id": 653,
+    "names": [
+      "火狐狸",
+      "フォッコ",
+      "Fennekin",
+      "Fennekin",
+      "Fennekin",
+      "Fynx",
+      "Feunnec",
+      "火狐狸",
+      "푸호꼬",
+      "フォッコ"
+    ]
+  },
+  "654": {
+    "id": 654,
+    "names": [
+      "长尾火狐",
+      "テールナー",
+      "Braixen",
+      "Braixen",
+      "Braixen",
+      "Rutena",
+      "Roussil",
+      "長尾火狐",
+      "테르나",
+      "テールナー"
+    ]
+  },
+  "655": {
+    "id": 655,
+    "names": [
+      "妖火红狐",
+      "マフォクシー",
+      "Delphox",
+      "Delphox",
+      "Delphox",
+      "Fennexis",
+      "Goupelin",
+      "妖火紅狐",
+      "마폭시",
+      "マフォクシー"
+    ]
+  },
+  "656": {
+    "id": 656,
+    "names": [
+      "呱呱泡蛙",
+      "ケロマツ",
+      "Froakie",
+      "Froakie",
+      "Froakie",
+      "Froxy",
+      "Grenousse",
+      "呱呱泡蛙",
+      "개구마르",
+      "ケロマツ"
+    ]
+  },
+  "657": {
+    "id": 657,
+    "names": [
+      "呱头蛙",
+      "ゲコガシラ",
+      "Frogadier",
+      "Frogadier",
+      "Frogadier",
+      "Amphizel",
+      "Croâporal",
+      "呱頭蛙",
+      "개굴반장",
+      "ゲコガシラ"
+    ]
+  },
+  "658": {
+    "id": 658,
+    "names": [
+      "甲贺忍蛙",
+      "ゲッコウガ",
+      "Greninja",
+      "Greninja",
+      "Greninja",
+      "Quajutsu",
+      "Amphinobi",
+      "甲賀忍蛙",
+      "개굴닌자",
+      "ゲッコウガ"
+    ]
+  },
+  "659": {
+    "id": 659,
+    "names": [
+      "掘掘兔",
+      "ホルビー",
+      "Bunnelby",
+      "Bunnelby",
+      "Bunnelby",
+      "Scoppel",
+      "Sapereau",
+      "掘掘兔",
+      "파르빗",
+      "ホルビー"
+    ]
+  },
+  "660": {
+    "id": 660,
+    "names": [
+      "掘地兔",
+      "ホルード",
+      "Diggersby",
+      "Diggersby",
+      "Diggersby",
+      "Grebbit",
+      "Excavarenne",
+      "掘地兔",
+      "파르토",
+      "ホルード"
+    ]
+  },
+  "661": {
+    "id": 661,
+    "names": [
+      "小箭雀",
+      "ヤヤコマ",
+      "Fletchling",
+      "Fletchling",
+      "Fletchling",
+      "Dartiri",
+      "Passerouge",
+      "小箭雀",
+      "화살꼬빈",
+      "ヤヤコマ"
+    ]
+  },
+  "662": {
+    "id": 662,
+    "names": [
+      "火箭雀",
+      "ヒノヤコマ",
+      "Fletchinder",
+      "Fletchinder",
+      "Fletchinder",
+      "Dartignis",
+      "Braisillon",
+      "火箭雀",
+      "불화살빈",
+      "ヒノヤコマ"
+    ]
+  },
+  "663": {
+    "id": 663,
+    "names": [
+      "烈箭鹰",
+      "ファイアロー",
+      "Talonflame",
+      "Talonflame",
+      "Talonflame",
+      "Fiaro",
+      "Flambusard",
+      "烈箭鷹",
+      "파이어로",
+      "ファイアロー"
+    ]
+  },
+  "664": {
+    "id": 664,
+    "names": [
+      "粉蝶虫",
+      "コフキムシ",
+      "Scatterbug",
+      "Scatterbug",
+      "Scatterbug",
+      "Purmel",
+      "Lépidonille",
+      "粉蝶蟲",
+      "분이벌레",
+      "コフキムシ"
+    ]
+  },
+  "665": {
+    "id": 665,
+    "names": [
+      "粉蝶蛹",
+      "コフーライ",
+      "Spewpa",
+      "Spewpa",
+      "Spewpa",
+      "Puponcho",
+      "Pérégrain",
+      "粉蝶蛹",
+      "분떠도리",
+      "コフーライ"
+    ]
+  },
+  "666": {
+    "id": 666,
+    "names": [
+      "彩粉蝶",
+      "ビビヨン",
+      "Vivillon",
+      "Vivillon",
+      "Vivillon",
+      "Vivillon",
+      "Prismillon",
+      "彩粉蝶",
+      "비비용",
+      "ビビヨン"
+    ]
+  },
+  "667": {
+    "id": 667,
+    "names": [
+      "小狮狮",
+      "シシコ",
+      "Litleo",
+      "Litleo",
+      "Litleo",
+      "Leufeo",
+      "Hélionceau",
+      "小獅獅",
+      "레오꼬",
+      "シシコ"
+    ]
+  },
+  "668": {
+    "id": 668,
+    "names": [
+      "火炎狮",
+      "カエンジシ",
+      "Pyroar",
+      "Pyroar",
+      "Pyroar",
+      "Pyroleo",
+      "Némélios",
+      "火炎獅",
+      "화염레오",
+      "カエンジシ"
+    ]
+  },
+  "669": {
+    "id": 669,
+    "names": [
+      "花蓓蓓",
+      "フラベベ",
+      "Flabébé",
+      "Flabébé",
+      "Flabébé",
+      "Flabébé",
+      "Flabébé",
+      "花蓓蓓",
+      "플라베베",
+      "フラベベ"
+    ]
+  },
+  "670": {
+    "id": 670,
+    "names": [
+      "花叶蒂",
+      "フラエッテ",
+      "Floette",
+      "Floette",
+      "Floette",
+      "Floette",
+      "Floette",
+      "花葉蒂",
+      "플라엣테",
+      "フラエッテ"
+    ]
+  },
+  "671": {
+    "id": 671,
+    "names": [
+      "花洁夫人",
+      "フラージェス",
+      "Florges",
+      "Florges",
+      "Florges",
+      "Florges",
+      "Florges",
+      "花潔夫人",
+      "플라제스",
+      "フラージェス"
+    ]
+  },
+  "672": {
+    "id": 672,
+    "names": [
+      "坐骑小羊",
+      "メェークル",
+      "Skiddo",
+      "Skiddo",
+      "Skiddo",
+      "Mähikel",
+      "Cabriolaine",
+      "坐騎小羊",
+      "메이클",
+      "メェークル"
+    ]
+  },
+  "673": {
+    "id": 673,
+    "names": [
+      "坐骑山羊",
+      "ゴーゴート",
+      "Gogoat",
+      "Gogoat",
+      "Gogoat",
+      "Chevrumm",
+      "Chevroum",
+      "坐騎山羊",
+      "고고트",
+      "ゴーゴート"
+    ]
+  },
+  "674": {
+    "id": 674,
+    "names": [
+      "顽皮熊猫",
+      "ヤンチャム",
+      "Pancham",
+      "Pancham",
+      "Pancham",
+      "Pam-Pam",
+      "Pandespiègle",
+      "頑皮熊貓",
+      "판짱",
+      "ヤンチャム"
+    ]
+  },
+  "675": {
+    "id": 675,
+    "names": [
+      "流氓熊猫",
+      "ゴロンダ",
+      "Pangoro",
+      "Pangoro",
+      "Pangoro",
+      "Pandagro",
+      "Pandarbare",
+      "流氓熊貓",
+      "부란다",
+      "ゴロンダ"
+    ]
+  },
+  "676": {
+    "id": 676,
+    "names": [
+      "多丽米亚",
+      "トリミアン",
+      "Furfrou",
+      "Furfrou",
+      "Furfrou",
+      "Coiffwaff",
+      "Couafarel",
+      "多麗米亞",
+      "트리미앙",
+      "トリミアン"
+    ]
+  },
+  "677": {
+    "id": 677,
+    "names": [
+      "妙喵",
+      "ニャスパー",
+      "Espurr",
+      "Espurr",
+      "Espurr",
+      "Psiau",
+      "Psystigri",
+      "妙喵",
+      "냐스퍼",
+      "ニャスパー"
+    ]
+  },
+  "678": {
+    "id": 678,
+    "names": [
+      "超能妙喵",
+      "ニャオニクス",
+      "Meowstic",
+      "Meowstic",
+      "Meowstic",
+      "Psiaugon",
+      "Mistigrix",
+      "超能妙喵",
+      "냐오닉스",
+      "ニャオニクス"
+    ]
+  },
+  "679": {
+    "id": 679,
+    "names": [
+      "独剑鞘",
+      "ヒトツキ",
+      "Honedge",
+      "Honedge",
+      "Honedge",
+      "Gramokles",
+      "Monorpale",
+      "獨劍鞘",
+      "단칼빙",
+      "ヒトツキ"
+    ]
+  },
+  "680": {
+    "id": 680,
+    "names": [
+      "双剑鞘",
+      "ニダンギル",
+      "Doublade",
+      "Doublade",
+      "Doublade",
+      "Duokles",
+      "Dimoclès",
+      "雙劍鞘",
+      "쌍검킬",
+      "ニダンギル"
+    ]
+  },
+  "681": {
+    "id": 681,
+    "names": [
+      "坚盾剑怪",
+      "ギルガルド",
+      "Aegislash",
+      "Aegislash",
+      "Aegislash",
+      "Durengard",
+      "Exagide",
+      "堅盾劍怪",
+      "킬가르도",
+      "ギルガルド"
+    ]
+  },
+  "682": {
+    "id": 682,
+    "names": [
+      "粉香香",
+      "シュシュプ",
+      "Spritzee",
+      "Spritzee",
+      "Spritzee",
+      "Parfi",
+      "Fluvetin",
+      "粉香香",
+      "슈쁘",
+      "シュシュプ"
+    ]
+  },
+  "683": {
+    "id": 683,
+    "names": [
+      "芳香精",
+      "フレフワン",
+      "Aromatisse",
+      "Aromatisse",
+      "Aromatisse",
+      "Parfinesse",
+      "Cocotine",
+      "芳香精",
+      "프레프티르",
+      "フレフワン"
+    ]
+  },
+  "684": {
+    "id": 684,
+    "names": [
+      "绵绵泡芙",
+      "ペロッパフ",
+      "Swirlix",
+      "Swirlix",
+      "Swirlix",
+      "Flauschling",
+      "Sucroquin",
+      "綿綿泡芙",
+      "나룸퍼프",
+      "ペロッパフ"
+    ]
+  },
+  "685": {
+    "id": 685,
+    "names": [
+      "胖甜妮",
+      "ペロリーム",
+      "Slurpuff",
+      "Slurpuff",
+      "Slurpuff",
+      "Sabbaione",
+      "Cupcanaille",
+      "胖甜妮",
+      "나루림",
+      "ペロリーム"
+    ]
+  },
+  "686": {
+    "id": 686,
+    "names": [
+      "好啦鱿",
+      "マーイーカ",
+      "Inkay",
+      "Inkay",
+      "Inkay",
+      "Iscalar",
+      "Sepiatop",
+      "好啦魷",
+      "오케이징",
+      "マーイーカ"
+    ]
+  },
+  "687": {
+    "id": 687,
+    "names": [
+      "乌贼王",
+      "カラマネロ",
+      "Malamar",
+      "Malamar",
+      "Malamar",
+      "Calamanero",
+      "Sepiatroce",
+      "烏賊王",
+      "칼라마네로",
+      "カラマネロ"
+    ]
+  },
+  "688": {
+    "id": 688,
+    "names": [
+      "龟脚脚",
+      "カメテテ",
+      "Binacle",
+      "Binacle",
+      "Binacle",
+      "Bithora",
+      "Opermine",
+      "龜腳腳",
+      "거북손손",
+      "カメテテ"
+    ]
+  },
+  "689": {
+    "id": 689,
+    "names": [
+      "龟足巨铠",
+      "ガメノデス",
+      "Barbaracle",
+      "Barbaracle",
+      "Barbaracle",
+      "Thanathora",
+      "Golgopathe",
+      "龜足巨鎧",
+      "거북손데스",
+      "ガメノデス"
+    ]
+  },
+  "690": {
+    "id": 690,
+    "names": [
+      "垃垃藻",
+      "クズモー",
+      "Skrelp",
+      "Skrelp",
+      "Skrelp",
+      "Algitt",
+      "Venalgue",
+      "垃垃藻",
+      "수레기",
+      "クズモー"
+    ]
+  },
+  "691": {
+    "id": 691,
+    "names": [
+      "毒藻龙",
+      "ドラミドロ",
+      "Dragalge",
+      "Dragalge",
+      "Dragalge",
+      "Tandrak",
+      "Kravarech",
+      "毒藻龍",
+      "드래캄",
+      "ドラミドロ"
+    ]
+  },
+  "692": {
+    "id": 692,
+    "names": [
+      "铁臂枪虾",
+      "ウデッポウ",
+      "Clauncher",
+      "Clauncher",
+      "Clauncher",
+      "Scampisto",
+      "Flingouste",
+      "鐵臂槍蝦",
+      "완철포",
+      "ウデッポウ"
+    ]
+  },
+  "693": {
+    "id": 693,
+    "names": [
+      "钢炮臂虾",
+      "ブロスター",
+      "Clawitzer",
+      "Clawitzer",
+      "Clawitzer",
+      "Wummer",
+      "Gamblast",
+      "鋼砲臂蝦",
+      "블로스터",
+      "ブロスター"
+    ]
+  },
+  "694": {
+    "id": 694,
+    "names": [
+      "伞电蜥",
+      "エリキテル",
+      "Helioptile",
+      "Helioptile",
+      "Helioptile",
+      "Eguana",
+      "Galvaran",
+      "傘電蜥",
+      "목도리키텔",
+      "エリキテル"
+    ]
+  },
+  "695": {
+    "id": 695,
+    "names": [
+      "光电伞蜥",
+      "エレザード",
+      "Heliolisk",
+      "Heliolisk",
+      "Heliolisk",
+      "Elezard",
+      "Iguolta",
+      "光電傘蜥",
+      "일레도리자드",
+      "エレザード"
+    ]
+  },
+  "696": {
+    "id": 696,
+    "names": [
+      "宝宝暴龙",
+      "チゴラス",
+      "Tyrunt",
+      "Tyrunt",
+      "Tyrunt",
+      "Balgoras",
+      "Ptyranidur",
+      "寶寶暴龍",
+      "티고라스",
+      "チゴラス"
+    ]
+  },
+  "697": {
+    "id": 697,
+    "names": [
+      "怪颚龙",
+      "ガチゴラス",
+      "Tyrantrum",
+      "Tyrantrum",
+      "Tyrantrum",
+      "Monargoras",
+      "Rexillius",
+      "怪顎龍",
+      "견고라스",
+      "ガチゴラス"
+    ]
+  },
+  "698": {
+    "id": 698,
+    "names": [
+      "冰雪龙",
+      "アマルス",
+      "Amaura",
+      "Amaura",
+      "Amaura",
+      "Amarino",
+      "Amagara",
+      "冰雪龍",
+      "아마루스",
+      "アマルス"
+    ]
+  },
+  "699": {
+    "id": 699,
+    "names": [
+      "冰雪巨龙",
+      "アマルルガ",
+      "Aurorus",
+      "Aurorus",
+      "Aurorus",
+      "Amagarga",
+      "Dragmara",
+      "冰雪巨龍",
+      "아마루르가",
+      "アマルルガ"
+    ]
+  },
+  "700": {
+    "id": 700,
+    "names": [
+      "仙子伊布",
+      "ニンフィア",
+      "Sylveon",
+      "Sylveon",
+      "Sylveon",
+      "Feelinara",
+      "Nymphali",
+      "仙子伊布",
+      "님피아",
+      "ニンフィア"
+    ]
+  },
+  "701": {
+    "id": 701,
+    "names": [
+      "摔角鹰人",
+      "ルチャブル",
+      "Hawlucha",
+      "Hawlucha",
+      "Hawlucha",
+      "Resladero",
+      "Brutalibré",
+      "摔角鷹人",
+      "루차불",
+      "ルチャブル"
+    ]
+  },
+  "702": {
+    "id": 702,
+    "names": [
+      "咚咚鼠",
+      "デデンネ",
+      "Dedenne",
+      "Dedenne",
+      "Dedenne",
+      "Dedenne",
+      "Dedenne",
+      "咚咚鼠",
+      "데덴네",
+      "デデンネ"
+    ]
+  },
+  "703": {
+    "id": 703,
+    "names": [
+      "小碎钻",
+      "メレシー",
+      "Carbink",
+      "Carbink",
+      "Carbink",
+      "Rocara",
+      "Strassie",
+      "小碎鑽",
+      "멜리시",
+      "メレシー"
+    ]
+  },
+  "704": {
+    "id": 704,
+    "names": [
+      "黏黏宝",
+      "ヌメラ",
+      "Goomy",
+      "Goomy",
+      "Goomy",
+      "Viscora",
+      "Mucuscule",
+      "黏黏寶",
+      "미끄메라",
+      "ヌメラ"
+    ]
+  },
+  "705": {
+    "id": 705,
+    "names": [
+      "黏美儿",
+      "ヌメイル",
+      "Sliggoo",
+      "Sliggoo",
+      "Sliggoo",
+      "Viscargot",
+      "Colimucus",
+      "黏美兒",
+      "미끄네일",
+      "ヌメイル"
+    ]
+  },
+  "706": {
+    "id": 706,
+    "names": [
+      "黏美龙",
+      "ヌメルゴン",
+      "Goodra",
+      "Goodra",
+      "Goodra",
+      "Viscogon",
+      "Muplodocus",
+      "黏美龍",
+      "미끄래곤",
+      "ヌメルゴン"
+    ]
+  },
+  "707": {
+    "id": 707,
+    "names": [
+      "钥圈儿",
+      "クレッフィ",
+      "Klefki",
+      "Klefki",
+      "Klefki",
+      "Clavion",
+      "Trousselin",
+      "鑰圈兒",
+      "클레피",
+      "クレッフィ"
+    ]
+  },
+  "708": {
+    "id": 708,
+    "names": [
+      "小木灵",
+      "ボクレー",
+      "Phantump",
+      "Phantump",
+      "Phantump",
+      "Paragoni",
+      "Brocélôme",
+      "小木靈",
+      "나목령",
+      "ボクレー"
+    ]
+  },
+  "709": {
+    "id": 709,
+    "names": [
+      "朽木妖",
+      "オーロット",
+      "Trevenant",
+      "Trevenant",
+      "Trevenant",
+      "Trombork",
+      "Desséliande",
+      "朽木妖",
+      "대로트",
+      "オーロット"
+    ]
+  },
+  "710": {
+    "id": 710,
+    "names": [
+      "南瓜精",
+      "バケッチャ",
+      "Pumpkaboo",
+      "Pumpkaboo",
+      "Pumpkaboo",
+      "Irrbis",
+      "Pitrouille",
+      "南瓜精",
+      "호바귀",
+      "バケッチャ"
+    ]
+  },
+  "711": {
+    "id": 711,
+    "names": [
+      "南瓜怪人",
+      "パンプジン",
+      "Gourgeist",
+      "Gourgeist",
+      "Gourgeist",
+      "Pumpdjinn",
+      "Banshitrouye",
+      "南瓜怪人",
+      "펌킨인",
+      "パンプジン"
+    ]
+  },
+  "712": {
+    "id": 712,
+    "names": [
+      "冰宝",
+      "カチコール",
+      "Bergmite",
+      "Bergmite",
+      "Bergmite",
+      "Arktip",
+      "Grelaçon",
+      "冰寶",
+      "꽁어름",
+      "カチコール"
+    ]
+  },
+  "713": {
+    "id": 713,
+    "names": [
+      "冰岩怪",
+      "クレベース",
+      "Avalugg",
+      "Avalugg",
+      "Avalugg",
+      "Arktilas",
+      "Séracrawl",
+      "冰岩怪",
+      "크레베이스",
+      "クレベース"
+    ]
+  },
+  "714": {
+    "id": 714,
+    "names": [
+      "嗡蝠",
+      "オンバット",
+      "Noibat",
+      "Noibat",
+      "Noibat",
+      "eF-eM",
+      "Sonistrelle",
+      "嗡蝠",
+      "음뱃",
+      "オンバット"
+    ]
+  },
+  "715": {
+    "id": 715,
+    "names": [
+      "音波龙",
+      "オンバーン",
+      "Noivern",
+      "Noivern",
+      "Noivern",
+      "UHaFnir",
+      "Bruyverne",
+      "音波龍",
+      "음번",
+      "オンバーン"
+    ]
+  },
+  "716": {
+    "id": 716,
+    "names": [
+      "哲尔尼亚斯",
+      "ゼルネアス",
+      "Xerneas",
+      "Xerneas",
+      "Xerneas",
+      "Xerneas",
+      "Xerneas",
+      "哲爾尼亞斯",
+      "제르네아스",
+      "ゼルネアス"
+    ]
+  },
+  "717": {
+    "id": 717,
+    "names": [
+      "伊裴尔塔尔",
+      "イベルタル",
+      "Yveltal",
+      "Yveltal",
+      "Yveltal",
+      "Yveltal",
+      "Yveltal",
+      "伊裴爾塔爾",
+      "이벨타르",
+      "イベルタル"
+    ]
+  },
+  "718": {
+    "id": 718,
+    "names": [
+      "基格尔德",
+      "ジガルデ",
+      "Zygarde",
+      "Zygarde",
+      "Zygarde",
+      "Zygarde",
+      "Zygarde",
+      "基格爾德",
+      "지가르데",
+      "ジガルデ"
+    ]
+  },
+  "719": {
+    "id": 719,
+    "names": [
+      "蒂安希",
+      "ディアンシー",
+      "Diancie",
+      "Diancie",
+      "Diancie",
+      "Diancie",
+      "Diancie",
+      "蒂安希",
+      "디안시",
+      "ディアンシー"
+    ]
+  },
+  "720": {
+    "id": 720,
+    "names": [
+      "胡帕",
+      "フーパ",
+      "Hoopa",
+      "Hoopa",
+      "Hoopa",
+      "Hoopa",
+      "Hoopa",
+      "胡帕",
+      "후파",
+      "フーパ"
+    ]
+  },
+  "721": {
+    "id": 721,
+    "names": [
+      "波尔凯尼恩",
+      "ボルケニオン",
+      "Volcanion",
+      "Volcanion",
+      "Volcanion",
+      "Volcanion",
+      "Volcanion",
+      "波爾凱尼恩",
+      "볼케니온",
+      "ボルケニオン"
+    ]
+  },
+  "722": {
+    "id": 722,
+    "names": [
+      "木木枭",
+      "モクロー",
+      "Rowlet",
+      "Rowlet",
+      "Rowlet",
+      "Bauz",
+      "Brindibou",
+      "木木梟",
+      "나몰빼미",
+      "モクロー"
+    ]
+  },
+  "723": {
+    "id": 723,
+    "names": [
+      "投羽枭",
+      "フクスロー",
+      "Dartrix",
+      "Dartrix",
+      "Dartrix",
+      "Arboretoss",
+      "Efflèche",
+      "投羽梟",
+      "빼미스로우",
+      "フクスロー"
+    ]
+  },
+  "724": {
+    "id": 724,
+    "names": [
+      "狙射树枭",
+      "ジュナイパー",
+      "Decidueye",
+      "Decidueye",
+      "Decidueye",
+      "Silvarro",
+      "Archéduc",
+      "狙射樹梟",
+      "모크나이퍼",
+      "ジュナイパー"
+    ]
+  },
+  "725": {
+    "id": 725,
+    "names": [
+      "火斑喵",
+      "ニャビー",
+      "Litten",
+      "Litten",
+      "Litten",
+      "Flamiau",
+      "Flamiaou",
+      "火斑喵",
+      "냐오불",
+      "ニャビー"
+    ]
+  },
+  "726": {
+    "id": 726,
+    "names": [
+      "炎热喵",
+      "ニャヒート",
+      "Torracat",
+      "Torracat",
+      "Torracat",
+      "Miezunder",
+      "Matoufeu",
+      "炎熱喵",
+      "냐오히트",
+      "ニャヒート"
+    ]
+  },
+  "727": {
+    "id": 727,
+    "names": [
+      "炽焰咆哮虎",
+      "ガオガエン",
+      "Incineroar",
+      "Incineroar",
+      "Incineroar",
+      "Fuegro",
+      "Félinferno",
+      "熾焰咆哮虎",
+      "어흥염",
+      "ガオガエン"
+    ]
+  },
+  "728": {
+    "id": 728,
+    "names": [
+      "球球海狮",
+      "アシマリ",
+      "Popplio",
+      "Popplio",
+      "Popplio",
+      "Robball",
+      "Otaquin",
+      "球球海獅",
+      "누리공",
+      "アシマリ"
+    ]
+  },
+  "729": {
+    "id": 729,
+    "names": [
+      "花漾海狮",
+      "オシャマリ",
+      "Brionne",
+      "Brionne",
+      "Brionne",
+      "Marikeck",
+      "Otarlette",
+      "花漾海獅",
+      "키요공",
+      "オシャマリ"
+    ]
+  },
+  "730": {
+    "id": 730,
+    "names": [
+      "西狮海壬",
+      "アシレーヌ",
+      "Primarina",
+      "Primarina",
+      "Primarina",
+      "Primarene",
+      "Oratoria",
+      "西獅海壬",
+      "누리레느",
+      "アシレーヌ"
+    ]
+  },
+  "731": {
+    "id": 731,
+    "names": [
+      "小笃儿",
+      "ツツケラ",
+      "Pikipek",
+      "Pikipek",
+      "Pikipek",
+      "Peppeck",
+      "Picassaut",
+      "小篤兒",
+      "콕코구리",
+      "ツツケラ"
+    ]
+  },
+  "732": {
+    "id": 732,
+    "names": [
+      "喇叭啄鸟",
+      "ケララッパ",
+      "Trumbeak",
+      "Trumbeak",
+      "Trumbeak",
+      "Trompeck",
+      "Piclairon",
+      "喇叭啄鳥",
+      "크라파",
+      "ケララッパ"
+    ]
+  },
+  "733": {
+    "id": 733,
+    "names": [
+      "铳嘴大鸟",
+      "ドデカバシ",
+      "Toucannon",
+      "Toucannon",
+      "Toucannon",
+      "Tukanon",
+      "Bazoucan",
+      "銃嘴大鳥",
+      "왕큰부리",
+      "ドデカバシ"
+    ]
+  },
+  "734": {
+    "id": 734,
+    "names": [
+      "猫鼬少",
+      "ヤングース",
+      "Yungoos",
+      "Yungoos",
+      "Yungoos",
+      "Mangunior",
+      "Manglouton",
+      "貓鼬少",
+      "영구스",
+      "ヤングース"
+    ]
+  },
+  "735": {
+    "id": 735,
+    "names": [
+      "猫鼬探长",
+      "デカグース",
+      "Gumshoos",
+      "Gumshoos",
+      "Gumshoos",
+      "Manguspektor",
+      "Argouste",
+      "貓鼬探長",
+      "형사구스",
+      "デカグース"
+    ]
+  },
+  "736": {
+    "id": 736,
+    "names": [
+      "强颚鸡母虫",
+      "アゴジムシ",
+      "Grubbin",
+      "Grubbin",
+      "Grubbin",
+      "Mabula",
+      "Larvibule",
+      "強顎雞母蟲",
+      "턱지충이",
+      "アゴジムシ"
+    ]
+  },
+  "737": {
+    "id": 737,
+    "names": [
+      "虫电宝",
+      "デンヂムシ",
+      "Charjabug",
+      "Charjabug",
+      "Charjabug",
+      "Akkup",
+      "Chrysapile",
+      "蟲電寶",
+      "전지충이",
+      "デンヂムシ"
+    ]
+  },
+  "738": {
+    "id": 738,
+    "names": [
+      "锹农炮虫",
+      "クワガノン",
+      "Vikavolt",
+      "Vikavolt",
+      "Vikavolt",
+      "Donarion",
+      "Lucanon",
+      "鍬農砲蟲",
+      "투구뿌논",
+      "クワガノン"
+    ]
+  },
+  "739": {
+    "id": 739,
+    "names": [
+      "好胜蟹",
+      "マケンカニ",
+      "Crabrawler",
+      "Crabrawler",
+      "Crabrawler",
+      "Krabbox",
+      "Crabagarre",
+      "好勝蟹",
+      "오기지게",
+      "マケンカニ"
+    ]
+  },
+  "740": {
+    "id": 740,
+    "names": [
+      "好胜毛蟹",
+      "ケケンカニ",
+      "Crabominable",
+      "Crabominable",
+      "Crabominable",
+      "Krawell",
+      "Crabominable",
+      "好勝毛蟹",
+      "모단단게",
+      "ケケンカニ"
+    ]
+  },
+  "741": {
+    "id": 741,
+    "names": [
+      "花舞鸟",
+      "オドリドリ",
+      "Oricorio",
+      "Oricorio",
+      "Oricorio",
+      "Choreogel",
+      "Plumeline",
+      "花舞鳥",
+      "춤추새",
+      "オドリドリ"
+    ]
+  },
+  "742": {
+    "id": 742,
+    "names": [
+      "萌虻",
+      "アブリー",
+      "Cutiefly",
+      "Cutiefly",
+      "Cutiefly",
+      "Wommel",
+      "Bombydou",
+      "萌虻",
+      "에블리",
+      "アブリー"
+    ]
+  },
+  "743": {
+    "id": 743,
+    "names": [
+      "蝶结萌虻",
+      "アブリボン",
+      "Ribombee",
+      "Ribombee",
+      "Ribombee",
+      "Bandelby",
+      "Rubombelle",
+      "蝶結萌虻",
+      "에리본",
+      "アブリボン"
+    ]
+  },
+  "744": {
+    "id": 744,
+    "names": [
+      "岩狗狗",
+      "イワンコ",
+      "Rockruff",
+      "Rockruff",
+      "Rockruff",
+      "Wuffels",
+      "Rocabot",
+      "岩狗狗",
+      "암멍이",
+      "イワンコ"
+    ]
+  },
+  "745": {
+    "id": 745,
+    "names": [
+      "鬃岩狼人",
+      "ルガルガン",
+      "Lycanroc",
+      "Lycanroc",
+      "Lycanroc",
+      "Wolwerock",
+      "Lougaroc",
+      "鬃岩狼人",
+      "루가루암",
+      "ルガルガン"
+    ]
+  },
+  "746": {
+    "id": 746,
+    "names": [
+      "弱丁鱼",
+      "ヨワシ",
+      "Wishiwashi",
+      "Wishiwashi",
+      "Wishiwashi",
+      "Lusardin",
+      "Froussardine",
+      "弱丁魚",
+      "약어리",
+      "ヨワシ"
+    ]
+  },
+  "747": {
+    "id": 747,
+    "names": [
+      "好坏星",
+      "ヒドイデ",
+      "Mareanie",
+      "Mareanie",
+      "Mareanie",
+      "Garstella",
+      "Vorastérie",
+      "好壞星",
+      "시마사리",
+      "ヒドイデ"
+    ]
+  },
+  "748": {
+    "id": 748,
+    "names": [
+      "超坏星",
+      "ドヒドイデ",
+      "Toxapex",
+      "Toxapex",
+      "Toxapex",
+      "Aggrostella",
+      "Prédastérie",
+      "超壞星",
+      "더시마사리",
+      "ドヒドイデ"
+    ]
+  },
+  "749": {
+    "id": 749,
+    "names": [
+      "泥驴仔",
+      "ドロバンコ",
+      "Mudbray",
+      "Mudbray",
+      "Mudbray",
+      "Pampuli",
+      "Tiboudet",
+      "泥驢仔",
+      "머드나기",
+      "ドロバンコ"
+    ]
+  },
+  "750": {
+    "id": 750,
+    "names": [
+      "重泥挽马",
+      "バンバドロ",
+      "Mudsdale",
+      "Mudsdale",
+      "Mudsdale",
+      "Pampross",
+      "Bourrinos",
+      "重泥挽馬",
+      "만마드",
+      "バンバドロ"
+    ]
+  },
+  "751": {
+    "id": 751,
+    "names": [
+      "滴蛛",
+      "シズクモ",
+      "Dewpider",
+      "Dewpider",
+      "Dewpider",
+      "Araqua",
+      "Araqua",
+      "滴蛛",
+      "물거미",
+      "シズクモ"
+    ]
+  },
+  "752": {
+    "id": 752,
+    "names": [
+      "滴蛛霸",
+      "オニシズクモ",
+      "Araquanid",
+      "Araquanid",
+      "Araquanid",
+      "Aranestro",
+      "Tarenbulle",
+      "滴蛛霸",
+      "깨비물거미",
+      "オニシズクモ"
+    ]
+  },
+  "753": {
+    "id": 753,
+    "names": [
+      "伪螳草",
+      "カリキリ",
+      "Fomantis",
+      "Fomantis",
+      "Fomantis",
+      "Imantis",
+      "Mimantis",
+      "偽螳草",
+      "짜랑랑",
+      "カリキリ"
+    ]
+  },
+  "754": {
+    "id": 754,
+    "names": [
+      "兰螳花",
+      "ラランテス",
+      "Lurantis",
+      "Lurantis",
+      "Lurantis",
+      "Mantidea",
+      "Floramantis",
+      "蘭螳花",
+      "라란티스",
+      "ラランテス"
+    ]
+  },
+  "755": {
+    "id": 755,
+    "names": [
+      "睡睡菇",
+      "ネマシュ",
+      "Morelull",
+      "Morelull",
+      "Morelull",
+      "Bubungus",
+      "Spododo",
+      "睡睡菇",
+      "자마슈",
+      "ネマシュ"
+    ]
+  },
+  "756": {
+    "id": 756,
+    "names": [
+      "灯罩夜菇",
+      "マシェード",
+      "Shiinotic",
+      "Shiinotic",
+      "Shiinotic",
+      "Lamellux",
+      "Lampignon",
+      "燈罩夜菇",
+      "마셰이드",
+      "マシェード"
+    ]
+  },
+  "757": {
+    "id": 757,
+    "names": [
+      "夜盗火蜥",
+      "ヤトウモリ",
+      "Salandit",
+      "Salandit",
+      "Salandit",
+      "Molunk",
+      "Tritox",
+      "夜盜火蜥",
+      "야도뇽",
+      "ヤトウモリ"
+    ]
+  },
+  "758": {
+    "id": 758,
+    "names": [
+      "焰后蜥",
+      "エンニュート",
+      "Salazzle",
+      "Salazzle",
+      "Salazzle",
+      "Amfira",
+      "Malamandre",
+      "焰后蜥",
+      "염뉴트",
+      "エンニュート"
+    ]
+  },
+  "759": {
+    "id": 759,
+    "names": [
+      "童偶熊",
+      "ヌイコグマ",
+      "Stufful",
+      "Stufful",
+      "Stufful",
+      "Velursi",
+      "Nounourson",
+      "童偶熊",
+      "포곰곰",
+      "ヌイコグマ"
+    ]
+  },
+  "760": {
+    "id": 760,
+    "names": [
+      "穿着熊",
+      "キテルグマ",
+      "Bewear",
+      "Bewear",
+      "Bewear",
+      "Kosturso",
+      "Chelours",
+      "穿著熊",
+      "이븐곰",
+      "キテルグマ"
+    ]
+  },
+  "761": {
+    "id": 761,
+    "names": [
+      "甜竹竹",
+      "アマカジ",
+      "Bounsweet",
+      "Bounsweet",
+      "Bounsweet",
+      "Frubberl",
+      "Croquine",
+      "甜竹竹",
+      "달콤아",
+      "アマカジ"
+    ]
+  },
+  "762": {
+    "id": 762,
+    "names": [
+      "甜舞妮",
+      "アママイコ",
+      "Steenee",
+      "Steenee",
+      "Steenee",
+      "Frubaila",
+      "Candine",
+      "甜舞妮",
+      "달무리나",
+      "アママイコ"
+    ]
+  },
+  "763": {
+    "id": 763,
+    "names": [
+      "甜冷美后",
+      "アマージョ",
+      "Tsareena",
+      "Tsareena",
+      "Tsareena",
+      "Fruyal",
+      "Sucreine",
+      "甜冷美后",
+      "달코퀸",
+      "アマージョ"
+    ]
+  },
+  "764": {
+    "id": 764,
+    "names": [
+      "花疗环环",
+      "キュワワー",
+      "Comfey",
+      "Comfey",
+      "Comfey",
+      "Curelei",
+      "Guérilande",
+      "花療環環",
+      "큐아링",
+      "キュワワー"
+    ]
+  },
+  "765": {
+    "id": 765,
+    "names": [
+      "智挥猩",
+      "ヤレユータン",
+      "Oranguru",
+      "Oranguru",
+      "Oranguru",
+      "Kommandutan",
+      "Gouroutan",
+      "智揮猩",
+      "하랑우탄",
+      "ヤレユータン"
+    ]
+  },
+  "766": {
+    "id": 766,
+    "names": [
+      "投掷猴",
+      "ナゲツケサル",
+      "Passimian",
+      "Passimian",
+      "Passimian",
+      "Quartermak",
+      "Quartermac",
+      "投擲猴",
+      "내던숭이",
+      "ナゲツケサル"
+    ]
+  },
+  "767": {
+    "id": 767,
+    "names": [
+      "胆小虫",
+      "コソクムシ",
+      "Wimpod",
+      "Wimpod",
+      "Wimpod",
+      "Reißlaus",
+      "Sovkipou",
+      "膽小蟲",
+      "꼬시레",
+      "コソクムシ"
+    ]
+  },
+  "768": {
+    "id": 768,
+    "names": [
+      "具甲武者",
+      "グソクムシャ",
+      "Golisopod",
+      "Golisopod",
+      "Golisopod",
+      "Tectass",
+      "Sarmuraï",
+      "具甲武者",
+      "갑주무사",
+      "グソクムシャ"
+    ]
+  },
+  "769": {
+    "id": 769,
+    "names": [
+      "沙丘娃",
+      "スナバァ",
+      "Sandygast",
+      "Sandygast",
+      "Sandygast",
+      "Sankabuh",
+      "Bacabouh",
+      "沙丘娃",
+      "모래꿍",
+      "スナバァ"
+    ]
+  },
+  "770": {
+    "id": 770,
+    "names": [
+      "噬沙堡爷",
+      "シロデスナ",
+      "Palossand",
+      "Palossand",
+      "Palossand",
+      "Colossand",
+      "Trépassable",
+      "噬沙堡爺",
+      "모래성이당",
+      "シロデスナ"
+    ]
+  },
+  "771": {
+    "id": 771,
+    "names": [
+      "拳海参",
+      "ナマコブシ",
+      "Pyukumuku",
+      "Pyukumuku",
+      "Pyukumuku",
+      "Gufa",
+      "Concombaffe",
+      "拳海參",
+      "해무기",
+      "ナマコブシ"
+    ]
+  },
+  "772": {
+    "id": 772,
+    "names": [
+      "属性：空",
+      "タイプ：ヌル",
+      "Type: Null",
+      "Tipo Zero",
+      "Código Cero",
+      "Typ:Null",
+      "Type:0",
+      "屬性：空",
+      "타입:널",
+      "タイプ：ヌル"
+    ]
+  },
+  "773": {
+    "id": 773,
+    "names": [
+      "银伴战兽",
+      "シルヴァディ",
+      "Silvally",
+      "Silvally",
+      "Silvally",
+      "Amigento",
+      "Silvallié",
+      "銀伴戰獸",
+      "실버디",
+      "シルヴァディ"
+    ]
+  },
+  "774": {
+    "id": 774,
+    "names": [
+      "小陨星",
+      "メテノ",
+      "Minior",
+      "Minior",
+      "Minior",
+      "Meteno",
+      "Météno",
+      "小隕星",
+      "메테노",
+      "メテノ"
+    ]
+  },
+  "775": {
+    "id": 775,
+    "names": [
+      "树枕尾熊",
+      "ネッコアラ",
+      "Komala",
+      "Komala",
+      "Komala",
+      "Koalelu",
+      "Dodoala",
+      "樹枕尾熊",
+      "자말라",
+      "ネッコアラ"
+    ]
+  },
+  "776": {
+    "id": 776,
+    "names": [
+      "爆焰龟兽",
+      "バクガメス",
+      "Turtonator",
+      "Turtonator",
+      "Turtonator",
+      "Tortunator",
+      "Boumata",
+      "爆焰龜獸",
+      "폭거북스",
+      "バクガメス"
+    ]
+  },
+  "777": {
+    "id": 777,
+    "names": [
+      "托戈德玛尔",
+      "トゲデマル",
+      "Togedemaru",
+      "Togedemaru",
+      "Togedemaru",
+      "Togedemaru",
+      "Togedemaru",
+      "托戈德瑪爾",
+      "토게데마루",
+      "トゲデマル"
+    ]
+  },
+  "778": {
+    "id": 778,
+    "names": [
+      "谜拟Ｑ",
+      "ミミッキュ",
+      "Mimikyu",
+      "Mimikyu",
+      "Mimikyu",
+      "Mimigma",
+      "Mimiqui",
+      "謎擬Ｑ",
+      "따라큐",
+      "ミミッキュ"
+    ]
+  },
+  "779": {
+    "id": 779,
+    "names": [
+      "磨牙彩皮鱼",
+      "ハギギシリ",
+      "Bruxish",
+      "Bruxish",
+      "Bruxish",
+      "Knirfish",
+      "Denticrisse",
+      "磨牙彩皮魚",
+      "치갈기",
+      "ハギギシリ"
+    ]
+  },
+  "780": {
+    "id": 780,
+    "names": [
+      "老翁龙",
+      "ジジーロン",
+      "Drampa",
+      "Drampa",
+      "Drampa",
+      "Sen-Long",
+      "Draïeul",
+      "老翁龍",
+      "할비롱",
+      "ジジーロン"
+    ]
+  },
+  "781": {
+    "id": 781,
+    "names": [
+      "破破舵轮",
+      "ダダリン",
+      "Dhelmise",
+      "Dhelmise",
+      "Dhelmise",
+      "Moruda",
+      "Sinistrail",
+      "破破舵輪",
+      "타타륜",
+      "ダダリン"
+    ]
+  },
+  "782": {
+    "id": 782,
+    "names": [
+      "心鳞宝",
+      "ジャラコ",
+      "Jangmo-o",
+      "Jangmo-o",
+      "Jangmo-o",
+      "Miniras",
+      "Bébécaille",
+      "心鱗寶",
+      "짜랑꼬",
+      "ジャラコ"
+    ]
+  },
+  "783": {
+    "id": 783,
+    "names": [
+      "鳞甲龙",
+      "ジャランゴ",
+      "Hakamo-o",
+      "Hakamo-o",
+      "Hakamo-o",
+      "Mediras",
+      "Écaïd",
+      "鱗甲龍",
+      "짜랑고우",
+      "ジャランゴ"
+    ]
+  },
+  "784": {
+    "id": 784,
+    "names": [
+      "杖尾鳞甲龙",
+      "ジャラランガ",
+      "Kommo-o",
+      "Kommo-o",
+      "Kommo-o",
+      "Grandiras",
+      "Ékaïser",
+      "杖尾鱗甲龍",
+      "짜랑고우거",
+      "ジャラランガ"
+    ]
+  },
+  "785": {
+    "id": 785,
+    "names": [
+      "卡璞・鸣鸣",
+      "カプ・コケコ",
+      "Tapu Koko",
+      "Tapu Koko",
+      "Tapu Koko",
+      "Kapu-Riki",
+      "Tokorico",
+      "卡璞・鳴鳴",
+      "카푸꼬꼬꼭",
+      "カプ・コケコ"
+    ]
+  },
+  "786": {
+    "id": 786,
+    "names": [
+      "卡璞・蝶蝶",
+      "カプ・テテフ",
+      "Tapu Lele",
+      "Tapu Lele",
+      "Tapu Lele",
+      "Kapu-Fala",
+      "Tokopiyon",
+      "卡璞・蝶蝶",
+      "카푸나비나",
+      "カプ・テテフ"
+    ]
+  },
+  "787": {
+    "id": 787,
+    "names": [
+      "卡璞・哞哞",
+      "カプ・ブルル",
+      "Tapu Bulu",
+      "Tapu Bulu",
+      "Tapu Bulu",
+      "Kapu-Toro",
+      "Tokotoro",
+      "卡璞・哞哞",
+      "카푸브루루",
+      "カプ・ブルル"
+    ]
+  },
+  "788": {
+    "id": 788,
+    "names": [
+      "卡璞・鳍鳍",
+      "カプ・レヒレ",
+      "Tapu Fini",
+      "Tapu Fini",
+      "Tapu Fini",
+      "Kapu-Kime",
+      "Tokopisco",
+      "卡璞・鰭鰭",
+      "카푸느지느",
+      "カプ・レヒレ"
+    ]
+  },
+  "789": {
+    "id": 789,
+    "names": [
+      "科斯莫古",
+      "コスモッグ",
+      "Cosmog",
+      "Cosmog",
+      "Cosmog",
+      "Cosmog",
+      "Cosmog",
+      "科斯莫古",
+      "코스모그",
+      "コスモッグ"
+    ]
+  },
+  "790": {
+    "id": 790,
+    "names": [
+      "科斯莫姆",
+      "コスモウム",
+      "Cosmoem",
+      "Cosmoem",
+      "Cosmoem",
+      "Cosmovum",
+      "Cosmovum",
+      "科斯莫姆",
+      "코스모움",
+      "コスモウム"
+    ]
+  },
+  "791": {
+    "id": 791,
+    "names": [
+      "索尔迦雷欧",
+      "ソルガレオ",
+      "Solgaleo",
+      "Solgaleo",
+      "Solgaleo",
+      "Solgaleo",
+      "Solgaleo",
+      "索爾迦雷歐",
+      "솔가레오",
+      "ソルガレオ"
+    ]
+  },
+  "792": {
+    "id": 792,
+    "names": [
+      "露奈雅拉",
+      "ルナアーラ",
+      "Lunala",
+      "Lunala",
+      "Lunala",
+      "Lunala",
+      "Lunala",
+      "露奈雅拉",
+      "루나아라",
+      "ルナアーラ"
+    ]
+  },
+  "793": {
+    "id": 793,
+    "names": [
+      "虛吾伊德",
+      "ウツロイド",
+      "Nihilego",
+      "Nihilego",
+      "Nihilego",
+      "Anego",
+      "Zéroïd",
+      "虛吾伊德",
+      "텅비드",
+      "ウツロイド"
+    ]
+  },
+  "794": {
+    "id": 794,
+    "names": [
+      "爆肌蚊",
+      "マッシブーン",
+      "Buzzwole",
+      "Buzzwole",
+      "Buzzwole",
+      "Masskito",
+      "Mouscoto",
+      "爆肌蚊",
+      "매시붕",
+      "マッシブーン"
+    ]
+  },
+  "795": {
+    "id": 795,
+    "names": [
+      "费洛美螂",
+      "フェローチェ",
+      "Pheromosa",
+      "Pheromosa",
+      "Pheromosa",
+      "Schabelle",
+      "Cancrelove",
+      "費洛美螂",
+      "페로코체",
+      "フェローチェ"
+    ]
+  },
+  "796": {
+    "id": 796,
+    "names": [
+      "电束木",
+      "デンジュモク",
+      "Xurkitree",
+      "Xurkitree",
+      "Xurkitree",
+      "Voltriant",
+      "Câblifère",
+      "電束木",
+      "전수목",
+      "デンジュモク"
+    ]
+  },
+  "797": {
+    "id": 797,
+    "names": [
+      "铁火辉夜",
+      "テッカグヤ",
+      "Celesteela",
+      "Celesteela",
+      "Celesteela",
+      "Kaguron",
+      "Bamboiselle",
+      "鐵火輝夜",
+      "철화구야",
+      "テッカグヤ"
+    ]
+  },
+  "798": {
+    "id": 798,
+    "names": [
+      "纸御剑",
+      "カミツルギ",
+      "Kartana",
+      "Kartana",
+      "Kartana",
+      "Katagami",
+      "Katagami",
+      "紙御劍",
+      "종이신도",
+      "カミツルギ"
+    ]
+  },
+  "799": {
+    "id": 799,
+    "names": [
+      "恶食大王",
+      "アクジキング",
+      "Guzzlord",
+      "Guzzlord",
+      "Guzzlord",
+      "Schlingking",
+      "Engloutyran",
+      "惡食大王",
+      "악식킹",
+      "アクジキング"
+    ]
+  },
+  "800": {
+    "id": 800,
+    "names": [
+      "奈克洛兹玛",
+      "ネクロズマ",
+      "Necrozma",
+      "Necrozma",
+      "Necrozma",
+      "Necrozma",
+      "Necrozma",
+      "奈克洛茲瑪",
+      "네크로즈마",
+      "ネクロズマ"
+    ]
+  },
+  "801": {
+    "id": 801,
+    "names": [
+      "玛机雅娜",
+      "マギアナ",
+      "Magearna",
+      "Magearna",
+      "Magearna",
+      "Magearna",
+      "Magearna",
+      "瑪機雅娜",
+      "마기아나",
+      "マギアナ"
+    ]
+  }
+}
