@@ -87,7 +87,7 @@ const SearchInput = styled(Input)`
   background: none;
   border: none;
   padding: 12px 16px;
-  background: rgba(0, 0, 0, .15);
+  background: rgba(0, 0, 0, .65);
   color: #fff;
   border-radius: 4px;
   font-size: 1.5rem;

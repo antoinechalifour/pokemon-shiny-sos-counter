@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 import { Route, withRouter } from 'react-router-dom'
+import { shadeColor } from 'util/colors'
 import SearchPokemon from 'components/SearchPokemon'
 import Sos from 'components/Sos'
 
@@ -28,21 +29,22 @@ class App extends Component {
 
   updateTheme = type => {
     const colorMap = {
-      water: '#E3F2FD',
-      psychic: '#FCE4EC',
-      poison: '#F3E5F5',
-      ground: '#EFEBE9',
+      water: '#0D47A1',
+      psychic: '#880E4F',
+      poison: '#4A148C',
+      ground: '#3E2723',
       flying: '#FAFAFA',
-      fire: '#FFEBEE',
-      dragon: '#E8EAF6',
-      ice: '#03A9F4',
+      fire: '#B71C1C',
+      dragon: '#1A237E',
+      ice: '#01579B',
       dark: '#212121',
-      fairy: '#FCE4EC',
-      bug: '#F9FBE7'
+      fairy: '#AD1457',
+      bug: '#827717',
+      fighting: '#BF360C'
     }
 
     if (colorMap[type.name]) {
-      this.setState({ color: colorMap[type.name] })
+      this.setState({ color: shadeColor(colorMap[type.name], -0.65) })
     } else {
       console.warn('No theme for type', type)
     }
