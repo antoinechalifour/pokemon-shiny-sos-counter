@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
+import { Route, withRouter } from 'react-router-dom'
 import SearchPokemon from 'components/SearchPokemon'
+import Sos from 'components/Sos'
 
 const Wrapper = styled.div`
   font-family: 'Lato', sans-serif;
@@ -15,21 +17,21 @@ const Wrapper = styled.div`
 `
 
 class App extends Component {
-  state = {
-    pokemon: null
-  }
-
-  onPokemon = pokemon => {
-    this.setState({ pokemon })
+  onPokemon = pokemonId => {
+    this.props.history.push(`/pokemon/${pokemonId}`)
   }
 
   render () {
     return (
       <Wrapper>
         <SearchPokemon onPokemon={this.onPokemon} />
+        <Route
+          path='/pokemon/:id'
+          render={({ match }) => <Sos pokemonId={Number(match.params.id)} />}
+        />
       </Wrapper>
     )
   }
 }
 
-export default App
+export default withRouter(App)

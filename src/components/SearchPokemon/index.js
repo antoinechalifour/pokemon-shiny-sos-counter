@@ -24,7 +24,7 @@ class SearchPokemon extends Component {
   }
 
   onSelect = pokemon => {
-    this.props.onPokemon(pokemon)
+    this.props.onPokemon(pokemon.id)
     this.setState({ suggestions: [] })
   }
 
@@ -79,6 +79,7 @@ const Wrapper = styled.div`
   position: relative;
   width: 550px;
   margin: auto;
+  padding: 12px;
 `
 
 const SearchInput = styled(Input)`
