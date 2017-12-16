@@ -110,6 +110,7 @@ const SuggestionsList = styled.ul`
 
 const Suggestion = styled.li`
   padding: 8px;
+  cursor: pointer;
 
   & + & {
     border-top: 1px solid rgba(0, 0, 0, .15);
