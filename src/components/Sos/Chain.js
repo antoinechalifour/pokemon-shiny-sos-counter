@@ -18,11 +18,15 @@ class Chain extends Component {
   state = {
     chain: this.fetchChainFromLocalStorage(),
     level: null,
-    hasShinyCharm: false
+    hasShinyCharm: this.fetchShinyCharmFromLocalStorage()
   }
 
   get chainKey () {
     return `encounters:${this.props.id}`
+  }
+
+  get shinyCharmKey () {
+    return 'shiny-charm'
   }
 
   fetchChainFromLocalStorage () {
@@ -31,8 +35,21 @@ class Chain extends Component {
     return chain ? Number(chain) : 0
   }
 
+  fetchShinyCharmFromLocalStorage () {
+    const charm = window.localStorage.getItem(this.shinyCharmKey)
+
+    return charm && charm !== 'false'
+  }
+
   onShinyCharmChange = () =>
-    this.setState(ls => ({ hasShinyCharm: !ls.hasShinyCharm }))
+    this.setState(
+      ls => ({ hasShinyCharm: !ls.hasShinyCharm }),
+      () =>
+        window.localStorage.setItem(
+          this.shinyCharmKey,
+          this.state.hasShinyCharm
+        )
+    )
 
   updateChain (getNextValue) {
     this.setState(getNextValue, () => {
