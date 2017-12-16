@@ -188,9 +188,9 @@ const CounterActions = styled.div`
 
   button {
     padding: 4px 32px;
-    background: rgba(0, 0, 0, .25);
+    background: rgba(0, 0, 0, .7);
     border: none;
-    border-bottom: 3px solid rgba(0, 0, 0, .5);
+    border-bottom: 3px solid rgba(0, 0, 0, .9);
     border-radius: 4px;
     font-size: 3rem;
     font-family: monospace;
