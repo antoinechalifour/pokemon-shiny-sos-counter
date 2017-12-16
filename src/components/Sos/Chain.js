@@ -16,14 +16,9 @@ class Chain extends Component {
     level: null
   }
 
-  componentDidMount () {
-    // this.props.moves.forEach(({ move, version_group_details }) => {
-    //   console.log('------------')
-    //   console.log(move.name)
-    //   const versions = version_group_details.map(x => x.version_group.name)
-    //   console.log(versions.join('\n\t -'))
-    // })
-  }
+  onIncrement = () => this.setState(ls => ({ chain: ls.chain + 1 }))
+
+  onDecrement = () => this.setState(ls => ({ chain: ls.chain - 1 }))
 
   onLevelChange = e => {
     this.setState({ level: Number(e.target.value) })
@@ -34,9 +29,25 @@ class Chain extends Component {
       <Wrapper>
         <Sprite src={this.props.sprites.front_shiny} />
         <Card>
-          <div>Probabilities & options here</div>
-          <div>Chain info here</div>
           <div>
+            <Options>
+              <SubTitle>Options</SubTitle>
+            </Options>
+
+            <Probabilities>
+              <SubTitle>Probabilities</SubTitle>
+            </Probabilities>
+          </div>
+          <div>
+            <SubTitle>Sos Chain</SubTitle>
+            <Counter>{this.state.chain}</Counter>
+            <CounterAction>
+              <button onClick={this.onDecrement}>-</button>
+              <button onClick={this.onIncrement}>+</button>
+            </CounterAction>
+          </div>
+          <div>
+            <SubTitle>Possible moves</SubTitle>
             <LevelInput
               type='number'
               placeholder='Pokemon level'
@@ -85,11 +96,53 @@ const Card = styled.div`
   }
 `
 
+const SubTitle = styled.div`
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid rgba(255, 255, 255, .15);
+`
+
+const Counter = styled.div`
+  flex: 1;
+  font-size: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`
+
+const Options = styled.div`
+  flex: 1;
+`
+
+const Probabilities = styled.div`
+  flex: 1;
+`
+
+const CounterAction = styled.div`
+  display: flex;
+  justify-content: space-around;
+  padding: 24px 0;
+
+  button {
+    padding: 4px 32px;
+    background: rgba(0, 0, 0, .25);
+    border: none;
+    border-bottom: 3px solid rgba(0, 0, 0, .5);
+    border-radius: 4px;
+    font-size: 3rem;
+    font-family: monospace;
+    color: #fff;
+    outline: none;
+  }
+`
+
 const LevelInput = styled(Input)`
   background: rgba(0, 0, 0, .15);
   border: none;
   outline: none;
-  margin-bottom: 16px;
+  margin: 8px auto;
   color: #fff;
   padding: 8px 12px;
 
