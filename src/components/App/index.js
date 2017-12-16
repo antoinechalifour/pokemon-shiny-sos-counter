@@ -34,6 +34,7 @@ class App extends Component {
       poison: '#4A148C',
       ground: '#3E2723',
       flying: '#FAFAFA',
+      normal: '#FAFAFA',
       fire: '#B71C1C',
       dragon: '#1A237E',
       ice: '#01579B',
