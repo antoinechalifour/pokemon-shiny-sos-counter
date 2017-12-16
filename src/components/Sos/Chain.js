@@ -33,7 +33,6 @@ class Chain extends Component {
   render () {
     return (
       <Wrapper>
-        <Sprite src={this.props.sprites.front_shiny} />
         <Card>
           <div>
             <OptionsSection>
@@ -59,6 +58,7 @@ class Chain extends Component {
           </div>
           <div>
             <SubTitle>Sos Chain</SubTitle>
+            <Sprite src={this.props.sprites.front_shiny} />
             <Counter>{this.state.chain}</Counter>
             <CounterActions>
               <button onClick={this.onDecrement}>-</button>
@@ -83,6 +83,7 @@ class Chain extends Component {
 const Wrapper = styled.div`
   flex: 1;
   display: flex;
+  max-height: 500px;
   flex-direction: column;
   width: 95%;
   max-width: 860px;
@@ -93,7 +94,8 @@ const Wrapper = styled.div`
 
 const Sprite = styled.img`
   display: block;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   width: 150px;
 `
 
