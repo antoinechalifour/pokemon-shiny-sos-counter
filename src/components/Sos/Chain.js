@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import Input from 'components/ui/Input'
 import Checkbox from 'components/ui/Checkbox'
 import Moves from './Moves'
+import Probabilities from './Probabilities'
 
 class Chain extends Component {
   static propTypes = {
@@ -13,7 +14,7 @@ class Chain extends Component {
   }
 
   state = {
-    chain: 0,
+    chain: 68,
     level: null,
     hasShinyCharm: false
   }
@@ -35,7 +36,7 @@ class Chain extends Component {
         <Sprite src={this.props.sprites.front_shiny} />
         <Card>
           <div>
-            <Options>
+            <OptionsSection>
               <SubTitle>Options</SubTitle>
               <label htmlFor='has-shiny-charm'>
                 <Checkbox
@@ -46,19 +47,23 @@ class Chain extends Component {
                 />
                 &nbsp;&nbsp;Shiny Charm
               </label>
-            </Options>
+            </OptionsSection>
 
-            <Probabilities>
+            <ProbabilitiesSection>
               <SubTitle>Probabilities</SubTitle>
-            </Probabilities>
+              <Probabilities
+                chain={this.state.chain}
+                hasShinyCharm={this.state.hasShinyCharm}
+              />
+            </ProbabilitiesSection>
           </div>
           <div>
             <SubTitle>Sos Chain</SubTitle>
             <Counter>{this.state.chain}</Counter>
-            <CounterAction>
+            <CounterActions>
               <button onClick={this.onDecrement}>-</button>
               <button onClick={this.onIncrement}>+</button>
-            </CounterAction>
+            </CounterActions>
           </div>
           <div>
             <SubTitle>Possible moves</SubTitle>
@@ -126,15 +131,15 @@ const Counter = styled.div`
   justify-content: center;
 `
 
-const Options = styled.div`
+const OptionsSection = styled.div`
   flex: 1;
 `
 
-const Probabilities = styled.div`
+const ProbabilitiesSection = styled.div`
   flex: 1;
 `
 
-const CounterAction = styled.div`
+const CounterActions = styled.div`
   display: flex;
   justify-content: space-around;
   padding: 24px 0;
