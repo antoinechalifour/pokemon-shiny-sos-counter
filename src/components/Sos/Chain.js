@@ -8,23 +8,40 @@ import Probabilities from './Probabilities'
 
 class Chain extends Component {
   static propTypes = {
+    id: PropTypes.number.isRequired,
     sprites: PropTypes.shape({
       front_shiny: PropTypes.string.isRequired
     }).isRequired
   }
 
   state = {
-    chain: 68,
+    chain: this.fetchChainFromLocalStorage(),
     level: null,
     hasShinyCharm: false
+  }
+
+  get chainKey () {
+    return `encounters:${this.props.id}`
+  }
+
+  fetchChainFromLocalStorage () {
+    const chain = window.localStorage.getItem(this.chainKey)
+
+    return chain ? Number(chain) : 0
   }
 
   onShinyCharmChange = () =>
     this.setState(ls => ({ hasShinyCharm: !ls.hasShinyCharm }))
 
-  onIncrement = () => this.setState(ls => ({ chain: ls.chain + 1 }))
+  updateChain (getNextValue) {
+    this.setState(getNextValue, () => {
+      window.localStorage.setItem(this.chainKey, this.state.chain)
+    })
+  }
 
-  onDecrement = () => this.setState(ls => ({ chain: ls.chain - 1 }))
+  onIncrement = () => this.updateChain(ls => ({ chain: ls.chain + 1 }))
+
+  onDecrement = () => this.updateChain(ls => ({ chain: ls.chain - 1 }))
 
   onLevelChange = e => {
     this.setState({ level: Number(e.target.value) })
