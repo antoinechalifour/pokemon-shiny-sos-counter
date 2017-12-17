@@ -27,6 +27,14 @@ class SearchPokemon extends Component {
     suggestions: []
   }
 
+  componentDidMount () {
+    window.addEventListener('keyup', this.onKeyUp)
+  }
+
+  componentWillUnmount () {
+    window.removeEventListener('keyup', this.onKeyUp)
+  }
+
   onSelect = pokemon => {
     this.props.onPokemon(pokemon.id)
     const englishName = pokemon.names[2]
@@ -52,8 +60,12 @@ class SearchPokemon extends Component {
     this.setState(nextState)
   }
 
-  onSubmit = e => {
-    e.preventDefault()
+  onKeyUp = e => {
+    if (e.keyCode === 27) {
+      this.setState({
+        suggestions: []
+      })
+    }
   }
 
   render () {
