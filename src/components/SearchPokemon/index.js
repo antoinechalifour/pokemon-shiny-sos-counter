@@ -29,7 +29,12 @@ class SearchPokemon extends Component {
 
   onSelect = pokemon => {
     this.props.onPokemon(pokemon.id)
-    this.setState({ suggestions: [] })
+    const englishName = pokemon.names[2]
+
+    this.setState({
+      search: `#${pokemon.id} - ${englishName}`,
+      suggestions: []
+    })
   }
 
   onChange = e => {
