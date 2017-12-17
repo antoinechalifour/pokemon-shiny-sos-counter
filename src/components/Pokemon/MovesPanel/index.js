@@ -28,7 +28,7 @@ class MovesPanel extends Component {
   }
 
   state = {
-    level: null
+    level: 100
   }
 
   get moves () {

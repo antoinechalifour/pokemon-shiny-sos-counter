@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 import { Route, withRouter } from 'react-router-dom'
-import { shadeColor } from 'util/colors'
 import SearchPokemon from 'components/SearchPokemon'
 import FetchPokemon from 'components/Pokemon/Fetch'
 import Pokemon from 'components/Pokemon'
