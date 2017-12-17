@@ -1,6 +1,11 @@
 import React from 'react'
 import styled, { keyframes } from 'styled-components'
 
+/*
+Most of the content of this file is a styled component port
+of this article: http://tobiasahlin.com/spinkit/
+*/
+
 const FoldingCubeLoader = () => (
   <FoldingCube>
     <Cube1 />
@@ -45,7 +50,7 @@ const Cube1 = styled.div`
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #fff;
+    background-color: #373d3f;
     animation: ${foldCubeAngle} 2.4s infinite linear both;
     transform-origin: 100% 100%;
   }

@@ -53,7 +53,7 @@ class SearchPokemon extends Component {
         <SearchInput
           value={this.state.search}
           onChange={this.onChange}
-          placeholder='Pokemon name or #...'
+          placeholder='Pokemon name or number...'
         />
         {this.state.suggestions.length > 0 &&
           <SuggestionsList>
@@ -87,7 +87,7 @@ const SearchInput = styled(Input)`
   background: none;
   border: none;
   padding: 12px 16px;
-  background: rgba(0, 0, 0, .65);
+  background: rgba(0, 0, 0, .85);
   color: #fff;
   border-radius: 4px;
   font-size: 1.5rem;

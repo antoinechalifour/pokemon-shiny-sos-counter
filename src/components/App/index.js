@@ -15,8 +15,8 @@ const Wrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   height: 100vh;
-  background: ${({ color }) => color || '#3F51B5'};
-  color: #fff;
+  background: ${({ color }) => color || '#f7f7f9'};
+  color: #373d3f;
   transition: background .3s ease-in;
 `
 
