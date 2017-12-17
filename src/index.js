@@ -7,10 +7,11 @@ import App from 'components/App'
 import StateProvider from 'components/State'
 import State from 'state'
 import persistState from 'state/persist'
+import logStateChanges from 'state/log'
 import registerServiceWorker from './registerServiceWorker'
 
 const defaultState = {
-  theme: '#3F51B5',
+  theme: 'normal',
   hasShinyCharm: false,
   chains: {}
 }
@@ -37,6 +38,7 @@ const state = State(initialState, {
 })
 
 persistState(state)
+logStateChanges(state)
 
 ReactDOM.render(
   <BrowserRouter>

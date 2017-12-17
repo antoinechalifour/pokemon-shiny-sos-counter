@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import matchSorter from 'match-sorter'
 import pokemons from 'data/pokedex.json'
+import connect from 'components/State/connect'
 import Input from 'components/ui/Input'
 
 const pokedex = Object.keys(pokemons).map(id => pokemons[id])
@@ -13,9 +14,12 @@ const formatPokemon = pokemon => {
   return `#${id} - ${englishName}`
 }
 
+const mapStateToProps = state => ({ theme: state.theme })
+
 class SearchPokemon extends Component {
   static propTypes = {
-    onPokemon: PropTypes.func.isRequired
+    onPokemon: PropTypes.func.isRequired,
+    theme: PropTypes.string.isRequired
   }
 
   state = {
@@ -49,37 +53,69 @@ class SearchPokemon extends Component {
 
   render () {
     return (
-      <Wrapper>
-        <SearchInput
-          value={this.state.search}
-          onChange={this.onChange}
-          placeholder='Pokemon name or number...'
-        />
-        {this.state.suggestions.length > 0 &&
-          <SuggestionsList>
-            {this.state.suggestions.map(pokemon => {
-              const { id } = pokemon
-              const names = [...pokemon.names]
-              names.splice(2, 1)
+      <Wrapper theme={this.props.theme}>
+        <Inner>
+          <SearchInput
+            value={this.state.search}
+            onChange={this.onChange}
+            placeholder='Pokemon name or number...'
+          />
+          {this.state.suggestions.length > 0 &&
+            <SuggestionsList>
+              {this.state.suggestions.map(pokemon => {
+                const { id } = pokemon
+                const names = [...pokemon.names]
+                names.splice(2, 1)
 
-              return (
-                <Suggestion key={id} onClick={() => this.onSelect(pokemon)}>
-                  <span>{formatPokemon(pokemon)}</span>
-                  <span>{names.join(' • ')}</span>
-                </Suggestion>
-              )
-            })}
-          </SuggestionsList>}
+                return (
+                  <Suggestion key={id} onClick={() => this.onSelect(pokemon)}>
+                    <span>{formatPokemon(pokemon)}</span>
+                    <span>{names.join(' • ')}</span>
+                  </Suggestion>
+                )
+              })}
+            </SuggestionsList>}
+        </Inner>
       </Wrapper>
     )
   }
 }
 
+const colorMap = {
+  water: '#BBDEFB',
+  psychic: '#F8BBD0',
+  poison: '#E1BEE7',
+  ground: '#FFE0B2',
+  flying: '#F5F5F5',
+  normal: '#F5F5F5',
+  fire: '#FFCCBC',
+  dragon: '#C5CAE9',
+  ice: '#B3E5FC',
+  dark: '#CFD8DC',
+  steel: '#CFD8DC',
+  fairy: '#F8BBD0',
+  bug: '#F0F4C3',
+  fighting: '#FFECB3'
+}
+
 const Wrapper = styled.div`
+  padding: 12px;
+  transition: background .3s ease-in;
+
+  ${({ theme }) => {
+    const background = colorMap[theme] || 'transparent'
+
+    return `
+      background: ${background};
+      box-shadow: 0 1px 3px rgba(0, 0, 0, .24);
+    `
+  }}
+`
+
+const Inner = styled.div`
   position: relative;
   width: 550px;
   margin: auto;
-  padding: 12px;
 `
 
 const SearchInput = styled(Input)`
@@ -126,4 +162,4 @@ const Suggestion = styled.li`
   }
 `
 
-export default SearchPokemon
+export default connect(mapStateToProps)(SearchPokemon)

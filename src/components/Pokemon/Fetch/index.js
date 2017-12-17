@@ -1,11 +1,17 @@
 import { Component } from 'react'
 import PropTypes from 'prop-types'
 import axios from 'axios'
+import connect from 'components/State/connect'
+
+const mapStateToProps = (state, props, applyUpdate) => ({
+  updateTheme: theme => applyUpdate(() => ({ theme }))()
+})
 
 class FetchPokemon extends Component {
   static propTypes = {
     pokemonId: PropTypes.number.isRequired,
-    render: PropTypes.func.isRequired
+    render: PropTypes.func.isRequired,
+    updateTheme: PropTypes.func.isRequired
   }
 
   state = {
@@ -27,8 +33,7 @@ class FetchPokemon extends Component {
     }
 
     this.setState({ pokemon })
-
-    // this.props.updateTheme(pokemon.types[0].type)
+    this.props.updateTheme(pokemon.types[0].type.name)
   }
 
   fetchPokemonFromLocalStorage (pokemonId) {
@@ -71,4 +76,4 @@ class FetchPokemon extends Component {
   }
 }
 
-export default FetchPokemon
+export default connect(mapStateToProps)(FetchPokemon)
