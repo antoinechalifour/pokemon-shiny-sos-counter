@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 
-class Moves extends Component {
+class MovesPanel extends Component {
   static propTypes = {
     level: PropTypes.number,
     moves: PropTypes.arrayOf(
@@ -132,4 +132,4 @@ const Move = styled.li`
   }
 `
 
-export default Moves
+export default MovesPanel

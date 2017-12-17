@@ -3,7 +3,9 @@ import styled from 'styled-components'
 import { Route, withRouter } from 'react-router-dom'
 import { shadeColor } from 'util/colors'
 import SearchPokemon from 'components/SearchPokemon'
-import Sos from 'components/Sos'
+import FetchPokemon from 'components/Pokemon/Fetch'
+import Pokemon from 'components/Pokemon'
+import Loader from 'components/Pokemon/Loader'
 
 const Wrapper = styled.div`
   font-family: 'Lato', sans-serif;
@@ -58,9 +60,10 @@ class App extends Component {
         <Route
           path='/pokemon/:id'
           render={({ match }) => (
-            <Sos
+            <FetchPokemon
               pokemonId={Number(match.params.id)}
-              updateTheme={this.updateTheme}
+              render={({ pokemon }) =>
+                (pokemon ? <Pokemon {...pokemon} /> : <Loader />)}
             />
           )}
         />

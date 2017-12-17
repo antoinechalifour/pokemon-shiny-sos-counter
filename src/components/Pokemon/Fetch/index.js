@@ -1,13 +1,11 @@
-import React, { Component } from 'react'
+import { Component } from 'react'
 import PropTypes from 'prop-types'
 import axios from 'axios'
-import Loader from './Loader'
-import Chain from './Chain'
 
-class Sos extends Component {
+class FetchPokemon extends Component {
   static propTypes = {
     pokemonId: PropTypes.number.isRequired,
-    updateTheme: PropTypes.func.isRequired
+    render: PropTypes.func.isRequired
   }
 
   state = {
@@ -30,7 +28,7 @@ class Sos extends Component {
 
     this.setState({ pokemon })
 
-    this.props.updateTheme(pokemon.types[0].type)
+    // this.props.updateTheme(pokemon.types[0].type)
   }
 
   fetchPokemonFromLocalStorage (pokemonId) {
@@ -63,13 +61,14 @@ class Sos extends Component {
 
   componentWillReceiveProps (nextProps) {
     if (this.props.pokemonId !== nextProps.pokemonId) {
+      this.setState({ pokemon: null })
       this.synchronizePokemon(nextProps.pokemonId)
     }
   }
 
   render () {
-    return this.state.pokemon ? <Chain {...this.state.pokemon} /> : <Loader />
+    return this.props.render({ pokemon: this.state.pokemon })
   }
 }
 
-export default Sos
+export default FetchPokemon

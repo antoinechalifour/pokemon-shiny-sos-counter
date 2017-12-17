@@ -1,0 +1,5 @@
+
+Todo:
+  ☐ Refactor SOS component structure
+  ☐ Extract theming behaviour in its own component
+  ☐ Extract model parts into its own component
