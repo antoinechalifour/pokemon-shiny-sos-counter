@@ -95,6 +95,7 @@ const colorMap = {
   steel: '#CFD8DC',
   fairy: '#F8BBD0',
   bug: '#F0F4C3',
+  electric: '#FFF9C4',
   fighting: '#FFECB3'
 }
 
