@@ -34,7 +34,7 @@ class MovesPanel extends Component {
   }
 
   state = {
-    level: 100
+    level: ''
   }
 
   get moves () {
@@ -68,16 +68,24 @@ class MovesPanel extends Component {
       // For that, we will sort moves by DESC. order,
       // removes the ones above the current level,
       // and take ~4 moves.
-      // possibleMoves = sunMoonMoves.filter()
+
+      // Remove moves from birth
+
       possibleMoves = possibleMoves.filter(({ version_group_details }) =>
         version_group_details.some(
           ({ level_learned_at }) => level_learned_at < this.state.level
         )
       )
 
-      possibleMoves = [
-        ...possibleMoves
-      ].sort(
+      possibleMoves = [...possibleMoves]
+
+      possibleMoves.forEach(move => {
+        move.version_group_details = move.version_group_details.filter(
+          ({ level_learned_at }) => level_learned_at !== 0
+        )
+      })
+
+      possibleMoves.sort(
         (
           { version_group_details: move1 },
           { version_group_details: move2 }
