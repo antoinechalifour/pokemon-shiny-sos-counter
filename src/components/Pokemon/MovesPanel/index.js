@@ -4,6 +4,12 @@ import styled from 'styled-components'
 import Input from 'components/ui/Input'
 import PanelTitle from 'components/Pokemon/PanelTitle'
 
+const formatMoveName = name => {
+  const withoutSlashes = name.split('-').join(' ')
+
+  return `${withoutSlashes[0].toUpperCase()}${withoutSlashes.slice(1)}`
+}
+
 class MovesPanel extends Component {
   static propTypes = {
     level: PropTypes.number,
@@ -118,7 +124,7 @@ class MovesPanel extends Component {
         <Moves>
           {this.moves.map(({ name, levels }) => (
             <Move key={name}>
-              <span>{name}</span>{' '}
+              <span>{formatMoveName(name)}</span>{' '}
               <span>
                 {levels.map(level => this.getLevelLabel(level)).join(' | ')}
               </span>
