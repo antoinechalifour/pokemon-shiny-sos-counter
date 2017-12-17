@@ -21,6 +21,14 @@ class Chain extends Component {
     hasShinyCharm: this.fetchShinyCharmFromLocalStorage()
   }
 
+  componentDidMount () {
+    window.addEventListener('keyup', this.onKeyUp)
+  }
+
+  componentWillUnmount () {
+    window.removeEventListener('keyup', this.onKeyUp)
+  }
+
   get chainKey () {
     return `encounters:${this.props.id}`
   }
@@ -39,6 +47,22 @@ class Chain extends Component {
     const charm = window.localStorage.getItem(this.shinyCharmKey)
 
     return charm && charm !== 'false'
+  }
+
+  onKeyUp = e => {
+    const keyCode = e.keyCode
+    const commands = {
+      13: this.onIncrement, // ENTER
+      32: this.onIncrement, // SPACE
+      38: this.onIncrement, // UP
+      39: this.onIncrement, // RIGHT
+      37: this.onDecrement, // LEFT
+      40: this.onDecrement // BOTTOM
+    }
+
+    if (e.target.tagName === 'BODY' && commands[keyCode]) {
+      commands[keyCode]()
+    }
   }
 
   onShinyCharmChange = () =>
