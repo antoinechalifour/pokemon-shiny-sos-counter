@@ -15,7 +15,7 @@ const Wrapper = styled.div`
   flex-direction: column;
   justify-content: center;
   height: 100vh;
-  background: ${({ color }) => color || '#f7f7f9'};
+  background: #f7f7f9;
   color: #373d3f;
   transition: background .3s ease-in;
 `
@@ -29,33 +29,9 @@ class App extends Component {
     this.props.history.push(`/pokemon/${pokemonId}`)
   }
 
-  updateTheme = type => {
-    const colorMap = {
-      water: '#0D47A1',
-      psychic: '#880E4F',
-      poison: '#4A148C',
-      ground: '#3E2723',
-      flying: '#FAFAFA',
-      normal: '#FAFAFA',
-      fire: '#B71C1C',
-      dragon: '#1A237E',
-      ice: '#01579B',
-      dark: '#212121',
-      fairy: '#AD1457',
-      bug: '#827717',
-      fighting: '#BF360C'
-    }
-
-    if (colorMap[type.name]) {
-      this.setState({ color: shadeColor(colorMap[type.name], -0.65) })
-    } else {
-      console.warn('No theme for type', type)
-    }
-  }
-
   render () {
     return (
-      <Wrapper color={this.state.color}>
+      <Wrapper>
         <SearchPokemon onPokemon={this.onPokemon} />
         <Route
           path='/pokemon/:id'
