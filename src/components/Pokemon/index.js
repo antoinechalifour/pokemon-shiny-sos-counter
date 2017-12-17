@@ -6,10 +6,12 @@ import ProbabilitiesPanel from 'components/Pokemon/ProbabilitiesPanel'
 import ChainPanel from 'components/Pokemon/ChainPanel'
 import MovesPanel from 'components/Pokemon/MovesPanel'
 import Shortcuts from 'components/Pokemon/Shortcuts'
+import StreamerMode from 'components/Pokemon/StreamerMode'
 
 const Pokemon = props => (
   <Wrapper>
     <Shortcuts id={props.id} />
+    <StreamerMode id={props.id} sprite={props.sprites.front_shiny} />
     <Card>
       <div>
         <OptionsPanel id={props.id} />

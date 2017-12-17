@@ -13,7 +13,8 @@ import registerServiceWorker from './registerServiceWorker'
 const defaultState = {
   theme: '',
   hasShinyCharm: false,
-  chains: {}
+  chains: {},
+  streamerMode: false
 }
 let initialState
 

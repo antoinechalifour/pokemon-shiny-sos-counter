@@ -9,6 +9,7 @@ import PanelTitle from 'components/Pokemon/PanelTitle'
 const mapStateToProps = (state, props, applyUpdate) => {
   return {
     hasShinyCharm: state.hasShinyCharm,
+    isStreamerMode: state.streamerMode,
     toggleShinyCharm: applyUpdate(() => ({
       hasShinyCharm: !state.hasShinyCharm
     })),
@@ -17,11 +18,21 @@ const mapStateToProps = (state, props, applyUpdate) => {
         ...state.chains,
         [props.id]: 0
       }
+    })),
+    toggleStreamerMode: applyUpdate(() => ({
+      streamerMode: !state.streamerMode
     }))
   }
 }
 
-const OptionsPanel = ({ id, hasShinyCharm, toggleShinyCharm, resetChain }) => (
+const OptionsPanel = ({
+  id,
+  hasShinyCharm,
+  isStreamerMode,
+  toggleShinyCharm,
+  resetChain,
+  toggleStreamerMode
+}) => (
   <Wrapper>
     <PanelTitle>Settings</PanelTitle>
     <Option>
@@ -38,6 +49,17 @@ const OptionsPanel = ({ id, hasShinyCharm, toggleShinyCharm, resetChain }) => (
     <Option onClick={resetChain}>
       <DeleteIcon />
       &nbsp;Reset Chain
+    </Option>
+    <Option>
+      <label htmlFor='his-streamer-mode'>
+        <Checkbox
+          id='his-streamer-mode'
+          type='checkbox'
+          checked={isStreamerMode}
+          onChange={toggleStreamerMode}
+        />
+        &nbsp;&nbsp;&nbsp;Streamer mode
+      </label>
     </Option>
   </Wrapper>
 )
