@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
+import Input from 'components/ui/Input'
 import PanelTitle from 'components/Pokemon/PanelTitle'
 
 class MovesPanel extends Component {
@@ -24,6 +25,10 @@ class MovesPanel extends Component {
         ).isRequired
       })
     ).isRequired
+  }
+
+  state = {
+    level: null
   }
 
   get moves () {
@@ -51,7 +56,7 @@ class MovesPanel extends Component {
 
     let possibleMoves = sunMoonMoves
 
-    if (this.props.level) {
+    if (this.state.level) {
       // If the user entered a Pokemon level, then
       // we need to filter only possible moves.
       // For that, we will sort moves by DESC. order,
@@ -60,7 +65,7 @@ class MovesPanel extends Component {
       // possibleMoves = sunMoonMoves.filter()
       possibleMoves = possibleMoves.filter(({ version_group_details }) =>
         version_group_details.some(
-          ({ level_learned_at }) => level_learned_at < this.props.level
+          ({ level_learned_at }) => level_learned_at < this.state.level
         )
       )
 
@@ -98,10 +103,18 @@ class MovesPanel extends Component {
     }
   }
 
+  onLevelChange = e => this.setState({ level: e.target.value })
+
   render () {
     return (
       <Wrapper>
         <PanelTitle>Possible Moves</PanelTitle>
+        <LevelInput
+          type='number'
+          placeholder='Pokemon level'
+          value={this.state.level}
+          onChange={this.onLevelChange}
+        />
         <Moves>
           {this.moves.map(({ name, levels }) => (
             <Move key={name}>
@@ -121,6 +134,20 @@ const Wrapper = styled.div`
   flex: 1;
   display: flex;
   flex-direction: column;
+`
+
+const LevelInput = styled(Input)`
+  background: rgba(0, 0, 0, .33);
+  border: none;
+  outline: none;
+  color: #313131;
+  margin: 8px auto;
+  padding: 8px 12px;
+  border-radius: 4px;
+
+  ::placeholder {
+    color: rgba(0, 0, 0, .5);
+  }
 `
 
 const Moves = styled.ul`
