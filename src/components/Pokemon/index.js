@@ -34,14 +34,11 @@ Pokemon.propTypes = {
 
 const Wrapper = styled.div`
   flex: 1;
-  display: flex;
-  max-height: 500px;
-  flex-direction: column;
   width: 95%;
   max-width: 860px;
   margin: auto;
-  padding: 24px;
-  padding-top: 0;
+  overflow-y: auto;
+  padding: 24px 0;
 `
 
 const Card = styled.div`
@@ -51,16 +48,22 @@ const Card = styled.div`
   border-radius: 4px;
   flex: 1;
   display: flex;
+  flex-direction: column;
+
+  @media (min-width: 860px) {
+    flex-direction: row;
+    max-height: 500px;
+
+    > div + div {
+      border-left: 1px solid rgba(0, 0, 0, .15);
+    }
+  }
 
   > div {
     flex: 1;
     padding: 12px;
     display: flex;
     flex-direction: column;
-  }
-
-  > div + div {
-    border-left: 1px solid rgba(0, 0, 0, .15);
   }
 `
 

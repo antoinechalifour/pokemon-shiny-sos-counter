@@ -101,6 +101,8 @@ const colorMap = {
 
 const Wrapper = styled.div`
   padding: 12px;
+  position: relative;
+  z-index: 1;
   transition: background .3s ease-in;
 
   ${({ theme }) => {
@@ -115,7 +117,8 @@ const Wrapper = styled.div`
 
 const Inner = styled.div`
   position: relative;
-  width: 550px;
+  width: 98%;
+  max-width: 550px;
   margin: auto;
 `
 
