@@ -45,7 +45,7 @@ class Shortcuts extends Component {
       40: this.props.decrement // DOWN
     }
 
-    if (e.target.tagName !== 'INPUT') {
+    if (e.target.tagName !== 'INPUT' && commands[e.keyCode]) {
       commands[e.keyCode]()
     }
   }
