@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import DeleteIcon from 'react-icons/lib/md/delete'
 import Checkbox from 'components/ui/Checkbox'
 import connect from 'components/State/connect'
+import PanelTitle from 'components/Pokemon/PanelTitle'
 
 const mapStateToProps = (state, props, applyUpdate) => {
   return {
@@ -22,7 +23,7 @@ const mapStateToProps = (state, props, applyUpdate) => {
 
 const OptionsPanel = ({ id, hasShinyCharm, toggleShinyCharm, resetChain }) => (
   <Wrapper>
-
+    <PanelTitle>Settings</PanelTitle>
     <Option>
       <label htmlFor='has-shiny-charm'>
         <Checkbox

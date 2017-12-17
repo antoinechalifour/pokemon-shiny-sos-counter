@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import connect from 'components/State/connect'
+import PanelTitle from 'components/Pokemon/PanelTitle'
 
 const mapStateToProps = (state, props, applyUpdate) => ({
   hasShinyCharm: state.hasShinyCharm,
@@ -23,7 +24,7 @@ const ProbabilitiesPanel = ({ hasShinyCharm, chain: fullChain }) => {
 
   return (
     <Wrapper>
-
+      <PanelTitle>Stats</PanelTitle>
       <Label>Probability</Label>
       <Prob>1/{odds}</Prob>
       <Label>B(n, p)</Label>

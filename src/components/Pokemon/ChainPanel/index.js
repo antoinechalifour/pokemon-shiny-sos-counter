@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
 import connect from 'components/State/connect'
+import PanelTitle from 'components/Pokemon/PanelTitle'
 
 const updateChain = fn => id => state => ({
   chains: {
@@ -26,6 +27,7 @@ const mapStateToProps = (state, props, applyUpdate) => {
 
 const ChainPanel = ({ chain, sprite, increment, decrement }) => (
   <Wrapper>
+    <PanelTitle>SOS Chain</PanelTitle>
     <Sprite src={sprite} />
     <Counter>{chain}</Counter>
     <Actions>

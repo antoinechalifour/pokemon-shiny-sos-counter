@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import styled from 'styled-components'
+import PanelTitle from 'components/Pokemon/PanelTitle'
 
 class MovesPanel extends Component {
   static propTypes = {
@@ -100,22 +101,31 @@ class MovesPanel extends Component {
   render () {
     return (
       <Wrapper>
-        {this.moves.map(({ name, levels }) => (
-          <Move key={name}>
-            <span>{name}</span>{' '}
-            <span>
-              {levels.map(level => this.getLevelLabel(level)).join(' | ')}
-            </span>
-          </Move>
-        ))}
+        <PanelTitle>Possible Moves</PanelTitle>
+        <Moves>
+          {this.moves.map(({ name, levels }) => (
+            <Move key={name}>
+              <span>{name}</span>{' '}
+              <span>
+                {levels.map(level => this.getLevelLabel(level)).join(' | ')}
+              </span>
+            </Move>
+          ))}
+        </Moves>
       </Wrapper>
     )
   }
 }
 
-const Wrapper = styled.ul`
+const Wrapper = styled.div`
   flex: 1;
+  display: flex;
+  flex-direction: column;
+`
+
+const Moves = styled.ul`
   overflow-y: auto;
+  flex: 1;
 `
 
 const Move = styled.li`
