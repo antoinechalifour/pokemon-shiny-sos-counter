@@ -103,12 +103,12 @@ const Wrapper = styled.div`
   transition: background .3s ease-in;
 
   ${({ theme }) => {
-    const background = colorMap[theme] || 'transparent'
+    const background = colorMap[theme]
 
-    return `
+    return background ? `
       background: ${background};
       box-shadow: 0 1px 3px rgba(0, 0, 0, .24);
-    `
+    ` : null
   }}
 `
 

@@ -11,7 +11,7 @@ import logStateChanges from 'state/log'
 import registerServiceWorker from './registerServiceWorker'
 
 const defaultState = {
-  theme: 'normal',
+  theme: '',
   hasShinyCharm: false,
   chains: {}
 }
@@ -22,6 +22,7 @@ try {
 
   if (fromStorage) {
     initialState = JSON.parse(fromStorage)
+    initialState.theme = ''
   } else {
     initialState = defaultState
   }
