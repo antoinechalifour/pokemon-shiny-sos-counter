@@ -5,9 +5,11 @@ import OptionsPanel from 'components/Pokemon/OptionsPanel'
 import ProbabilitiesPanel from 'components/Pokemon/ProbabilitiesPanel'
 import ChainPanel from 'components/Pokemon/ChainPanel'
 import MovesPanel from 'components/Pokemon/MovesPanel'
+import Shortcuts from 'components/Pokemon/Shortcuts'
 
 const Pokemon = props => (
   <Wrapper>
+    <Shortcuts id={props.id} />
     <Card>
       <div>
         <OptionsPanel id={props.id} />
